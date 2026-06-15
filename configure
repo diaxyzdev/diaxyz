@@ -1,0 +1,208 @@
+#!/bin/bash
+set -o errexit
+
+
+usage() {
+    echo 'usage'
+}
+
+main() {
+    SRCDIR_ABS="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" 2>/dev/null && pwd)"
+
+    # Author
+    simba_define_btime_envar APP_AUTHOR_NAME 'diaxyz'
+    simba_define_btime_envar APP_AUTHOR_ID 'diaxyz'
+    simba_define_btime_envar APP_AUTHOR_EMAIL 'admin@diaxyz.com'
+    simba_define_btime_envar APP_AUTHOR_HOME_URL 'https://github.com/pnoulis'
+
+    # Package
+    simba_define_btime_envar APP_NAME 'diaxyz'
+    simba_define_btime_envar APP_ID 'diaxyz'
+    simba_define_btime_envar APP_PRETTY_NAME 'diaxyz'
+    simba_define_btime_envar APP_VERSION "0.0.1"
+    simba_define_btime_envar APP_VVERSION "v0.0.1"
+    simba_define_btime_envar APP_REPO_TYPE 'git'
+    simba_define_btime_envar APP_REPO_URL 'https://github.com/diaxyzdev/diaxyz'
+    simba_define_btime_envar APP_HOME_URL 'https://github.com/diaxyzdev/diaxyz'
+    simba_define_btime_envar APP_DOCUMENTATION_URL 'https://github.com/diaxyzdev/diaxyz#readme'
+    simba_define_btime_envar APP_BUG_REPORT_URL 'https://github.com/diaxyzdev/diaxyz/issues'
+    simba_define_btime_envar APP_SUPPORT_URL 'https://github.com/diaxyzdev/diaxyz'
+
+    # Perform important tasks
+    simba_reset_ifs
+    simba_log_configure_output
+    simba_resolve_os
+    simba_resolve_os_dependencies
+    simba_resolve_buildir "${BASH_SOURCE[0]}"
+
+    # Parse user options
+    simba_define_btime_envar MODE 'production'
+    simba_cli_parse_options "$@"
+
+    # Define installation directories
+    if test -z "$SIMBA_INSTALLDIRS"; then
+        simba_define_installdirs_gnu
+    else
+        case "$SIMBA_INSTALLDIRS" in
+            gnu) simba_define_installdirs_gnu ;;
+            xdg) simba_define_installdirs_xdg ;;
+            *) simba_fatal "Unsupported installdirs value: '$SIMBA_INSTALLDIRS'"
+        esac
+    fi
+
+    # Define program name
+    PROGRAM_TRANSFORM_NAME='s,x,x,'
+    if simba_nempty PROGRAM_PREFIX; then
+        PROGRAM_TRANSFORM_NAME="s&^&$PROGRAM_PREFIX&;$PROGRAM_TRANSFORM_NAME"
+    fi
+    if simba_nempty PROGRAM_SUFFIX; then
+        PROGRAM_TRANSFORM_NAME="s&\$&$PROGRAM_SUFFIX&;$PROGRAM_TRANSFORM_NAME"
+    fi
+    simba_define_btime_envar PROGRAM_NAME "$(echo "$APP_ID" | sed "$PROGRAM_TRANSFORM_NAME")"
+
+    # Generate macros and makefile
+    simba_define_ctime_envar SIMBA_CONFIG_MAKEFILE_IN "${SRCROOTDIR}/Makefile.in"
+    simba_define_ctime_envar SIMBA_CONFIG_MACROSFILE "${BUILDROOTDIR}/config.macros.m4"
+    simba_define_ctime_envar SIMBA_CONFIG_MAKEFILE "${BUILDROOTDIR}/Makefile"
+    simba_create_macrosfile
+    simba_create_makefile
+}
+
+
+simba_create_macrosfile() {
+    simba_print "Creating macrosfile...|$SIMBA_CONFIG_MACROSFILE"
+    echo "changequote([[[, ]]])dnl" > $SIMBA_CONFIG_MACROSFILE
+    echo "changecom([[[/*/]]], [[[*//]]])dnl" >> $SIMBA_CONFIG_MACROSFILE
+    while IFS='=' read -r name value; do
+        echo "define([[[$name]]], [[[$value]]])dnl" >> $SIMBA_CONFIG_MACROSFILE
+    done <<< "$SIMBA_CONFIG_TIME_ENV"
+    echo "define([[[__BUILD_TIME_ENV_M4_DEFINES__]]], [[[$SIMBA_BUILD_TIME_ENV_M4_DEFINES]]])dnl" >> $SIMBA_CONFIG_MACROSFILE
+    echo "define([[[__BUILD_TIME_ENV__]]], [[[\"$SIMBA_BUILD_TIME_ENV\"]]])dnl" >> $SIMBA_CONFIG_MACROSFILE
+}
+
+simba_create_makefile() {
+    simba_print "Creating Makefile...|$SIMBA_CONFIG_MAKEFILE"
+    m4 $SIMBA_CONFIG_MACROSFILE $SIMBA_CONFIG_MAKEFILE_IN > $SIMBA_CONFIG_MAKEFILE
+}
+
+simba_cli_parse_param() {
+    _param=
+    local param arg
+    local -i toshift=0
+
+    if (($# == 0)); then
+        return $toshift
+    elif [[ "$1" =~ .*=.* ]]; then
+        param="${1%%=*}"
+        arg="${1#*=}"
+    elif [[ "${2-}" =~ ^[^-].+ ]]; then
+        param="$1"
+        arg="$2"
+        ((toshift++))
+    fi
+
+
+    if [[ -z "${arg-}" && ! "${OPTIONAL-}" ]]; then
+        simba_fatal "${param:-$1} requires an argument"
+    fi
+
+    _param="${arg:-}"
+    return $toshift
+}
+
+simba_cli_parse_options() {
+    declare -ga POSARGS=()
+    _param=
+    while (($# > 0)); do
+        case "${1:-}" in
+            --mode | --mode=*)
+                simba_cli_parse_param "$@" || shift $?
+                simba_define_btime_envar MODE "$_param"
+                ;;
+            --prod | --production)
+                simba_define_btime_envar MODE 'production'
+                ;;
+            --dev | --development)
+                simba_define_btime_envar MODE 'development'
+                ;;
+            --installdirs | --installdirs=*)
+                simba_cli_parse_param "$@" || shift $?
+                SIMBA_INSTALLDIRS="$_param"
+                ;;
+            --prefix | --prefix=*)
+                simba_cli_parse_param "$@" || shift $?
+                simba_define_btime_envar prefix "$_param"
+                ;;
+            --datarootdir | --datarootdir=*)
+                simba_cli_parse_param "$@" || shift $?
+                simba_define_btime_envar datarootdir "$_param"
+                ;;
+            --datadir | --datadir=*)
+                simba_cli_parse_param "$@" || shift $?
+                simba_define_btime_envar datadir "$_param"
+                ;;
+
+            --buildir | --buildir=*)
+                simba_cli_parse_param "$@" || shift $?
+                simba_define_btime_envar BUILDIR_ABS "$(realpath -m "$_param")"
+                simba_define_btime_envar BUILDIR "$(realpath -m --relative-to="$BUILDROOTDIR_ABS" "$BUILDIR_ABS")"
+                ;;
+            --distdir | --distdir=*)
+                simba_cli_parse_param "$@" || shift $?
+                simba_define_btime_envar DISTDIR_ABS "$(realpath -m "$_param")"
+                simba_define_btime_envar DISTDIR "$(realpath -m --relative-to="$BUILDROOTDIR_ABS" "$DISTDIR_ABS")"
+                ;;
+            --program-prefix | --program-prefix=*)
+                simba_cli_parse_param "$@" || shift $?
+                PROGRAM_PREFIX="$_param"
+                ;;
+            --program-suffix | --program-suffix=*)
+                simba_cli_parse_param "$@" || shift $?
+                PROGRAM_SUFFIX="$_param"
+                ;;
+            -h | --help)
+                usage
+                exit 0
+                ;;
+            -[a-zA-Z][a-zA-Z]*)
+                local i="${1:-}"
+                shift
+                local rest="$@"
+                set --
+                for i in $(echo "$i" | grep -o '[a-zA-Z]'); do
+                    set -- "$@" "-$i"
+                done
+                set -- $@ $rest
+                continue
+                ;;
+            --)
+                shift
+                POSARGS+=("$@")
+                ;;
+            -[a-zA-Z]* | --[a-zA-Z]*)
+                simba_fatal "Unrecognized argument ${1:-}"
+                ;;
+            *)
+                POSARGS+=("${1:-}")
+                ;;
+        esac
+        shift
+    done
+    unset _param
+}
+
+source '.simba/array.sh'
+source '.simba/versions.sh'
+source '.simba/cli-args.sh'
+source '.simba/debug.sh'
+source '.simba/envars.sh'
+source '.simba/utils.sh'
+source '.simba/installdirs-xdg.sh'
+source '.simba/mode.sh'
+source '.simba/url.sh'
+source '.simba/installdirs-gnu.sh'
+source '.simba/os.sh'
+source '.simba/buildir.sh'
+source '.simba/dictionary.sh'
+
+main "$@"

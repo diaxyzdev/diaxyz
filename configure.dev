@@ -1,0 +1,12 @@
+#!/bin/bash
+
+options=(
+    --dev
+    --installdirs=gnu
+    --buildir=build
+    --prefix='${BUILDIR_ABS}'
+    --datarootdir='${SRCROOTDIR_ABS}'
+    --datadir='${SRCDIR_ABS}'
+)
+
+./configure "${options[@]}"

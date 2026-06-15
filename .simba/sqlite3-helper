@@ -1,0 +1,417 @@
+#!/bin/bash
+set -o errexit
+
+usage() {
+    cat<<EOF
+NAME
+        sqlite3.sh - A wrapper script to the sqlite3 database
+
+
+SYNOPSIS
+        sqlite3.sh [OPTION]... --db-file=<path> --db-name=<name> <command> [output_path]
+
+DESCRIPTION
+        sqlite3.sh is a wrapper script to sqlite3 that implements
+        frequently needed operations in an applications lifecyle.
+
+EXAMPLES
+EOF
+}
+
+
+DEBUG=1
+DB_PATH=
+DB_NAME=
+SQLITE3FLAGS=
+TABLE_SPLIT=false
+# ISO-8601 compliant date in UTC
+DATETIME_NOW=$(date +%Y-%m-%dT%H:%M:%SZ --utc)
+# compact ISO-8601 compliant date in UTC
+DATETIME_NOW_COMPACT=$(date +%Y%m%dT%H%M%SZ --utc)
+DEFAULT_FILENAME_OUTPUT_TEMPLATE='dump-${DATETIME_NOW_COMPACT}.${DB_NAME}${table:+-$table}.${ext}'
+SUBCOMMAND=
+INPUT_FILEPATH=
+OUTPUT_TEMPLATE=
+EXPORT_FORMAT=
+
+main() {
+    simba_cli_parse_options "$@"
+    set -- "${POSARGS[@]}"
+
+    simba_empty "$DB_PATH" && simba_fatal "Missing database path: --db-path"
+    simba_empty "$DB_NAME" && simba_fatal "Missing database name: --db-name"
+    if simba_undefined SUBCOMMAND && simba_empty "$SUBCOMMAND"; then
+        simba_fatal "Missing command: create,seed,backup,dump,export"
+    fi
+    simba_debugv DB_PATH
+    simba_debugv DB_NAME
+    subcommand_$SUBCOMMAND "$@"
+}
+
+subcommand_create() {
+    parse_input_file "$1"
+    simba_debug_unless_pipe 'Creating database...'
+    sqlite3 $SQLITE3FLAGS "$DB_PATH" < "$INPUT_FILEPATH"
+    simba_debug_unless_pipe "$DB_PATH"
+}
+
+subcommand_seed() {
+    ! test -f "$DB_PATH" && simba_fatal "Database file path is not a file"
+    parse_input_file "$1"
+    simba_debug_unless_pipe 'Seeding database...'
+    sqlite3 $SQLITE3FLAGS "$DB_PATH" < "$INPUT_FILEPATH"
+    simba_debug_unless_pipe "$DB_PATH"
+}
+
+subcommand_backup() {
+    ! test -f "$DB_PATH" && simba_fatal "Database file path is not a file"
+    parse_output_file "$1"
+    ext=sqlite3
+
+    if test "$OUTPUT_TEMPLATE" == /dev/stdout; then
+        simba_fatal "Cannot redirect binary backup"
+    fi
+
+    simba_debug_unless_pipe 'Creating database backup...'
+    sqlite3 $SQLITE3FLAGS "$DB_PATH" ".backup main $(expand_output_template)"
+    simba_print_unless_pipe "$(expand_output_template)"
+}
+
+subcommand_dump() {
+    ! test -f "$DB_PATH" && simba_fatal "Database file path is not a file"
+    parse_output_file "$1"
+    ext=sql
+
+    if simba_false "$TABLE_SPLIT"; then
+        simba_debug_unless_pipe 'Creating database dump...'
+        sqlite3 $SQLITE3FLAGS "$DB_PATH" ".dump" > "$(expand_output_template)"
+        simba_print_unless_pipe "$(expand_output_template)"
+        exit 0
+    fi
+
+    match_tables
+
+    simba_debug_unless_pipe 'Creating database dump...'
+    for table in ${tables[@]}; do
+        sqlite3 $SQLITE3FLAGS "$DB_PATH" ".dump $table" > "$(expand_output_template)"
+        simba_print_unless_pipe "$(expand_output_template)"
+    done
+}
+
+subcommand_export() {
+    ! test -f "$DB_PATH" && simba_fatal "Database file path is not a file"
+    simba_empty "$EXPORT_FORMAT" && simba_fatal "Unspecified export format"
+    simba_debugv EXPORT_FORMAT
+    ext=${EXPORT_FORMAT}
+
+    parse_output_file "$1"
+
+    if test "$TABLE_SPLIT" == false; then
+        TABLE_SPLIT=all
+    fi
+    match_tables
+    simba_debug_unless_pipe "Exporting to ${EXPORT_FORMAT}..."
+    for table in ${tables[@]}; do
+        sqlite3 $SQLITE3FLAGS "$DB_PATH" <<<"
+.headers on
+.mode ${EXPORT_FORMAT}
+SELECT * FROM $table
+" > "$(expand_output_template)"
+        simba_print_unless_pipe "$(expand_output_template)"
+    done
+}
+
+parse_input_file() {
+    if test -p /dev/stdin || ! test -t 0; then
+        # Input is being piped or redirected
+        INPUT_FILEPATH=/dev/stdin
+    else
+        set +o errexit
+        if ! test -f "$1"; then
+            simba_fatal "Input path is not a file"
+        fi
+        INPUT_FILEPATH=$1
+        set -o errexit
+    fi
+    simba_debugv INPUT_FILEPATH
+}
+
+parse_output_file() {
+    local output_dirname=
+    local output_filename=
+
+    if test -p /dev/stdout || ! test -t 1; then
+        # Output is being piped or redirected
+        output_dirname=/dev
+        output_filename=stdout
+    elif test -d "$1"; then
+        output_dirname=$1
+    elif simba_nempty "$1"; then
+        case "$1" in
+            */*)
+                output_dirname="${1%/*}"
+                output_filename="${1##*/}"
+                ;;
+            *)
+                output_dirname=.
+                output_filename=$1
+                ;;
+        esac
+    else
+        output_dirname=.
+    fi
+
+    if ! test -d "$output_dirname"; then
+        simba_fatal "Output directory does not exist"
+    fi
+
+    if simba_empty "$output_filename"; then
+        output_filename="$DEFAULT_FILENAME_OUTPUT_TEMPLATE"
+    fi
+    # replace multiple occurrences of slash(//...) with one
+    output_dirname="$(echo "$output_dirname" | sed 's|///*|/|g')"
+    output_dirname="$(echo "$output_dirname" | sed 's|/$||')"
+    OUTPUT_TEMPLATE="${output_dirname}/${output_filename}"
+    OUTPUT_TEMPLATE_RELATIVE="$(realpath -m --relative-to=. "$OUTPUT_TEMPLATE")"
+}
+
+expand_output_template() {
+    if test "$OUTPUT_TEMPLATE" == /dev/stdout; then
+        OUTPUT_FILEPATH=/dev/stdout
+    else
+        OUTPUT_FILEPATH="$(eval echo "$OUTPUT_TEMPLATE_RELATIVE")"
+    fi
+    simba_debugv OUTPUT_FILEPATH
+    echo "$OUTPUT_FILEPATH"
+}
+
+match_tables() {
+    if test "$TABLE_SPLIT" == all; then
+        tables="$(sqlite3 "$DB_PATH" '.tables')"
+    else
+        local sql_tables="$(sqlite3 "$DB_PATH" '.tables')"
+        tables=()
+        for table in ${TABLE_SPLIT/,/ }; do
+            local exists=false
+            for sql_table in ${sql_tables[@]}; do
+                if test $table == $sql_table; then
+                    exists=true
+                    break
+                fi
+            done
+            if simba_false $exists; then
+                simba_fatal "Missing table: $table"
+            fi
+            tables+=($table)
+        done
+    fi
+}
+
+simba_cli_parse_param() {
+    _param=
+    local param arg
+    local -i toshift=0
+
+    if (($# == 0)); then
+        return $toshift
+    elif [[ "$1" =~ .*=.* ]]; then
+        param="${1%%=*}"
+        arg="${1#*=}"
+    elif [[ "${2-}" =~ ^[^-].+ ]]; then
+        param="$1"
+        arg="$2"
+        ((toshift++))
+    fi
+
+
+    if [[ -z "${arg-}" && ! "${OPTIONAL-}" ]]; then
+        simba_fatal "${param:-$1} requires an argument"
+    fi
+
+    _param="${arg:-}"
+    return $toshift
+}
+
+simba_cli_parse_options() {
+    declare -ga POSARGS=()
+    _param=
+    while (($# > 0)); do
+        case "${1:-}" in
+            --db-path | --db-path=*)
+                simba_cli_parse_param "$@" || shift $?
+                DB_PATH="$_param"
+                ;;
+            --db-name | --db-name=*)
+                simba_cli_parse_param "$@" || shift $?
+                DB_NAME="$_param"
+                ;;
+            --sqlite3flags | --sqlite3flags=*)
+                simba_cli_parse_param "$@" || shift $?
+                SQLITE3FLAGS="$_param"
+                ;;
+            --table-split | --table-split=*)
+                simba_cli_parse_param "$@" || shift $?
+                TABLE_SPLIT="${_param}"
+                ;;
+            --export-format | --export-format=*)
+                simba_cli_parse_param "$@" || shift $?
+                EXPORT_FORMAT="$_param"
+                ;;
+            create) # input sql-file
+                SUBCOMMAND=create
+                ;;
+            seed) # input sql-file
+                SUBCOMMAND=seed
+                ;;
+            dump) # table-split
+                SUBCOMMAND=dump
+                ;;
+            backup) # table-split
+                SUBCOMMAND=backup
+                ;;
+            'export') # table-split
+                SUBCOMMAND=export
+                ;;
+            -h | --help)
+                usage
+                exit 0
+                ;;
+            -[a-zA-Z][a-zA-Z]*)
+                local i="${1:-}"
+                shift
+                local rest="$@"
+                set --
+                for i in $(echo "$i" | grep -o '[a-zA-Z]'); do
+                    set -- "$@" "-$i"
+                done
+                set -- $@ $rest
+                continue
+                ;;
+            --)
+                shift
+                POSARGS+=("$@")
+                ;;
+            *)
+                POSARGS+=("${1:-}")
+                ;;
+        esac
+        shift
+    done
+    unset _param
+}
+
+simba_undefined() {
+    return $(test -z "${!1+x}")
+}
+
+simba_defined() {
+    return $(test -n "${!1+x}")
+}
+
+simba_empty() {
+    return $(test -z "${1}")
+}
+
+simba_nempty() {
+    return $(test -n "${1}")
+}
+
+simba_true() {
+    return $(test "$1" == true || test "$1" == "0")
+}
+
+simba_false() {
+    return $(test "$1" == false || test "$1" == "1")
+}
+
+simba_fatal() {
+    echo "$0:" "$@"
+    exit 1
+}
+
+# $1 parameter must be quoted otherwise it will undergo expansion
+# before this function is invoked; meaning every space delimited text
+# within shall become a positional argument to the function: $1 -> $1,$2,$3...
+simba_trim() {
+    echo $1
+}
+
+simba_reset_ifs() {
+    # IFS needs to be set, to space, tab, and newline, in precisely that order.
+    # (If _AS_PATH_WALK were called with IFS unset, it would have the
+    # side effect of setting IFS to empty, thus disabling word splitting.)
+    # Quoting is to prevent editors from complaining about space-tab.
+    as_nl='
+    '
+    export as_nl
+    IFS=" ""	$as_nl"
+
+    PS1='$ '
+    PS2='> '
+    PS4='+ '
+
+    # Ensure predictable behavior from utilities with locale-dependent output.
+    LC_ALL=C
+    export LC_ALL
+    LANGUAGE=C
+    export LANGUAGE
+}
+
+simba_log_configure_output() {
+    rm -f config.log
+    exec > >(tee config.log)
+}
+
+# use mode.sh
+
+simba_debugv() {
+    ! simba_mode_in_debug && return
+    echo $1:"${!1}"
+}
+
+simba_debug() {
+    ! simba_mode_in_debug && return
+    echo -e "$@"
+}
+
+simba_debug_unless_pipe() {
+    ! test -t 1 && return
+    simba_debug "$@"
+}
+
+simba_debugv_unless_pipe() {
+    ! test -t 1 && return
+    simba_debugv "$@"
+}
+
+simba_print() {
+    echo -e "$@"
+}
+
+simba_print_unless_pipe() {
+    ! test -t 1 && return
+    simba_print "$@"
+}
+
+simba_mode_in_dev() {
+    return $(test "$MODE" == dev || test "$MODE" == development)
+}
+
+simba_mode_in_test() {
+    return $(test "$MODE" == test)
+}
+
+simba_mode_in_stag() {
+    return $(test "$MODE" == stag || test "$MODE" == staging)
+}
+
+simba_mode_in_prod() {
+    return $(test "$MODE" == prod || test "$MODE" == production)
+}
+
+simba_mode_in_debug() {
+    return $(test -n "${DEBUG+x}" && (test "$DEBUG" == true || test "$DEBUG" == "0"))
+}
+
+
+main "$@"
