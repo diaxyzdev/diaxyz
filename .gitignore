@@ -1,0 +1,36 @@
+/* Temporary files */
+tmp/
+*.tmp
+tmp.*
+forstorebg.com/**/*.html
+forstorebg.com/**/*.py
+
+/* Configuration artifacts */
+Makefile
+config.*
+
+/* Build artifacts */
+build/
+
+/* Distribution artifacts */
+dist/
+
+/* Environment variables */
+.env
+
+/* Emacs */
+.#*
+
+/* Node */
+node_modules
+package-lock.json
+
+/* Compilation artifacts */
+out.*
+
+/* Logs */
+*.log
+
+/* In vim the command `:w` saves a file. Sometimes, due to typing speed and
+wrong key presses I create a file instead of saving it. */
+:w
