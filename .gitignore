@@ -8,6 +8,7 @@ forstorebg.com/**/*.py
 /* Configuration artifacts */
 Makefile
 config.*
+!11ty/Makefile
 
 /* Build artifacts */
 build/
