@@ -324,7 +324,7 @@ stylesheets:
                     alt="BigArena"
                     class="PartnersSlider-module__IbjHEq__logo"
                     height="50"
-                    src="partners/bigarena.svg"
+                    src="/assets/partners/bigarena.svg"
                     style="color: transparent"
                     width="160"
                   />
@@ -337,7 +337,7 @@ stylesheets:
                     alt="Gottmar"
                     class="PartnersSlider-module__IbjHEq__logo"
                     height="50"
-                    src="partners/logo-gotmar.svg"
+                    src="/assets/partners/logo-gotmar.svg"
                     style="color: transparent"
                     width="160"
                   />
@@ -350,7 +350,7 @@ stylesheets:
                     alt="Bachkovo Spring Water"
                     class="PartnersSlider-module__IbjHEq__logo"
                     height="50"
-                    src="partners/bachkovo.png"
+                    src="/assets/partners/bachkovo.png"
                     style="color: transparent"
                     width="160"
                   />
@@ -363,7 +363,7 @@ stylesheets:
                     alt="St. Anne's Hospital"
                     class="PartnersSlider-module__IbjHEq__logo"
                     height="50"
-                    src="partners/umbal.png"
+                    src="/assets/partners/umbal.png"
                     style="color: transparent"
                     width="160"
                   />
@@ -376,7 +376,7 @@ stylesheets:
                     alt="FilStar"
                     class="PartnersSlider-module__IbjHEq__logo"
                     height="50"
-                    src="partners/filstar_logo.svg"
+                    src="/assets/partners/filstar_logo.svg"
                     style="color: transparent"
                     width="160"
                   />
@@ -389,7 +389,7 @@ stylesheets:
                     alt="TiS Groups"
                     class="PartnersSlider-module__IbjHEq__logo"
                     height="50"
-                    src="partners/Tis-groups-logo.png"
+                    src="/assets/partners/Tis-groups-logo.png"
                     style="color: transparent"
                     width="160"
                   />
@@ -402,7 +402,7 @@ stylesheets:
                     alt="HENKEL BULGARIA"
                     class="PartnersSlider-module__IbjHEq__logo"
                     height="50"
-                    src="partners/Ceresit.svg"
+                    src="/assets/partners/Ceresit.svg"
                     style="color: transparent"
                     width="160"
                   />
@@ -415,7 +415,7 @@ stylesheets:
                     alt="INDUSTRIAL PACK"
                     class="PartnersSlider-module__IbjHEq__logo"
                     height="50"
-                    src="partners/Logo_IndustrialPack.png"
+                    src="/assets/partners/Logo_IndustrialPack.png"
                     style="color: transparent"
                     width="160"
                   />
@@ -428,7 +428,7 @@ stylesheets:
                     alt="Merit"
                     class="PartnersSlider-module__IbjHEq__logo"
                     height="50"
-                    src="partners/merit-logo.svg"
+                    src="/assets/partners/merit-logo.svg"
                     style="color: transparent"
                     width="160"
                   />
@@ -441,7 +441,7 @@ stylesheets:
                     alt="Auto Group 2014"
                     class="PartnersSlider-module__IbjHEq__logo"
                     height="50"
-                    src="partners/autogroup.png"
+                    src="/assets/partners/autogroup.png"
                     style="color: transparent"
                     width="160"
                   />
@@ -454,7 +454,7 @@ stylesheets:
                     alt="PROSOL"
                     class="PartnersSlider-module__IbjHEq__logo"
                     height="50"
-                    src="partners/logo_Prosol.png"
+                    src="/assets/partners/logo_Prosol.png"
                     style="color: transparent"
                     width="160"
                   />
@@ -467,7 +467,7 @@ stylesheets:
                     alt="Sim Max 21"
                     class="PartnersSlider-module__IbjHEq__logo"
                     height="50"
-                    src="partners/simmax.png"
+                    src="/assets/partners/simmax.png"
                     style="color: transparent"
                     width="160"
                   />
