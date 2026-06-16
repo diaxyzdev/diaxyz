@@ -7,4 +7,584 @@ stylesheets:
   - "/_next/static/chunks/702cd381b41a98a9.css"
 ---
 
-<main><main class="Services-module__3bADUG__page"><section class="Services-module__3bADUG__hero"><img alt="Electric pallet trucks" class="Services-module__3bADUG__heroImage" src="/assets/images/equipment/electric-pallet-trucks/img_1_df78d78f46.webp" style="position:absolute;height:100%;width:100%;inset:0px;color:transparent" title="Electric pallet trucks"/><div class="Services-module__3bADUG__overlay"></div><div class="Services-module__3bADUG__heroContent"><h1><font><font>Electric pallet trucks</font></font><span class="Services-module__3bADUG__engtitle"><font><font>Electric Pallet Trucks</font></font></span></h1><h2><font><font>Compact electric solutions for quick and easy pallet transport</font></font></h2><div><button class="Button-module__e7WGRa__inverseWhiteBtn Button-module__e7WGRa__size_lg" type="button"><span><font><font>Send inquiry</font></font></span></button></div></div></section><nav class="Services-module__3bADUG__stickyNav"><div class="Services-module__3bADUG__navInner"><a class="Services-module__3bADUG__navLink" href="#elektricheska-paletna-kolichka" title="Electric pallet trucks"><font><font>Electric pallet trucks</font></font></a></div></nav><section class="Services-module__3bADUG__serviceSection Services-module__3bADUG__reverse" id="elektricheska-paletna-kolichka"><div class="Services-module__3bADUG__contentTitle"><div class="SectionTitle-module__Svbyca__container"><span class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"><font><font>Electric pallet trucks</font></font></span></div></div><div class="Services-module__3bADUG__container"><div class="styles.serviceGrid Services-module__3bADUG__serviceGrid"><div class="Services-module__3bADUG__textBlock"><div class="Services-module__3bADUG__product"><h3 class="Services-module__3bADUG__productTitle"><font><font>Electric pallet trucks</font></font></h3><div class="Services-module__3bADUG__specRow"><span class="Services-module__3bADUG__label"><font><font>Manufacturer:</font></font></span><span class="Services-module__3bADUG__value"><font><font>Linde</font></font></span></div><div><div class="Services-module__3bADUG__specRow"><span class="Services-module__3bADUG__label"><font><font>Load capacity </font></font><font><font>:</font></font></span><span class="Services-module__3bADUG__value"><font><font>1,200 kg - 2,500 kg</font></font></span></div></div><div class="Services-module__3bADUG__specRow"><span class="Services-module__3bADUG__label"><font><font>Condition:</font></font></span><span class="Services-module__3bADUG__value"><font><font>Used / Recycled</font></font></span></div><div class="Services-module__3bADUG__specRow"><span class="Services-module__3bADUG__label"><font><font>Price:</font></font></span><span class="Services-module__3bADUG__value"><font><font>Upon request</font></font></span></div><div class="Services-module__3bADUG__productBtn"><button class="Button-module__e7WGRa__grayBtn Button-module__e7WGRa__size_lg" type="button"><span><font><font>Send inquiry</font></font></span></button></div></div></div><div class="Services-module__3bADUG__imageWrapper"><img alt="Electric pallet trucks" class="Services-module__3bADUG__productImage" height="600" src="/assets/images/equipment/electric-pallet-trucks/img_2_207456c7ec.webp" style="color:transparent" title="Electric pallet trucks" width="800"/></div></div></div></section><section class="Services-module__3bADUG__serviceSection"><div class="Services-module__3bADUG__contentTitle"><div class="SectionTitle-module__Svbyca__container"><span class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"><font><font>Gallery</font></font></span></div></div><div class="Services-module__3bADUG__container"><div class="Services-module__3bADUG__navigationSwiper"><button class="customPrev Services-module__3bADUG__navBtnSwiper swiper-button-disabled" disabled=""><svg aria-hidden="true" class="lucide lucide-chevrons-left" fill="none" height="31" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="31" xmlns="http://www.w3.org/2000/svg"><path d="m11 17-5-5 5-5"></path><path d="m18 17-5-5 5-5"></path></svg></button><button class="customNext Services-module__3bADUG__navBtnSwiper"><svg aria-hidden="true" class="lucide lucide-chevrons-right" fill="none" height="31" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="31" xmlns="http://www.w3.org/2000/svg"><path d="m6 17 5-5-5-5"></path><path d="m13 17 5-5-5-5"></path></svg></button></div><div class="swiper swiper-initialized swiper-horizontal" style="overflow:visible"><div class="swiper-wrapper"><div class="swiper-slide swiper-slide-active" style="width:363.889px;margin-right:25px"><div class="Services-module__3bADUG__cardSwiper"><div class="Services-module__3bADUG__imageWrapperSwiper"><img alt="Electric pallet trucks" class="Services-module__3bADUG__imageSwiper" src="/assets/images/equipment/electric-pallet-trucks/img_3_27dc1f9ad0.webp" style="position:absolute;height:100%;width:100%;inset:0px;color:transparent" title="Electric pallet trucks"/><div class="Services-module__3bADUG__overlaySwiper"><span><svg aria-hidden="true" class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign" fill="none" height="48" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="48" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="8"></circle><line x1="21" x2="16.65" y1="21" y2="16.65"></line><line x1="11" x2="11" y1="8" y2="14"></line><line x1="8" x2="14" y1="11" y2="11"></line></svg></span></div></div></div></div><div class="swiper-slide swiper-slide-next" style="width:363.889px;margin-right:25px"><div class="Services-module__3bADUG__cardSwiper"><div class="Services-module__3bADUG__imageWrapperSwiper"><img alt="Electric pallet trucks" class="Services-module__3bADUG__imageSwiper" src="/assets/images/equipment/electric-pallet-trucks/img_4_e9788d9534.webp" style="position:absolute;height:100%;width:100%;inset:0px;color:transparent" title="Electric pallet trucks"/><div class="Services-module__3bADUG__overlaySwiper"><span><svg aria-hidden="true" class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign" fill="none" height="48" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="48" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="8"></circle><line x1="21" x2="16.65" y1="21" y2="16.65"></line><line x1="11" x2="11" y1="8" y2="14"></line><line x1="8" x2="14" y1="11" y2="11"></line></svg></span></div></div></div></div><div class="swiper-slide" style="width:363.889px;margin-right:25px"><div class="Services-module__3bADUG__cardSwiper"><div class="Services-module__3bADUG__imageWrapperSwiper"><img alt="Electric pallet trucks" class="Services-module__3bADUG__imageSwiper" src="/assets/images/equipment/electric-pallet-trucks/img_5_47c33addf0.webp" style="position:absolute;height:100%;width:100%;inset:0px;color:transparent" title="Electric pallet trucks"/><div class="Services-module__3bADUG__overlaySwiper"><span><svg aria-hidden="true" class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign" fill="none" height="48" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="48" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="8"></circle><line x1="21" x2="16.65" y1="21" y2="16.65"></line><line x1="11" x2="11" y1="8" y2="14"></line><line x1="8" x2="14" y1="11" y2="11"></line></svg></span></div></div></div></div><div class="swiper-slide" style="width:363.889px;margin-right:25px"><div class="Services-module__3bADUG__cardSwiper"><div class="Services-module__3bADUG__imageWrapperSwiper"><img alt="Electric pallet trucks" class="Services-module__3bADUG__imageSwiper" src="/assets/images/equipment/electric-pallet-trucks/img_6_99382c6d97.webp" style="position:absolute;height:100%;width:100%;inset:0px;color:transparent" title="Electric pallet trucks"/><div class="Services-module__3bADUG__overlaySwiper"><span><svg aria-hidden="true" class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign" fill="none" height="48" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="48" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="8"></circle><line x1="21" x2="16.65" y1="21" y2="16.65"></line><line x1="11" x2="11" y1="8" y2="14"></line><line x1="8" x2="14" y1="11" y2="11"></line></svg></span></div></div></div></div><div class="swiper-slide" style="width:363.889px;margin-right:25px"><div class="Services-module__3bADUG__cardSwiper"><div class="Services-module__3bADUG__imageWrapperSwiper"><img alt="Electric pallet trucks" class="Services-module__3bADUG__imageSwiper" src="/assets/images/equipment/electric-pallet-trucks/img_7_119e171cd8.webp" style="position:absolute;height:100%;width:100%;inset:0px;color:transparent" title="Electric pallet trucks"/><div class="Services-module__3bADUG__overlaySwiper"><span><svg aria-hidden="true" class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign" fill="none" height="48" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="48" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="8"></circle><line x1="21" x2="16.65" y1="21" y2="16.65"></line><line x1="11" x2="11" y1="8" y2="14"></line><line x1="8" x2="14" y1="11" y2="11"></line></svg></span></div></div></div></div><div class="swiper-slide" style="width:363.889px;margin-right:25px"><div class="Services-module__3bADUG__cardSwiper"><div class="Services-module__3bADUG__imageWrapperSwiper"><img alt="Electric pallet trucks" class="Services-module__3bADUG__imageSwiper" src="/assets/images/equipment/electric-pallet-trucks/img_8_229947b311.webp" style="position:absolute;height:100%;width:100%;inset:0px;color:transparent" title="Electric pallet trucks"/><div class="Services-module__3bADUG__overlaySwiper"><span><svg aria-hidden="true" class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign" fill="none" height="48" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="48" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="8"></circle><line x1="21" x2="16.65" y1="21" y2="16.65"></line><line x1="11" x2="11" y1="8" y2="14"></line><line x1="8" x2="14" y1="11" y2="11"></line></svg></span></div></div></div></div><div class="swiper-slide" style="width:363.889px;margin-right:25px"><div class="Services-module__3bADUG__cardSwiper"><div class="Services-module__3bADUG__imageWrapperSwiper"><img alt="Electric pallet trucks" class="Services-module__3bADUG__imageSwiper" src="/assets/images/equipment/electric-pallet-trucks/img_9_cce5cdfe71.webp" style="position:absolute;height:100%;width:100%;inset:0px;color:transparent" title="Electric pallet trucks"/><div class="Services-module__3bADUG__overlaySwiper"><span><svg aria-hidden="true" class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign" fill="none" height="48" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="48" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="8"></circle><line x1="21" x2="16.65" y1="21" y2="16.65"></line><line x1="11" x2="11" y1="8" y2="14"></line><line x1="8" x2="14" y1="11" y2="11"></line></svg></span></div></div></div></div><div class="swiper-slide" style="width:363.889px;margin-right:25px"><div class="Services-module__3bADUG__cardSwiper"><div class="Services-module__3bADUG__imageWrapperSwiper"><img alt="Electric pallet trucks" class="Services-module__3bADUG__imageSwiper" src="/assets/images/equipment/electric-pallet-trucks/img_10_4a0c5e32b2.webp" style="position:absolute;height:100%;width:100%;inset:0px;color:transparent" title="Electric pallet trucks"/><div class="Services-module__3bADUG__overlaySwiper"><span><svg aria-hidden="true" class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign" fill="none" height="48" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="48" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="8"></circle><line x1="21" x2="16.65" y1="21" y2="16.65"></line><line x1="11" x2="11" y1="8" y2="14"></line><line x1="8" x2="14" y1="11" y2="11"></line></svg></span></div></div></div></div><div class="swiper-slide" style="width:363.889px;margin-right:25px"><div class="Services-module__3bADUG__cardSwiper"><div class="Services-module__3bADUG__imageWrapperSwiper"><img alt="Electric pallet trucks" class="Services-module__3bADUG__imageSwiper" src="/assets/images/equipment/electric-pallet-trucks/img_11_7546865449.webp" style="position:absolute;height:100%;width:100%;inset:0px;color:transparent" title="Electric pallet trucks"/><div class="Services-module__3bADUG__overlaySwiper"><span><svg aria-hidden="true" class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign" fill="none" height="48" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="48" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="8"></circle><line x1="21" x2="16.65" y1="21" y2="16.65"></line><line x1="11" x2="11" y1="8" y2="14"></line><line x1="8" x2="14" y1="11" y2="11"></line></svg></span></div></div></div></div></div></div></div></section></main></main>
+tags: - equipment - electric-pallet-trucks --- tags: - equipment -
+electric-pallet-trucks ---
+
+<main>
+  <main class="Services-module__3bADUG__page">
+    <section class="Services-module__3bADUG__hero">
+      <img
+        alt="Electric pallet trucks"
+        class="Services-module__3bADUG__heroImage"
+        src="/assets/images/equipment/electric-pallet-trucks/img_1_df78d78f46.webp"
+        style="
+          position: absolute;
+          height: 100%;
+          width: 100%;
+          inset: 0px;
+          color: transparent;
+        "
+        title="Electric pallet trucks"
+      />
+      <div class="Services-module__3bADUG__overlay"></div>
+      <div class="Services-module__3bADUG__heroContent">
+        <h1>
+          <font><font>Electric pallet trucks</font></font
+          ><span class="Services-module__3bADUG__engtitle"
+            ><font><font>Electric Pallet Trucks</font></font></span
+          >
+        </h1>
+        <h2>
+          <font
+            ><font
+              >Compact electric solutions for quick and easy pallet
+              transport</font
+            ></font
+          >
+        </h2>
+        <div>
+          <button
+            class="Button-module__e7WGRa__inverseWhiteBtn Button-module__e7WGRa__size_lg"
+            type="button"
+          >
+            <span
+              ><font><font>Send inquiry</font></font></span
+            >
+          </button>
+        </div>
+      </div>
+    </section>
+    <nav class="Services-module__3bADUG__stickyNav">
+      <div class="Services-module__3bADUG__navInner">
+        <a
+          class="Services-module__3bADUG__navLink"
+          href="#elektricheska-paletna-kolichka"
+          title="Electric pallet trucks"
+          ><font><font>Electric pallet trucks</font></font></a
+        >
+      </div>
+    </nav>
+    <section
+      class="Services-module__3bADUG__serviceSection Services-module__3bADUG__reverse"
+      id="elektricheska-paletna-kolichka"
+    >
+      <div class="Services-module__3bADUG__contentTitle">
+        <div class="SectionTitle-module__Svbyca__container">
+          <span
+            class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
+            ><font><font>Electric pallet trucks</font></font></span
+          >
+        </div>
+      </div>
+      <div class="Services-module__3bADUG__container">
+        <div class="styles.serviceGrid Services-module__3bADUG__serviceGrid">
+          <div class="Services-module__3bADUG__textBlock">
+            <div class="Services-module__3bADUG__product">
+              <h3 class="Services-module__3bADUG__productTitle">
+                <font><font>Electric pallet trucks</font></font>
+              </h3>
+              <div class="Services-module__3bADUG__specRow">
+                <span class="Services-module__3bADUG__label"
+                  ><font><font>Manufacturer:</font></font></span
+                ><span class="Services-module__3bADUG__value"
+                  ><font><font>Linde</font></font></span
+                >
+              </div>
+              <div>
+                <div class="Services-module__3bADUG__specRow">
+                  <span class="Services-module__3bADUG__label"
+                    ><font><font>Load capacity </font></font
+                    ><font><font>:</font></font></span
+                  ><span class="Services-module__3bADUG__value"
+                    ><font><font>1,200 kg - 2,500 kg</font></font></span
+                  >
+                </div>
+              </div>
+              <div class="Services-module__3bADUG__specRow">
+                <span class="Services-module__3bADUG__label"
+                  ><font><font>Condition:</font></font></span
+                ><span class="Services-module__3bADUG__value"
+                  ><font><font>Used / Recycled</font></font></span
+                >
+              </div>
+              <div class="Services-module__3bADUG__specRow">
+                <span class="Services-module__3bADUG__label"
+                  ><font><font>Price:</font></font></span
+                ><span class="Services-module__3bADUG__value"
+                  ><font><font>Upon request</font></font></span
+                >
+              </div>
+              <div class="Services-module__3bADUG__productBtn">
+                <button
+                  class="Button-module__e7WGRa__grayBtn Button-module__e7WGRa__size_lg"
+                  type="button"
+                >
+                  <span
+                    ><font><font>Send inquiry</font></font></span
+                  >
+                </button>
+              </div>
+            </div>
+          </div>
+          <div class="Services-module__3bADUG__imageWrapper">
+            <img
+              alt="Electric pallet trucks"
+              class="Services-module__3bADUG__productImage"
+              height="600"
+              src="/assets/images/equipment/electric-pallet-trucks/img_2_207456c7ec.webp"
+              style="color: transparent"
+              title="Electric pallet trucks"
+              width="800"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="Services-module__3bADUG__serviceSection">
+      <div class="Services-module__3bADUG__contentTitle">
+        <div class="SectionTitle-module__Svbyca__container">
+          <span
+            class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
+            ><font><font>Gallery</font></font></span
+          >
+        </div>
+      </div>
+      <div class="Services-module__3bADUG__container">
+        <div class="Services-module__3bADUG__navigationSwiper">
+          <button
+            class="customPrev Services-module__3bADUG__navBtnSwiper swiper-button-disabled"
+            disabled=""
+          >
+            <svg
+              aria-hidden="true"
+              class="lucide lucide-chevrons-left"
+              fill="none"
+              height="31"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              viewBox="0 0 24 24"
+              width="31"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path d="m11 17-5-5 5-5"></path>
+              <path d="m18 17-5-5 5-5"></path>
+            </svg></button
+          ><button class="customNext Services-module__3bADUG__navBtnSwiper">
+            <svg
+              aria-hidden="true"
+              class="lucide lucide-chevrons-right"
+              fill="none"
+              height="31"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              viewBox="0 0 24 24"
+              width="31"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path d="m6 17 5-5-5-5"></path>
+              <path d="m13 17 5-5-5-5"></path>
+            </svg>
+          </button>
+        </div>
+        <div
+          class="swiper swiper-initialized swiper-horizontal"
+          style="overflow: visible"
+        >
+          <div class="swiper-wrapper">
+            <div
+              class="swiper-slide swiper-slide-active"
+              style="width: 363.889px; margin-right: 25px"
+            >
+              <div class="Services-module__3bADUG__cardSwiper">
+                <div class="Services-module__3bADUG__imageWrapperSwiper">
+                  <img
+                    alt="Electric pallet trucks"
+                    class="Services-module__3bADUG__imageSwiper"
+                    src="/assets/images/equipment/electric-pallet-trucks/img_3_27dc1f9ad0.webp"
+                    style="
+                      position: absolute;
+                      height: 100%;
+                      width: 100%;
+                      inset: 0px;
+                      color: transparent;
+                    "
+                    title="Electric pallet trucks"
+                  />
+                  <div class="Services-module__3bADUG__overlaySwiper">
+                    <span
+                      ><svg
+                        aria-hidden="true"
+                        class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
+                        fill="none"
+                        height="48"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        viewBox="0 0 24 24"
+                        width="48"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
+                        <line x1="11" x2="11" y1="8" y2="14"></line>
+                        <line x1="8" x2="14" y1="11" y2="11"></line></svg
+                    ></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="swiper-slide swiper-slide-next"
+              style="width: 363.889px; margin-right: 25px"
+            >
+              <div class="Services-module__3bADUG__cardSwiper">
+                <div class="Services-module__3bADUG__imageWrapperSwiper">
+                  <img
+                    alt="Electric pallet trucks"
+                    class="Services-module__3bADUG__imageSwiper"
+                    src="/assets/images/equipment/electric-pallet-trucks/img_4_e9788d9534.webp"
+                    style="
+                      position: absolute;
+                      height: 100%;
+                      width: 100%;
+                      inset: 0px;
+                      color: transparent;
+                    "
+                    title="Electric pallet trucks"
+                  />
+                  <div class="Services-module__3bADUG__overlaySwiper">
+                    <span
+                      ><svg
+                        aria-hidden="true"
+                        class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
+                        fill="none"
+                        height="48"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        viewBox="0 0 24 24"
+                        width="48"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
+                        <line x1="11" x2="11" y1="8" y2="14"></line>
+                        <line x1="8" x2="14" y1="11" y2="11"></line></svg
+                    ></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="swiper-slide"
+              style="width: 363.889px; margin-right: 25px"
+            >
+              <div class="Services-module__3bADUG__cardSwiper">
+                <div class="Services-module__3bADUG__imageWrapperSwiper">
+                  <img
+                    alt="Electric pallet trucks"
+                    class="Services-module__3bADUG__imageSwiper"
+                    src="/assets/images/equipment/electric-pallet-trucks/img_5_47c33addf0.webp"
+                    style="
+                      position: absolute;
+                      height: 100%;
+                      width: 100%;
+                      inset: 0px;
+                      color: transparent;
+                    "
+                    title="Electric pallet trucks"
+                  />
+                  <div class="Services-module__3bADUG__overlaySwiper">
+                    <span
+                      ><svg
+                        aria-hidden="true"
+                        class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
+                        fill="none"
+                        height="48"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        viewBox="0 0 24 24"
+                        width="48"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
+                        <line x1="11" x2="11" y1="8" y2="14"></line>
+                        <line x1="8" x2="14" y1="11" y2="11"></line></svg
+                    ></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="swiper-slide"
+              style="width: 363.889px; margin-right: 25px"
+            >
+              <div class="Services-module__3bADUG__cardSwiper">
+                <div class="Services-module__3bADUG__imageWrapperSwiper">
+                  <img
+                    alt="Electric pallet trucks"
+                    class="Services-module__3bADUG__imageSwiper"
+                    src="/assets/images/equipment/electric-pallet-trucks/img_6_99382c6d97.webp"
+                    style="
+                      position: absolute;
+                      height: 100%;
+                      width: 100%;
+                      inset: 0px;
+                      color: transparent;
+                    "
+                    title="Electric pallet trucks"
+                  />
+                  <div class="Services-module__3bADUG__overlaySwiper">
+                    <span
+                      ><svg
+                        aria-hidden="true"
+                        class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
+                        fill="none"
+                        height="48"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        viewBox="0 0 24 24"
+                        width="48"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
+                        <line x1="11" x2="11" y1="8" y2="14"></line>
+                        <line x1="8" x2="14" y1="11" y2="11"></line></svg
+                    ></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="swiper-slide"
+              style="width: 363.889px; margin-right: 25px"
+            >
+              <div class="Services-module__3bADUG__cardSwiper">
+                <div class="Services-module__3bADUG__imageWrapperSwiper">
+                  <img
+                    alt="Electric pallet trucks"
+                    class="Services-module__3bADUG__imageSwiper"
+                    src="/assets/images/equipment/electric-pallet-trucks/img_7_119e171cd8.webp"
+                    style="
+                      position: absolute;
+                      height: 100%;
+                      width: 100%;
+                      inset: 0px;
+                      color: transparent;
+                    "
+                    title="Electric pallet trucks"
+                  />
+                  <div class="Services-module__3bADUG__overlaySwiper">
+                    <span
+                      ><svg
+                        aria-hidden="true"
+                        class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
+                        fill="none"
+                        height="48"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        viewBox="0 0 24 24"
+                        width="48"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
+                        <line x1="11" x2="11" y1="8" y2="14"></line>
+                        <line x1="8" x2="14" y1="11" y2="11"></line></svg
+                    ></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="swiper-slide"
+              style="width: 363.889px; margin-right: 25px"
+            >
+              <div class="Services-module__3bADUG__cardSwiper">
+                <div class="Services-module__3bADUG__imageWrapperSwiper">
+                  <img
+                    alt="Electric pallet trucks"
+                    class="Services-module__3bADUG__imageSwiper"
+                    src="/assets/images/equipment/electric-pallet-trucks/img_8_229947b311.webp"
+                    style="
+                      position: absolute;
+                      height: 100%;
+                      width: 100%;
+                      inset: 0px;
+                      color: transparent;
+                    "
+                    title="Electric pallet trucks"
+                  />
+                  <div class="Services-module__3bADUG__overlaySwiper">
+                    <span
+                      ><svg
+                        aria-hidden="true"
+                        class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
+                        fill="none"
+                        height="48"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        viewBox="0 0 24 24"
+                        width="48"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
+                        <line x1="11" x2="11" y1="8" y2="14"></line>
+                        <line x1="8" x2="14" y1="11" y2="11"></line></svg
+                    ></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="swiper-slide"
+              style="width: 363.889px; margin-right: 25px"
+            >
+              <div class="Services-module__3bADUG__cardSwiper">
+                <div class="Services-module__3bADUG__imageWrapperSwiper">
+                  <img
+                    alt="Electric pallet trucks"
+                    class="Services-module__3bADUG__imageSwiper"
+                    src="/assets/images/equipment/electric-pallet-trucks/img_9_cce5cdfe71.webp"
+                    style="
+                      position: absolute;
+                      height: 100%;
+                      width: 100%;
+                      inset: 0px;
+                      color: transparent;
+                    "
+                    title="Electric pallet trucks"
+                  />
+                  <div class="Services-module__3bADUG__overlaySwiper">
+                    <span
+                      ><svg
+                        aria-hidden="true"
+                        class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
+                        fill="none"
+                        height="48"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        viewBox="0 0 24 24"
+                        width="48"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
+                        <line x1="11" x2="11" y1="8" y2="14"></line>
+                        <line x1="8" x2="14" y1="11" y2="11"></line></svg
+                    ></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="swiper-slide"
+              style="width: 363.889px; margin-right: 25px"
+            >
+              <div class="Services-module__3bADUG__cardSwiper">
+                <div class="Services-module__3bADUG__imageWrapperSwiper">
+                  <img
+                    alt="Electric pallet trucks"
+                    class="Services-module__3bADUG__imageSwiper"
+                    src="/assets/images/equipment/electric-pallet-trucks/img_10_4a0c5e32b2.webp"
+                    style="
+                      position: absolute;
+                      height: 100%;
+                      width: 100%;
+                      inset: 0px;
+                      color: transparent;
+                    "
+                    title="Electric pallet trucks"
+                  />
+                  <div class="Services-module__3bADUG__overlaySwiper">
+                    <span
+                      ><svg
+                        aria-hidden="true"
+                        class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
+                        fill="none"
+                        height="48"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        viewBox="0 0 24 24"
+                        width="48"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
+                        <line x1="11" x2="11" y1="8" y2="14"></line>
+                        <line x1="8" x2="14" y1="11" y2="11"></line></svg
+                    ></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="swiper-slide"
+              style="width: 363.889px; margin-right: 25px"
+            >
+              <div class="Services-module__3bADUG__cardSwiper">
+                <div class="Services-module__3bADUG__imageWrapperSwiper">
+                  <img
+                    alt="Electric pallet trucks"
+                    class="Services-module__3bADUG__imageSwiper"
+                    src="/assets/images/equipment/electric-pallet-trucks/img_11_7546865449.webp"
+                    style="
+                      position: absolute;
+                      height: 100%;
+                      width: 100%;
+                      inset: 0px;
+                      color: transparent;
+                    "
+                    title="Electric pallet trucks"
+                  />
+                  <div class="Services-module__3bADUG__overlaySwiper">
+                    <span
+                      ><svg
+                        aria-hidden="true"
+                        class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
+                        fill="none"
+                        height="48"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        viewBox="0 0 24 24"
+                        width="48"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
+                        <line x1="11" x2="11" y1="8" y2="14"></line>
+                        <line x1="8" x2="14" y1="11" y2="11"></line></svg
+                    ></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+</main>

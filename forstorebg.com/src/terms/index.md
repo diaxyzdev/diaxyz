@@ -6,4 +6,315 @@ stylesheets:
   - "/_next/static/chunks/695ddd08a2f4c0c0.css"
 ---
 
-<main><div class="legal-module__-p45BW__container"><h1 class="legal-module__-p45BW__title"><font><font>GENERAL TERMS AND CONDITIONS OF USE OF THE WEBSITE</font></font></h1><p class="legal-module__-p45BW__subtitle"><font><font>forstorebg.com</font></font><section class="legal-module__-p45BW__section"><h2><font><font>1. GENERAL INFORMATION</font></font></h2><p><font><font>These General Terms and Conditions govern the relations between:</font></font><p><font><font>"ForstorBG" EOOD, UIC 206265331, with registered office and management address: Bulgaria, Plovdiv (4000), Iztochen district, 105 Hristo Botev Blvd., hereinafter referred to as the Supplier,</font></font><p><font><font>and the users of the website forstorebg.com, hereinafter referred to as Users.</font></font><p><font><font>By accessing the site, the User accepts these General Terms and Conditions.</font></font></p></p></p></p></section><section class="legal-module__-p45BW__section"><h2><font><font>2. PURPOSE OF THE SITE</font></font></h2><p><font><font>The site is informative in nature and provides information about:</font></font><ul><li><font><font>lifting equipment</font></font><li><font><font>warehouse systems</font></font><li><font><font>automation and industrial solutions</font></font><li><font><font>engineering services and consulting</font></font></li></li></li></li></ul><p><font><font>The site does not offer direct online sales.</font></font></p></p></section><section class="legal-module__-p45BW__section"><h2><font><font>3. INQUIRY FORM</font></font></h2><p><font><font>Users can send inquiries via a contact form.</font></font><p><font><font>By sending a request, the User:</font></font><ul><li><font><font>voluntarily provides their personal data (name, telephone number, email, etc.);</font></font><li><font><font>agrees that this data will be used solely for contact and processing of the inquiry;</font></font><li><font><font>guarantees that the data provided is true and accurate.</font></font></li></li></li></ul><p><font><font>The provider is not responsible for incorrect data submitted.</font></font></p></p></p></section><section class="legal-module__-p45BW__section"><h2><font><font>4. PROTECTION OF PERSONAL DATA</font></font></h2><p><font><font>The Provider processes personal data in accordance with applicable law, including Regulation (EU) 2016/679 (GDPR).</font></font><p><font><font>The data sent via the form:</font></font><ul><li><font><font>are used only to respond to inquiries;</font></font><li><font><font>are not provided to third parties unless required by law;</font></font><li><font><font>are stored for the period necessary to process the request.</font></font></li></li></li></ul></p></p></section><section class="legal-module__-p45BW__section"><h2><font><font>5. RIGHTS AND OBLIGATIONS OF THE CONSUMER</font></font></h2><p><font><font>The user undertakes:</font></font><ul><li><font><font>to use the site lawfully;</font></font><li><font><font>not to perform actions that may disrupt the normal operation of the site;</font></font><li><font><font>not to submit misleading or false information.</font></font></li></li></li></ul></p></section><section class="legal-module__-p45BW__section"><h2><font><font>6. INTELLECTUAL PROPERTY</font></font></h2><p><font><font>All content on the site (texts, images, logo, design) is the property of "ForstorBG" EOOD or is used legally.</font></font><p><font><font>Copying, distribution or use without express consent is prohibited.</font></font></p></p></section><section class="legal-module__-p45BW__section"><h2><font><font>7. LIMITATION OF LIABILITY</font></font></h2><p><font><font>The Supplier does not guarantee:</font></font><ul><li><font><font>uninterrupted access to the site;</font></font><li><font><font>absence of technical errors;</font></font><li><font><font>complete up-to-date information.</font></font></li></li></li></ul><p><font><font>The provider is not liable for any damages caused by the use of the site.</font></font></p></p></section><section class="legal-module__-p45BW__section"><h2><font><font>8. LINKS TO THIRD PARTIES</font></font></h2><p><font><font>The site may contain links to other sites. The provider is not responsible for their content.</font></font></p></section><section class="legal-module__-p45BW__section"><h2><font><font>9. CHANGES</font></font></h2><p><font><font>The Provider reserves the right to change these General Terms and Conditions at any time.</font></font><p><font><font>The changes take effect upon their publication on the site.</font></font></p></p></section><section class="legal-module__-p45BW__section"><h2><font><font>10. APPLICABLE LAW</font></font></h2><p><font><font>The legislation of the Republic of Bulgaria applies to all matters.</font></font></p></section><section class="legal-module__-p45BW__section"><h2><font><font>11. CONTACTS</font></font></h2><p><font><font>ForstoreBG Ltd. </font></font><br/><font><font>UIC: 206265331 </font></font><br/><font><font>Address: Plovdiv (4000), Iztochen district, 105 Hristo Botev Blvd. </font></font><br/><font><font>Website: forstorebg.com</font></font></p></section></p></div></main>
+tags:
+- terms
+---
+tags:
+- terms
+---
+
+<main>
+  <div class="legal-module__-p45BW__container">
+    <h1 class="legal-module__-p45BW__title">
+      <font
+        ><font>GENERAL TERMS AND CONDITIONS OF USE OF THE WEBSITE</font></font
+      >
+    </h1>
+    <p class="legal-module__-p45BW__subtitle">
+      <font><font>forstorebg.com</font></font>
+    </p>
+    <section class="legal-module__-p45BW__section">
+      <h2>
+        <font><font>1. GENERAL INFORMATION</font></font>
+      </h2>
+      <p>
+        <font
+          ><font
+            >These General Terms and Conditions govern the relations
+            between:</font
+          ></font
+        >
+      </p>
+      <p>
+        <font
+          ><font
+            >"ForstorBG" EOOD, UIC 206265331, with registered office and
+            management address: Bulgaria, Plovdiv (4000), Iztochen district, 105
+            Hristo Botev Blvd., hereinafter referred to as the Supplier,</font
+          ></font
+        >
+      </p>
+      <p>
+        <font
+          ><font
+            >and the users of the website forstorebg.com, hereinafter referred
+            to as Users.</font
+          ></font
+        >
+      </p>
+      <p>
+        <font
+          ><font
+            >By accessing the site, the User accepts these General Terms and
+            Conditions.</font
+          ></font
+        >
+      </p>
+      <p></p>
+      <p></p>
+      <p></p>
+    </section>
+    <section class="legal-module__-p45BW__section">
+      <h2>
+        <font><font>2. PURPOSE OF THE SITE</font></font>
+      </h2>
+      <p>
+        <font
+          ><font
+            >The site is informative in nature and provides information
+            about:</font
+          ></font
+        >
+      </p>
+      <ul>
+        <li>
+          <font><font>lifting equipment</font></font>
+        </li>
+        <li>
+          <font><font>warehouse systems</font></font>
+        </li>
+        <li>
+          <font><font>automation and industrial solutions</font></font>
+        </li>
+        <li>
+          <font><font>engineering services and consulting</font></font>
+        </li>
+      </ul>
+      <p>
+        <font><font>The site does not offer direct online sales.</font></font>
+      </p>
+      <p></p>
+    </section>
+    <section class="legal-module__-p45BW__section">
+      <h2>
+        <font><font>3. INQUIRY FORM</font></font>
+      </h2>
+      <p>
+        <font><font>Users can send inquiries via a contact form.</font></font>
+      </p>
+      <p>
+        <font><font>By sending a request, the User:</font></font>
+      </p>
+      <ul>
+        <li>
+          <font
+            ><font
+              >voluntarily provides their personal data (name, telephone number,
+              email, etc.);</font
+            ></font
+          >
+        </li>
+        <li>
+          <font
+            ><font
+              >agrees that this data will be used solely for contact and
+              processing of the inquiry;</font
+            ></font
+          >
+        </li>
+        <li>
+          <font
+            ><font
+              >guarantees that the data provided is true and accurate.</font
+            ></font
+          >
+        </li>
+      </ul>
+      <p>
+        <font
+          ><font
+            >The provider is not responsible for incorrect data submitted.</font
+          ></font
+        >
+      </p>
+      <p></p>
+      <p></p>
+    </section>
+    <section class="legal-module__-p45BW__section">
+      <h2>
+        <font><font>4. PROTECTION OF PERSONAL DATA</font></font>
+      </h2>
+      <p>
+        <font
+          ><font
+            >The Provider processes personal data in accordance with applicable
+            law, including Regulation (EU) 2016/679 (GDPR).</font
+          ></font
+        >
+      </p>
+      <p>
+        <font><font>The data sent via the form:</font></font>
+      </p>
+      <ul>
+        <li>
+          <font><font>are used only to respond to inquiries;</font></font>
+        </li>
+        <li>
+          <font
+            ><font
+              >are not provided to third parties unless required by law;</font
+            ></font
+          >
+        </li>
+        <li>
+          <font
+            ><font
+              >are stored for the period necessary to process the request.</font
+            ></font
+          >
+        </li>
+      </ul>
+      <p></p>
+      <p></p>
+    </section>
+    <section class="legal-module__-p45BW__section">
+      <h2>
+        <font><font>5. RIGHTS AND OBLIGATIONS OF THE CONSUMER</font></font>
+      </h2>
+      <p>
+        <font><font>The user undertakes:</font></font>
+      </p>
+      <ul>
+        <li>
+          <font><font>to use the site lawfully;</font></font>
+        </li>
+        <li>
+          <font
+            ><font
+              >not to perform actions that may disrupt the normal operation of
+              the site;</font
+            ></font
+          >
+        </li>
+        <li>
+          <font
+            ><font>not to submit misleading or false information.</font></font
+          >
+        </li>
+      </ul>
+      <p></p>
+    </section>
+    <section class="legal-module__-p45BW__section">
+      <h2>
+        <font><font>6. INTELLECTUAL PROPERTY</font></font>
+      </h2>
+      <p>
+        <font
+          ><font
+            >All content on the site (texts, images, logo, design) is the
+            property of "ForstorBG" EOOD or is used legally.</font
+          ></font
+        >
+      </p>
+      <p>
+        <font
+          ><font
+            >Copying, distribution or use without express consent is
+            prohibited.</font
+          ></font
+        >
+      </p>
+      <p></p>
+    </section>
+    <section class="legal-module__-p45BW__section">
+      <h2>
+        <font><font>7. LIMITATION OF LIABILITY</font></font>
+      </h2>
+      <p>
+        <font><font>The Supplier does not guarantee:</font></font>
+      </p>
+      <ul>
+        <li>
+          <font><font>uninterrupted access to the site;</font></font>
+        </li>
+        <li>
+          <font><font>absence of technical errors;</font></font>
+        </li>
+        <li>
+          <font><font>complete up-to-date information.</font></font>
+        </li>
+      </ul>
+      <p>
+        <font
+          ><font
+            >The provider is not liable for any damages caused by the use of the
+            site.</font
+          ></font
+        >
+      </p>
+      <p></p>
+    </section>
+    <section class="legal-module__-p45BW__section">
+      <h2>
+        <font><font>8. LINKS TO THIRD PARTIES</font></font>
+      </h2>
+      <p>
+        <font
+          ><font
+            >The site may contain links to other sites. The provider is not
+            responsible for their content.</font
+          ></font
+        >
+      </p>
+    </section>
+    <section class="legal-module__-p45BW__section">
+      <h2>
+        <font><font>9. CHANGES</font></font>
+      </h2>
+      <p>
+        <font
+          ><font
+            >The Provider reserves the right to change these General Terms and
+            Conditions at any time.</font
+          ></font
+        >
+      </p>
+      <p>
+        <font
+          ><font
+            >The changes take effect upon their publication on the site.</font
+          ></font
+        >
+      </p>
+      <p></p>
+    </section>
+    <section class="legal-module__-p45BW__section">
+      <h2>
+        <font><font>10. APPLICABLE LAW</font></font>
+      </h2>
+      <p>
+        <font
+          ><font
+            >The legislation of the Republic of Bulgaria applies to all
+            matters.</font
+          ></font
+        >
+      </p>
+    </section>
+    <section class="legal-module__-p45BW__section">
+      <h2>
+        <font><font>11. CONTACTS</font></font>
+      </h2>
+      <p>
+        <font><font>ForstoreBG Ltd. </font></font><br /><font
+          ><font>UIC: 206265331 </font></font
+        ><br /><font
+          ><font
+            >Address: Plovdiv (4000), Iztochen district, 105 Hristo Botev Blvd.
+          </font></font
+        ><br /><font><font>Website: forstorebg.com</font></font>
+      </p>
+    </section>
+    <p></p>
+  </div>
+</main>

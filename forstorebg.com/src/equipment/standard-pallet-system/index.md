@@ -7,40 +7,545 @@ stylesheets:
   - "/_next/static/chunks/702cd381b41a98a9.css"
 ---
 
+tags: - equipment - standard-pallet-system --- tags: - equipment -
+standard-pallet-system ---
+
 <main class="Services-module__3bADUG__page">
-<section class="Services-module__3bADUG__hero">
-<img alt="Standard pallet system" title="Standard pallet system" decoding="async" data-nimg="fill" class="Services-module__3bADUG__heroImage" src="/assets/images/equipment/conventional-pallet-racking/conventional-pallet-racking1.webp" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent"><div class="Services-module__3bADUG__overlay"></div><div class="Services-module__3bADUG__heroContent"><h1>Standard pallet system<span class="Services-module__3bADUG__engtitle">Conventional pallet racking</span></h1><h2>Flexible and efficient shelving system for organized storage and quick access to all pallets.</h2><div><button type="button" class="Button-module__e7WGRa__inverseWhiteBtn Button-module__e7WGRa__size_lg"><span>Send inquiry</span></button></div></div></section>
+  <section class="Services-module__3bADUG__hero">
+    <img
+      alt="Standard pallet system"
+      class="Services-module__3bADUG__heroImage"
+      data-nimg="fill"
+      decoding="async"
+      src="/assets/images/equipment/conventional-pallet-racking/conventional-pallet-racking1.webp"
+      style="
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        color: transparent;
+      "
+      title="Standard pallet system"
+    />
+    <div class="Services-module__3bADUG__overlay"></div>
+    <div class="Services-module__3bADUG__heroContent">
+      <h1>
+        Standard pallet system<span class="Services-module__3bADUG__engtitle"
+          >Conventional pallet racking</span
+        >
+      </h1>
+      <h2>
+        Flexible and efficient shelving system for organized storage and quick
+        access to all pallets.
+      </h2>
+      <div>
+        <button
+          class="Button-module__e7WGRa__inverseWhiteBtn Button-module__e7WGRa__size_lg"
+          type="button"
+        >
+          <span>Send inquiry</span>
+        </button>
+      </div>
+    </div>
+  </section>
 
+  <nav class="Services-module__3bADUG__stickyNav">
+    <div class="Services-module__3bADUG__navInner">
+      <a
+        class="Services-module__3bADUG__navLink Services-module__3bADUG__activeLink"
+        href="#product"
+        title="Description"
+        >Description
+        <div
+          class="Services-module__3bADUG__underline"
+          style="transform-origin: 50% 50% 0px"
+        ></div></a
+      ><a
+        class="Services-module__3bADUG__navLink"
+        href="#advantages"
+        title="Advantages"
+        >Advantages</a
+      ><a
+        class="Services-module__3bADUG__navLink"
+        href="#applications"
+        title="Applications"
+        >Applications</a
+      ><a
+        class="Services-module__3bADUG__navLink"
+        href="#components"
+        title="Components"
+        >Components</a
+      ><a
+        class="Services-module__3bADUG__navLink"
+        href="#gallery"
+        title="Gallery"
+        >Gallery</a
+      >
+    </div>
+  </nav>
 
+  <section class="Services-module__3bADUG__serviceSection" id="product">
+    <div class="Services-module__3bADUG__contentTitle">
+      <div class="SectionTitle-module__Svbyca__container">
+        <span
+          class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
+          >System description</span
+        >
+      </div>
+    </div>
+    <div class="Services-module__3bADUG__container">
+      <div class="Services-module__3bADUG__serviceGrid">
+        <div class="Services-module__3bADUG__textBlock">
+          <p>
+            Conventional Pallet Racking is the best solution for warehouses
+            where it is necessary to store a wide variety of items on pallets.
+          </p>
+          <p>
+            A wide range of profiles and accessories ensure full adaptation to
+            all loads and specific requirements.
+          </p>
+          <p>
+            The location and height of the racks are determined by the
+            characteristics of the forklifts used, the pallets that need to be
+            stored, and the dimensions of the room in which they will be built.
+          </p>
+        </div>
+        <div class="Services-module__3bADUG__imageWrapper">
+          <div class="Services-module__3bADUG__imagesContainer">
+            <img
+              alt="Standard pallet system"
+              class="Services-module__3bADUG__serviceImage"
+              data-nimg="1"
+              decoding="async"
+              height="600"
+              loading="lazy"
+              src="/assets/images/equipment/conventional-pallet-racking/conventional-pallet-racking1.webp"
+              style="color: transparent"
+              title="Standard pallet system"
+              width="800"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
-<nav class="Services-module__3bADUG__stickyNav">
-<div class="Services-module__3bADUG__navInner"><a href="#product" title="Description" class="Services-module__3bADUG__navLink Services-module__3bADUG__activeLink">Description<div class="Services-module__3bADUG__underline" style="transform-origin:50% 50% 0px"></div></a><a href="#advantages" title="Advantages" class="Services-module__3bADUG__navLink">Advantages</a><a href="#applications" title="Applications" class="Services-module__3bADUG__navLink">Applications</a><a href="#components" title="Components" class="Services-module__3bADUG__navLink">Components</a><a href="#gallery" title="Gallery" class="Services-module__3bADUG__navLink">Gallery</a></div></nav>
+  <section
+    class="Services-module__3bADUG__serviceSection Services-module__3bADUG__reverse"
+    id="advantages"
+  >
+    <div class="Services-module__3bADUG__contentTitle">
+      <div class="SectionTitle-module__Svbyca__container">
+        <span
+          class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
+          >Key benefits</span
+        >
+      </div>
+    </div>
+    <div class="Services-module__3bADUG__container">
+      <div class="Services-module__3bADUG__serviceGrid">
+        <div class="Services-module__3bADUG__textBlock">
+          <p>
+            Direct access to each pallet – ensures quick and easy operation,
+            with each pallet position accessible directly from the work aisle.
+          </p>
+          <p>
+            Maximum efficiency of warehouse space – the system adapts to the
+            height and configuration of the warehouse to optimally use the
+            available space.
+          </p>
+          <p>
+            Flexibility for different loads – suitable for pallets, containers,
+            cartons, barrels and other loads of different sizes and weights.
+          </p>
+          <p>
+            Modular and expandable design – levels can be adjusted, and the
+            system is easily expanded as storage needs increase.
+          </p>
+          <p>
+            Ideal for picking operations - allows for quick order picking from
+            both lower levels and higher positions with appropriate equipment.
+          </p>
+        </div>
+        <div class="Services-module__3bADUG__imageWrapper">
+          <div class="Services-module__3bADUG__imagesContainer">
+            <img
+              alt="Standard pallet system"
+              class="Services-module__3bADUG__serviceImage"
+              data-nimg="1"
+              decoding="async"
+              height="600"
+              loading="lazy"
+              src="/assets/images/equipment/conventional-pallet-racking/conventional-pallet-racking1.webp"
+              style="color: transparent"
+              title="Standard pallet system"
+              width="800"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
+  <section class="Services-module__3bADUG__serviceSection" id="applications">
+    <div class="Services-module__3bADUG__contentTitle">
+      <div class="SectionTitle-module__Svbyca__container">
+        <span
+          class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
+          >Areas of application</span
+        >
+      </div>
+    </div>
+    <div class="Services-module__3bADUG__container">
+      <div class="Services-module__3bADUG__serviceGrid">
+        <div class="Services-module__3bADUG__textBlock">
+          <p>
+            Warehouses with a wide variety of SKUs – pallet racks are an ideal
+            solution for storing and organizing a wide variety of products,
+            providing easy access to every warehouse position.
+          </p>
+          <p>
+            Multi-client warehouses (3PL) – the system allows for effective
+            management of goods from different clients and is an excellent
+            solution for logistics centers with high cargo turnover dynamics.
+          </p>
+          <p>
+            Large and small warehouses – thanks to their modular design, pallet
+            racks can be adapted for both compact warehouses and large logistics
+            centers.
+          </p>
+          <p>
+            Storage of various types of cargo – in addition to standard pallets,
+            the system can be configured to store containers, cartons, barrels,
+            coils and other cargo.
+          </p>
+          <p>
+            Warehouse space optimization – solutions such as double-depth racks
+            allow for increased storage capacity while maintaining access to
+            goods.
+          </p>
+          <p>
+            Order picking – the lower levels of the racks can be configured for
+            quick and convenient manual order picking.
+          </p>
+        </div>
+        <div class="Services-module__3bADUG__imageWrapper">
+          <div class="Services-module__3bADUG__imagesContainer">
+            <img
+              alt="Standard pallet system"
+              class="Services-module__3bADUG__serviceImage"
+              data-nimg="1"
+              decoding="async"
+              height="600"
+              loading="lazy"
+              src="/assets/images/equipment/conventional-pallet-racking/conventional-pallet-racking1.webp"
+              style="color: transparent"
+              title="Standard pallet system"
+              width="800"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
+  <section
+    class="Services-module__3bADUG__serviceSection Services-module__3bADUG__reverse"
+    id="components"
+  >
+    <div class="Services-module__3bADUG__contentTitle">
+      <div class="SectionTitle-module__Svbyca__container">
+        <span
+          class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
+          >Main components and elements</span
+        >
+      </div>
+    </div>
+    <div class="Services-module__3bADUG__container">
+      <div class="styles.serviceGrid Services-module__3bADUG__serviceGridList">
+        <div class="Services-module__3bADUG__textBlock">
+          <ul class="Services-module__3bADUG__list">
+            <li>Farm</li>
+            <li>Beam</li>
+            <li>Safety pin</li>
+            <li>Cross connection</li>
+            <li>Wall mounting connection</li>
+            <li>Anchor bolt</li>
+            <li>Step</li>
+            <li>Protector</li>
+            <li>Guardrail protector</li>
+            <li>Strengthening</li>
+            <li>Portal link</li>
+            <li>Pallet support profile</li>
+            <li>Container support profile</li>
+            <li>Supporting profile for chipboard</li>
+            <li>Chipboard shelves</li>
+            <li>Metal shelves</li>
+            <li>Metal mesh</li>
+            <li>Barrel support profile</li>
+            <li>Pallet limiter</li>
+            <li>Safety net</li>
+            <li>Load lifting profile</li>
+            <li>Information plate</li>
+            <li>Corridor identification sign</li>
+          </ul>
+        </div>
+        <div class="Services-module__3bADUG__imageWrapper">
+          <img
+            alt="Standard pallet system"
+            class="Services-module__3bADUG__serviceImageScheme"
+            data-nimg="1"
+            decoding="async"
+            height="600"
+            loading="lazy"
+            src="/assets/images/equipment/conventional-pallet-racking/Conventional_Pallet_Racking-scheme.webp"
+            style="color: transparent"
+            title="Standard pallet system"
+            width="800"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
 
-<section id="product" class="Services-module__3bADUG__serviceSection">
-<div class="Services-module__3bADUG__contentTitle"><div class="SectionTitle-module__Svbyca__container"><span class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange">System description</span></div></div><div class="Services-module__3bADUG__container"><div class="Services-module__3bADUG__serviceGrid"><div class="Services-module__3bADUG__textBlock"><p>Conventional Pallet Racking is the best solution for warehouses where it is necessary to store a wide variety of items on pallets.<p>A wide range of profiles and accessories ensure full adaptation to all loads and specific requirements.<p>The location and height of the racks are determined by the characteristics of the forklifts used, the pallets that need to be stored, and the dimensions of the room in which they will be built.</p></div><div class="Services-module__3bADUG__imageWrapper"><div class="Services-module__3bADUG__imagesContainer"><img alt="Standard pallet system" title="Standard pallet system" loading="lazy" width="800" height="600" decoding="async" data-nimg="1" class="Services-module__3bADUG__serviceImage" src="/assets/images/equipment/conventional-pallet-racking/conventional-pallet-racking1.webp" style="color:transparent"></div></div></div></div></section>
-
-
-
-<section id="advantages" class="Services-module__3bADUG__serviceSection Services-module__3bADUG__reverse">
-<div class="Services-module__3bADUG__contentTitle"><div class="SectionTitle-module__Svbyca__container"><span class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange">Key benefits</span></div></div><div class="Services-module__3bADUG__container"><div class="Services-module__3bADUG__serviceGrid"><div class="Services-module__3bADUG__textBlock"><p>Direct access to each pallet – ensures quick and easy operation, with each pallet position accessible directly from the work aisle.<p>Maximum efficiency of warehouse space – the system adapts to the height and configuration of the warehouse to optimally use the available space.<p>Flexibility for different loads – suitable for pallets, containers, cartons, barrels and other loads of different sizes and weights.<p>Modular and expandable design – levels can be adjusted, and the system is easily expanded as storage needs increase.<p>Ideal for picking operations - allows for quick order picking from both lower levels and higher positions with appropriate equipment.</p></div><div class="Services-module__3bADUG__imageWrapper"><div class="Services-module__3bADUG__imagesContainer"><img alt="Standard pallet system" title="Standard pallet system" loading="lazy" width="800" height="600" decoding="async" data-nimg="1" class="Services-module__3bADUG__serviceImage" src="/assets/images/equipment/conventional-pallet-racking/conventional-pallet-racking1.webp" style="color:transparent"></div></div></div></div></section>
-
-
-
-<section id="applications" class="Services-module__3bADUG__serviceSection">
-<div class="Services-module__3bADUG__contentTitle"><div class="SectionTitle-module__Svbyca__container"><span class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange">Areas of application</span></div></div><div class="Services-module__3bADUG__container"><div class="Services-module__3bADUG__serviceGrid"><div class="Services-module__3bADUG__textBlock"><p>Warehouses with a wide variety of SKUs – pallet racks are an ideal solution for storing and organizing a wide variety of products, providing easy access to every warehouse position.<p>Multi-client warehouses (3PL) – the system allows for effective management of goods from different clients and is an excellent solution for logistics centers with high cargo turnover dynamics.<p>Large and small warehouses – thanks to their modular design, pallet racks can be adapted for both compact warehouses and large logistics centers.<p>Storage of various types of cargo – in addition to standard pallets, the system can be configured to store containers, cartons, barrels, coils and other cargo.<p>Warehouse space optimization – solutions such as double-depth racks allow for increased storage capacity while maintaining access to goods.<p>Order picking – the lower levels of the racks can be configured for quick and convenient manual order picking.</p></div><div class="Services-module__3bADUG__imageWrapper"><div class="Services-module__3bADUG__imagesContainer"><img alt="Standard pallet system" title="Standard pallet system" loading="lazy" width="800" height="600" decoding="async" data-nimg="1" class="Services-module__3bADUG__serviceImage" src="/assets/images/equipment/conventional-pallet-racking/conventional-pallet-racking1.webp" style="color:transparent"></div></div></div></div></section>
-
-
-
-<section id="components" class="Services-module__3bADUG__serviceSection Services-module__3bADUG__reverse">
-<div class="Services-module__3bADUG__contentTitle"><div class="SectionTitle-module__Svbyca__container"><span class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange">Main components and elements</span></div></div><div class="Services-module__3bADUG__container"><div class="styles.serviceGrid Services-module__3bADUG__serviceGridList"><div class="Services-module__3bADUG__textBlock"><ul class="Services-module__3bADUG__list"><li>Farm<li>Beam<li>Safety pin<li>Cross connection<li>Wall mounting connection<li>Anchor bolt<li>Step<li>Protector<li>Guardrail protector<li>Strengthening<li>Portal link<li>Pallet support profile<li>Container support profile<li>Supporting profile for chipboard<li>Chipboard shelves<li>Metal shelves<li>Metal mesh<li>Barrel support profile<li>Pallet limiter<li>Safety net<li>Load lifting profile<li>Information plate<li>Corridor identification sign</ul></div><div class="Services-module__3bADUG__imageWrapper"><img alt="Standard pallet system" title="Standard pallet system" loading="lazy" width="800" height="600" decoding="async" data-nimg="1" class="Services-module__3bADUG__serviceImageScheme" src="/assets/images/equipment/conventional-pallet-racking/Conventional_Pallet_Racking-scheme.webp" style="color:transparent"></div></div></div></section>
-
-
-
-<section id="gallery" class="Services-module__3bADUG__serviceSection">
-<div class="Services-module__3bADUG__contentTitle"><div class="SectionTitle-module__Svbyca__container"><span class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange">Gallery</span></div></div><div class="Services-module__3bADUG__container"><div class="Services-module__3bADUG__navigationSwiper"><button class="customPrev Services-module__3bADUG__navBtnSwiper"><svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevrons-left" aria-hidden="true"><path d="m11 17-5-5 5-5"></path><path d="m18 17-5-5 5-5"></path></svg></button><button class="customNext Services-module__3bADUG__navBtnSwiper"><svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevrons-right" aria-hidden="true"><path d="m6 17 5-5-5-5"></path><path d="m13 17 5-5-5-5"></path></svg></button></div><div class="swiper" style="overflow:visible"><div class="swiper-wrapper"><div class="swiper-slide" ><div class="Services-module__3bADUG__cardSwiper"><div class="Services-module__3bADUG__imageWrapperSwiper"><img alt="Standard pallet system" title="Standard pallet system" loading="lazy" decoding="async" data-nimg="fill" class="Services-module__3bADUG__imageSwiper" src="/assets/images/equipment/conventional-pallet-racking/conventional-pallet-racking.webp" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent"><div class="Services-module__3bADUG__overlaySwiper"><span><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign" aria-hidden="true"><circle cx="11" cy="11" r="8"></circle><line x1="21" x2="16.65" y1="21" y2="16.65"></line><line x1="11" x2="11" y1="8" y2="14"></line><line x1="8" x2="14" y1="11" y2="11"></line></svg></span></div></div></div></div><div class="swiper-slide" ><div class="Services-module__3bADUG__cardSwiper"><div class="Services-module__3bADUG__imageWrapperSwiper"><img alt="Standard pallet system" title="Standard pallet system" loading="lazy" decoding="async" data-nimg="fill" class="Services-module__3bADUG__imageSwiper" src="/assets/images/equipment/conventional-pallet-racking/conventional-pallet-racking1.webp" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent"><div class="Services-module__3bADUG__overlaySwiper"><span><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign" aria-hidden="true"><circle cx="11" cy="11" r="8"></circle><line x1="21" x2="16.65" y1="21" y2="16.65"></line><line x1="11" x2="11" y1="8" y2="14"></line><line x1="8" x2="14" y1="11" y2="11"></line></svg></span></div></div></div></div><div class="swiper-slide" ><div class="Services-module__3bADUG__cardSwiper"><div class="Services-module__3bADUG__imageWrapperSwiper"><img alt="Standard pallet system" title="Standard pallet system" loading="lazy" decoding="async" data-nimg="fill" class="Services-module__3bADUG__imageSwiper" src="/assets/images/equipment/conventional-pallet-racking/conventional-pallet-racking2.webp" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent"><div class="Services-module__3bADUG__overlaySwiper"><span><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign" aria-hidden="true"><circle cx="11" cy="11" r="8"></circle><line x1="21" x2="16.65" y1="21" y2="16.65"></line><line x1="11" x2="11" y1="8" y2="14"></line><line x1="8" x2="14" y1="11" y2="11"></line></svg></span></div></div></div></div><div class="swiper-slide" ><div class="Services-module__3bADUG__cardSwiper"><div class="Services-module__3bADUG__imageWrapperSwiper"><img alt="Standard pallet system" title="Standard pallet system" loading="lazy" decoding="async" data-nimg="fill" class="Services-module__3bADUG__imageSwiper" src="/assets/images/equipment/conventional-pallet-racking/conventional-pallet-racking3.webp" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent"><div class="Services-module__3bADUG__overlaySwiper"><span><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign" aria-hidden="true"><circle cx="11" cy="11" r="8"></circle><line x1="21" x2="16.65" y1="21" y2="16.65"></line><line x1="11" x2="11" y1="8" y2="14"></line><line x1="8" x2="14" y1="11" y2="11"></line></svg></span></div></div></div></div></div></div></div></section>
-
-
-
+  <section class="Services-module__3bADUG__serviceSection" id="gallery">
+    <div class="Services-module__3bADUG__contentTitle">
+      <div class="SectionTitle-module__Svbyca__container">
+        <span
+          class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
+          >Gallery</span
+        >
+      </div>
+    </div>
+    <div class="Services-module__3bADUG__container">
+      <div class="Services-module__3bADUG__navigationSwiper">
+        <button class="customPrev Services-module__3bADUG__navBtnSwiper">
+          <svg
+            aria-hidden="true"
+            class="lucide lucide-chevrons-left"
+            fill="none"
+            height="31"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="31"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path d="m11 17-5-5 5-5"></path>
+            <path d="m18 17-5-5 5-5"></path>
+          </svg></button
+        ><button class="customNext Services-module__3bADUG__navBtnSwiper">
+          <svg
+            aria-hidden="true"
+            class="lucide lucide-chevrons-right"
+            fill="none"
+            height="31"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="31"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path d="m6 17 5-5-5-5"></path>
+            <path d="m13 17 5-5-5-5"></path>
+          </svg>
+        </button>
+      </div>
+      <div class="swiper" style="overflow: visible">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <div class="Services-module__3bADUG__cardSwiper">
+              <div class="Services-module__3bADUG__imageWrapperSwiper">
+                <img
+                  alt="Standard pallet system"
+                  class="Services-module__3bADUG__imageSwiper"
+                  data-nimg="fill"
+                  decoding="async"
+                  loading="lazy"
+                  src="/assets/images/equipment/conventional-pallet-racking/conventional-pallet-racking.webp"
+                  style="
+                    position: absolute;
+                    height: 100%;
+                    width: 100%;
+                    left: 0;
+                    top: 0;
+                    right: 0;
+                    bottom: 0;
+                    color: transparent;
+                  "
+                  title="Standard pallet system"
+                />
+                <div class="Services-module__3bADUG__overlaySwiper">
+                  <span
+                    ><svg
+                      aria-hidden="true"
+                      class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
+                      fill="none"
+                      height="48"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      viewBox="0 0 24 24"
+                      width="48"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <circle cx="11" cy="11" r="8"></circle>
+                      <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
+                      <line x1="11" x2="11" y1="8" y2="14"></line>
+                      <line x1="8" x2="14" y1="11" y2="11"></line></svg
+                  ></span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="Services-module__3bADUG__cardSwiper">
+              <div class="Services-module__3bADUG__imageWrapperSwiper">
+                <img
+                  alt="Standard pallet system"
+                  class="Services-module__3bADUG__imageSwiper"
+                  data-nimg="fill"
+                  decoding="async"
+                  loading="lazy"
+                  src="/assets/images/equipment/conventional-pallet-racking/conventional-pallet-racking1.webp"
+                  style="
+                    position: absolute;
+                    height: 100%;
+                    width: 100%;
+                    left: 0;
+                    top: 0;
+                    right: 0;
+                    bottom: 0;
+                    color: transparent;
+                  "
+                  title="Standard pallet system"
+                />
+                <div class="Services-module__3bADUG__overlaySwiper">
+                  <span
+                    ><svg
+                      aria-hidden="true"
+                      class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
+                      fill="none"
+                      height="48"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      viewBox="0 0 24 24"
+                      width="48"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <circle cx="11" cy="11" r="8"></circle>
+                      <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
+                      <line x1="11" x2="11" y1="8" y2="14"></line>
+                      <line x1="8" x2="14" y1="11" y2="11"></line></svg
+                  ></span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="Services-module__3bADUG__cardSwiper">
+              <div class="Services-module__3bADUG__imageWrapperSwiper">
+                <img
+                  alt="Standard pallet system"
+                  class="Services-module__3bADUG__imageSwiper"
+                  data-nimg="fill"
+                  decoding="async"
+                  loading="lazy"
+                  src="/assets/images/equipment/conventional-pallet-racking/conventional-pallet-racking2.webp"
+                  style="
+                    position: absolute;
+                    height: 100%;
+                    width: 100%;
+                    left: 0;
+                    top: 0;
+                    right: 0;
+                    bottom: 0;
+                    color: transparent;
+                  "
+                  title="Standard pallet system"
+                />
+                <div class="Services-module__3bADUG__overlaySwiper">
+                  <span
+                    ><svg
+                      aria-hidden="true"
+                      class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
+                      fill="none"
+                      height="48"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      viewBox="0 0 24 24"
+                      width="48"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <circle cx="11" cy="11" r="8"></circle>
+                      <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
+                      <line x1="11" x2="11" y1="8" y2="14"></line>
+                      <line x1="8" x2="14" y1="11" y2="11"></line></svg
+                  ></span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="Services-module__3bADUG__cardSwiper">
+              <div class="Services-module__3bADUG__imageWrapperSwiper">
+                <img
+                  alt="Standard pallet system"
+                  class="Services-module__3bADUG__imageSwiper"
+                  data-nimg="fill"
+                  decoding="async"
+                  loading="lazy"
+                  src="/assets/images/equipment/conventional-pallet-racking/conventional-pallet-racking3.webp"
+                  style="
+                    position: absolute;
+                    height: 100%;
+                    width: 100%;
+                    left: 0;
+                    top: 0;
+                    right: 0;
+                    bottom: 0;
+                    color: transparent;
+                  "
+                  title="Standard pallet system"
+                />
+                <div class="Services-module__3bADUG__overlaySwiper">
+                  <span
+                    ><svg
+                      aria-hidden="true"
+                      class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
+                      fill="none"
+                      height="48"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      viewBox="0 0 24 24"
+                      width="48"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <circle cx="11" cy="11" r="8"></circle>
+                      <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
+                      <line x1="11" x2="11" y1="8" y2="14"></line>
+                      <line x1="8" x2="14" y1="11" y2="11"></line></svg
+                  ></span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 </main>
