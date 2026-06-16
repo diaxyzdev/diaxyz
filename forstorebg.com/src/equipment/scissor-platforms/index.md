@@ -29,17 +29,15 @@ tags: - equipment - scissor-platforms --- tags: - equipment - scissor-platforms
       <div class="Services-module__3bADUG__overlay"></div>
       <div class="Services-module__3bADUG__heroContent">
         <h1>
-          <font><font>Scissor lifts</font></font
+          <font>Scissor lifts</font
           ><span class="Services-module__3bADUG__engtitle"
-            ><font><font>Scissor lifts</font></font></span
+            ><font>Scissor lifts</font></span
           >
         </h1>
         <h2>
           <font
-            ><font
-              >A reliable solution for safe and efficient work at height in
-              industrial and warehouse environments</font
-            ></font
+            >A reliable solution for safe and efficient work at height in
+            industrial and warehouse environments</font
           >
         </h2>
         <div>
@@ -47,9 +45,7 @@ tags: - equipment - scissor-platforms --- tags: - equipment - scissor-platforms
             class="Button-module__e7WGRa__inverseWhiteBtn Button-module__e7WGRa__size_lg"
             type="button"
           >
-            <span
-              ><font><font>Send inquiry</font></font></span
-            >
+            <span><font>Send inquiry</font></span>
           </button>
         </div>
       </div>
@@ -60,22 +56,22 @@ tags: - equipment - scissor-platforms --- tags: - equipment - scissor-platforms
           class="Services-module__3bADUG__navLink"
           href="#optimum-8"
           title="Optimum 8"
-          ><font><font>Optimum 8</font></font></a
+          ><font>Optimum 8</font></a
         ><a
           class="Services-module__3bADUG__navLink"
           href="#compact-10"
           title="Compact 10"
-          ><font><font>Compact 10</font></font></a
+          ><font>Compact 10</font></a
         ><a
           class="Services-module__3bADUG__navLink"
           href="#compact-12"
           title="Compact 12"
-          ><font><font>Compact 12</font></font></a
+          ><font>Compact 12</font></a
         ><a
           class="Services-module__3bADUG__navLink Services-module__3bADUG__activeLink"
           href="#compact-14"
           title="Compact 14"
-          ><font><font>Compact 14</font></font>
+          ><font>Compact 14</font>
           <div
             class="Services-module__3bADUG__underline"
             style="transform-origin: 50% 50% 0px"
@@ -91,7 +87,7 @@ tags: - equipment - scissor-platforms --- tags: - equipment - scissor-platforms
         <div class="SectionTitle-module__Svbyca__container">
           <span
             class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
-            ><font><font>Scissor lifts</font></font></span
+            ><font>Scissor lifts</font></span
           >
         </div>
       </div>
@@ -100,112 +96,102 @@ tags: - equipment - scissor-platforms --- tags: - equipment - scissor-platforms
           <div class="Services-module__3bADUG__textBlock">
             <div class="Services-module__3bADUG__product">
               <h3 class="Services-module__3bADUG__productTitle">
-                <font><font>Optimum 8</font></font>
+                <font>Optimum 8</font>
               </h3>
               <div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Working height </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Working height </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>7.77m</font></font></span
+                    ><font>7.77m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Platform height </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Platform height </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>5.77m</font></font></span
+                    ><font>5.77m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Platform length </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Platform length </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>1.72m</font></font></span
+                    ><font>1.72m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Platform length – extended </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Platform length – extended </font
+                    ><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>2.59m</font></font></span
+                    ><font>2.59m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Length – extension </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Length – extension </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>0.86m</font></font></span
+                    ><font>0.86m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Height – stowed </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Height – stowed </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>1.98m</font></font></span
+                    ><font>1.98m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Total width </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Total width </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>0.79m</font></font></span
+                    ><font>0.79m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Length </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Length </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>1.9m</font></font></span
+                    ><font>1.9m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Weight </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Weight </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>1,590 kg</font></font></span
+                    ><font>1,590 kg</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Lifting capacity – inside </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Lifting capacity – inside </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>230 kg (2 people)</font></font></span
+                    ><font>230 kg (2 people)</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Lifting capacity – outside </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Lifting capacity – outside </font
+                    ><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>230 kg (1 person)</font></font></span
+                    ><font>230 kg (1 person)</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Hydraulic system capacity </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Hydraulic system capacity </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>7 l</font></font></span
+                    ><font>7 l</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow"></div>
               </div>
               <div class="Services-module__3bADUG__specRow">
                 <span class="Services-module__3bADUG__label"
-                  ><font><font>Price:</font></font></span
+                  ><font>Price:</font></span
                 ><span class="Services-module__3bADUG__value"
-                  ><font><font>Upon request</font></font></span
+                  ><font>Upon request</font></span
                 >
               </div>
               <div class="Services-module__3bADUG__productBtn">
@@ -213,9 +199,7 @@ tags: - equipment - scissor-platforms --- tags: - equipment - scissor-platforms
                   class="Button-module__e7WGRa__grayBtn Button-module__e7WGRa__size_lg"
                   type="button"
                 >
-                  <span
-                    ><font><font>Send inquiry</font></font></span
-                  >
+                  <span><font>Send inquiry</font></span>
                 </button>
               </div>
             </div>
@@ -242,7 +226,7 @@ tags: - equipment - scissor-platforms --- tags: - equipment - scissor-platforms
         <div class="SectionTitle-module__Svbyca__container">
           <span
             class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
-            ><font><font>Scissor lifts</font></font></span
+            ><font>Scissor lifts</font></span
           >
         </div>
       </div>
@@ -251,112 +235,102 @@ tags: - equipment - scissor-platforms --- tags: - equipment - scissor-platforms
           <div class="Services-module__3bADUG__textBlock">
             <div class="Services-module__3bADUG__product">
               <h3 class="Services-module__3bADUG__productTitle">
-                <font><font>Compact 10</font></font>
+                <font>Compact 10</font>
               </h3>
               <div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Working height </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Working height </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>10.15m</font></font></span
+                    ><font>10.15m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Platform height </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Platform height </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>8.15m</font></font></span
+                    ><font>8.15m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Platform length </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Platform length </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>2.31m</font></font></span
+                    ><font>2.31m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Platform length – extended </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Platform length – extended </font
+                    ><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>3.23m</font></font></span
+                    ><font>3.23m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Length – extension </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Length – extension </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>0.92m</font></font></span
+                    ><font>0.92m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Height – stowed </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Height – stowed </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>2.26m</font></font></span
+                    ><font>2.26m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Total width </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Total width </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>1.2m</font></font></span
+                    ><font>1.2m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Length </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Length </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>2.49m</font></font></span
+                    ><font>2.49m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Weight </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Weight </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>2,330 kg</font></font></span
+                    ><font>2,330 kg</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Lifting capacity – inside </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Lifting capacity – inside </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>450 kg (2 people)</font></font></span
+                    ><font>450 kg (2 people)</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Lifting capacity – outside </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Lifting capacity – outside </font
+                    ><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>450 kg (1 person)</font></font></span
+                    ><font>450 kg (1 person)</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Extension load capacity </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Extension load capacity </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>150 kg</font></font></span
+                    ><font>150 kg</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow"></div>
               </div>
               <div class="Services-module__3bADUG__specRow">
                 <span class="Services-module__3bADUG__label"
-                  ><font><font>Price:</font></font></span
+                  ><font>Price:</font></span
                 ><span class="Services-module__3bADUG__value"
-                  ><font><font>Upon request</font></font></span
+                  ><font>Upon request</font></span
                 >
               </div>
               <div class="Services-module__3bADUG__productBtn">
@@ -364,9 +338,7 @@ tags: - equipment - scissor-platforms --- tags: - equipment - scissor-platforms
                   class="Button-module__e7WGRa__grayBtn Button-module__e7WGRa__size_lg"
                   type="button"
                 >
-                  <span
-                    ><font><font>Send inquiry</font></font></span
-                  >
+                  <span><font>Send inquiry</font></span>
                 </button>
               </div>
             </div>
@@ -393,7 +365,7 @@ tags: - equipment - scissor-platforms --- tags: - equipment - scissor-platforms
         <div class="SectionTitle-module__Svbyca__container">
           <span
             class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
-            ><font><font>Scissor lifts</font></font></span
+            ><font>Scissor lifts</font></span
           >
         </div>
       </div>
@@ -402,112 +374,102 @@ tags: - equipment - scissor-platforms --- tags: - equipment - scissor-platforms
           <div class="Services-module__3bADUG__textBlock">
             <div class="Services-module__3bADUG__product">
               <h3 class="Services-module__3bADUG__productTitle">
-                <font><font>Compact 12</font></font>
+                <font>Compact 12</font>
               </h3>
               <div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Working height </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Working height </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>11.98m</font></font></span
+                    ><font>11.98m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Platform height </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Platform height </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>9.98m</font></font></span
+                    ><font>9.98m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Platform length </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Platform length </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>2.31m</font></font></span
+                    ><font>2.31m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Platform length – extended </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Platform length – extended </font
+                    ><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>3.23m</font></font></span
+                    ><font>3.23m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Length – extension </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Length – extension </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>0.92m</font></font></span
+                    ><font>0.92m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Height – stowed </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Height – stowed </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>2.39m</font></font></span
+                    ><font>2.39m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Total width </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Total width </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>1.2m</font></font></span
+                    ><font>1.2m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Length </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Length </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>2.49m</font></font></span
+                    ><font>2.49m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Weight </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Weight </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>2,470 kg</font></font></span
+                    ><font>2,470 kg</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Lifting capacity – inside </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Lifting capacity – inside </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>300 kg (2 people)</font></font></span
+                    ><font>300 kg (2 people)</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Lifting capacity – outside </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Lifting capacity – outside </font
+                    ><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>300 kg (1 person)</font></font></span
+                    ><font>300 kg (1 person)</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Extension load capacity </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Extension load capacity </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>150 kg</font></font></span
+                    ><font>150 kg</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow"></div>
               </div>
               <div class="Services-module__3bADUG__specRow">
                 <span class="Services-module__3bADUG__label"
-                  ><font><font>Price:</font></font></span
+                  ><font>Price:</font></span
                 ><span class="Services-module__3bADUG__value"
-                  ><font><font>Upon request</font></font></span
+                  ><font>Upon request</font></span
                 >
               </div>
               <div class="Services-module__3bADUG__productBtn">
@@ -515,9 +477,7 @@ tags: - equipment - scissor-platforms --- tags: - equipment - scissor-platforms
                   class="Button-module__e7WGRa__grayBtn Button-module__e7WGRa__size_lg"
                   type="button"
                 >
-                  <span
-                    ><font><font>Send inquiry</font></font></span
-                  >
+                  <span><font>Send inquiry</font></span>
                 </button>
               </div>
             </div>
@@ -544,7 +504,7 @@ tags: - equipment - scissor-platforms --- tags: - equipment - scissor-platforms
         <div class="SectionTitle-module__Svbyca__container">
           <span
             class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
-            ><font><font>Scissor lifts</font></font></span
+            ><font>Scissor lifts</font></span
           >
         </div>
       </div>
@@ -553,104 +513,94 @@ tags: - equipment - scissor-platforms --- tags: - equipment - scissor-platforms
           <div class="Services-module__3bADUG__textBlock">
             <div class="Services-module__3bADUG__product">
               <h3 class="Services-module__3bADUG__productTitle">
-                <font><font>Compact 14</font></font>
+                <font>Compact 14</font>
               </h3>
               <div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Working height </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Working height </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>13.85m</font></font></span
+                    ><font>13.85m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Platform height </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Platform height </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>11.85m</font></font></span
+                    ><font>11.85m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Platform length </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Platform length </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>2.31m</font></font></span
+                    ><font>2.31m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Platform length – extended </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Platform length – extended </font
+                    ><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>3.23m</font></font></span
+                    ><font>3.23m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Length – extension </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Length – extension </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>0.92m</font></font></span
+                    ><font>0.92m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Height – stowed </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Height – stowed </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>2.5m</font></font></span
+                    ><font>2.5m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Total width </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Total width </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>1.2m</font></font></span
+                    ><font>1.2m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Length </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Length </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>2.49m</font></font></span
+                    ><font>2.49m</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Weight </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Weight </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>3,175 kg</font></font></span
+                    ><font>3,175 kg</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Lifting capacity – inside </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Lifting capacity – inside </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>350 kg (3 people)</font></font></span
+                    ><font>350 kg (3 people)</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Extension load capacity </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Extension load capacity </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>150 kg</font></font></span
+                    ><font>150 kg</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow"></div>
               </div>
               <div class="Services-module__3bADUG__specRow">
                 <span class="Services-module__3bADUG__label"
-                  ><font><font>Price:</font></font></span
+                  ><font>Price:</font></span
                 ><span class="Services-module__3bADUG__value"
-                  ><font><font>Upon request</font></font></span
+                  ><font>Upon request</font></span
                 >
               </div>
               <div class="Services-module__3bADUG__productBtn">
@@ -658,9 +608,7 @@ tags: - equipment - scissor-platforms --- tags: - equipment - scissor-platforms
                   class="Button-module__e7WGRa__grayBtn Button-module__e7WGRa__size_lg"
                   type="button"
                 >
-                  <span
-                    ><font><font>Send inquiry</font></font></span
-                  >
+                  <span><font>Send inquiry</font></span>
                 </button>
               </div>
             </div>

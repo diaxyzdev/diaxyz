@@ -29,15 +29,13 @@ tags:
       <div class="Contact-module__YWVT-W__overlay"></div>
       <div class="Contact-module__YWVT-W__heroContent">
         <h1>
-          <font><font>Contacts</font></font>
+          <font>Contacts</font>
         </h1>
         <p>
           <font
-            ><font
-              >Do you have questions or are you looking for a solution for your
-              warehouse? Contact us for professional consultation, design and
-              construction of efficient warehouse systems.</font
-            ></font
+            >Do you have questions or are you looking for a solution for your
+            warehouse? Contact us for professional consultation, design and
+            construction of efficient warehouse systems.</font
           >
         </p>
         <div></div>
@@ -48,69 +46,53 @@ tags:
       <div class="Contact-module__YWVT-W__container">
         <div class="Contact-module__YWVT-W__info">
           <h2>
-            <font><font>Contact information</font></font>
+            <font>Contact information</font>
           </h2>
           <div class="Contact-module__YWVT-W__infoBlock">
             <div>
-              <span
-                ><font><font>Office</font></font></span
-              >
+              <span><font>Office</font></span>
               <p>
-                <font><font>Plovdiv, Brezovsko Shosse</font></font>
+                <font>Plovdiv, Brezovsko Shosse</font>
               </p>
             </div>
           </div>
           <div class="Contact-module__YWVT-W__infoBlock">
             <div>
-              <span
-                ><font><font>Phone</font></font></span
-              >
+              <span><font>Phone</font></span>
               <p>
-                <font><font>+359 877 486 644</font></font>
+                <font>+359 877 486 644</font>
               </p>
             </div>
           </div>
           <div class="Contact-module__YWVT-W__infoBlock">
             <div>
-              <span
-                ><font><font>Office</font></font></span
-              >
+              <span><font>Office</font></span>
               <p>
-                <font><font>Sofia</font></font>
+                <font>Sofia</font>
               </p>
             </div>
           </div>
           <div class="Contact-module__YWVT-W__infoBlock">
             <div>
-              <span
-                ><font><font>Phone</font></font></span
-              >
+              <span><font>Phone</font></span>
               <p>
-                <font><font>+359 878 758 080</font></font>
+                <font>+359 878 758 080</font>
               </p>
             </div>
           </div>
           <div class="Contact-module__YWVT-W__infoBlock">
             <div>
-              <span
-                ><font><font>Email</font></font></span
-              >
+              <span><font>Email</font></span>
               <p>
-                <font><font>office@forstorebg.com</font></font>
+                <font>office@forstorebg.com</font>
               </p>
             </div>
           </div>
           <div class="Contact-module__YWVT-W__infoBlock">
             <div>
-              <span
-                ><font><font>Working hours</font></font></span
-              >
+              <span><font>Working hours</font></span>
               <p>
-                <font
-                  ><font
-                    >Mon - Fri: 8:00 - 17:30, Sat - Sun: day off</font
-                  ></font
-                >
+                <font>Mon - Fri: 8:00 - 17:30, Sat - Sun: day off</font>
               </p>
             </div>
           </div>
@@ -122,7 +104,7 @@ tags:
                 <div class="Form-module__PMwpBq__formWrapper">
                   <form class="Form-module__PMwpBq__form">
                     <h3>
-                      <font><font>Write to us</font></font>
+                      <font>Write to us</font>
                     </h3>
                     <div class="Form-module__PMwpBq__inputGroup">
                       <input
@@ -130,9 +112,7 @@ tags:
                         placeholder=" "
                         type="text"
                         value=""
-                      /><label
-                        ><font><font>Company name *</font></font></label
-                      >
+                      /><label><font>Company name *</font></label>
                     </div>
                     <div class="Form-module__PMwpBq__inputGroup">
                       <input
@@ -140,9 +120,7 @@ tags:
                         placeholder=" "
                         type="text"
                         value=""
-                      /><label
-                        ><font><font>Contact person *</font></font></label
-                      >
+                      /><label><font>Contact person *</font></label>
                     </div>
                     <div class="Form-module__PMwpBq__inputGroup">
                       <input
@@ -150,9 +128,7 @@ tags:
                         placeholder=" "
                         type="email"
                         value=""
-                      /><label
-                        ><font><font>Email *</font></font></label
-                      >
+                      /><label><font>Email *</font></label>
                     </div>
                     <div class="Form-module__PMwpBq__inputGroup">
                       <input
@@ -160,9 +136,7 @@ tags:
                         placeholder=" "
                         type="tel"
                         value=""
-                      /><label
-                        ><font><font>Phone *</font></font></label
-                      >
+                      /><label><font>Phone *</font></label>
                     </div>
                     <div class="Form-module__PMwpBq__inputGroup">
                       <textarea
@@ -170,9 +144,7 @@ tags:
                         placeholder=" "
                         rows="4"
                       ></textarea
-                      ><label
-                        ><font><font>Project description *</font></font></label
-                      >
+                      ><label><font>Project description *</font></label>
                     </div>
                     <div>
                       <label class="Form-module__PMwpBq__checkbox"
@@ -183,11 +155,7 @@ tags:
                           value="on"
                         /><span class="Form-module__PMwpBq__customBox"></span>
                         <p>
-                          <font
-                            ><font
-                              >I agree to the Terms and Conditions *</font
-                            ></font
-                          >
+                          <font>I agree to the Terms and Conditions *</font>
                         </p></label
                       ><label class="Form-module__PMwpBq__checkbox"
                         ><input
@@ -197,9 +165,7 @@ tags:
                           value="on"
                         /><span class="Form-module__PMwpBq__customBox"></span>
                         <p>
-                          <font
-                            ><font>I agree to the Privacy Policy *</font></font
-                          >
+                          <font>I agree to the Privacy Policy *</font>
                         </p></label
                       ><label class="Form-module__PMwpBq__checkbox"
                         ><input
@@ -209,9 +175,7 @@ tags:
                         /><span class="Form-module__PMwpBq__customBox"></span>
                         <p>
                           <font
-                            ><font
-                              >I would like to receive marketing messages</font
-                            ></font
+                            >I would like to receive marketing messages</font
                           >
                         </p></label
                       >
@@ -221,9 +185,7 @@ tags:
                         class="Button-module__e7WGRa__orangeBtn Button-module__e7WGRa__size_lg"
                         type="submit"
                       >
-                        <span
-                          ><font><font>Send</font></font></span
-                        >
+                        <span><font>Send</font></span>
                       </button>
                     </div>
                   </form>

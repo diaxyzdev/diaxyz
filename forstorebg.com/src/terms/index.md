@@ -16,48 +16,38 @@ tags:
 <main>
   <div class="legal-module__-p45BW__container">
     <h1 class="legal-module__-p45BW__title">
-      <font
-        ><font>GENERAL TERMS AND CONDITIONS OF USE OF THE WEBSITE</font></font
-      >
+      <font>GENERAL TERMS AND CONDITIONS OF USE OF THE WEBSITE</font>
     </h1>
     <p class="legal-module__-p45BW__subtitle">
-      <font><font>forstorebg.com</font></font>
+      <font>forstorebg.com</font>
     </p>
     <section class="legal-module__-p45BW__section">
       <h2>
-        <font><font>1. GENERAL INFORMATION</font></font>
+        <font>1. GENERAL INFORMATION</font>
       </h2>
       <p>
         <font
-          ><font
-            >These General Terms and Conditions govern the relations
-            between:</font
-          ></font
+          >These General Terms and Conditions govern the relations
+          between:</font
         >
       </p>
       <p>
         <font
-          ><font
-            >"ForstorBG" EOOD, UIC 206265331, with registered office and
-            management address: Bulgaria, Plovdiv (4000), Iztochen district, 105
-            Hristo Botev Blvd., hereinafter referred to as the Supplier,</font
-          ></font
+          >"ForstorBG" EOOD, UIC 206265331, with registered office and
+          management address: Bulgaria, Plovdiv (4000), Iztochen district, 105
+          Hristo Botev Blvd., hereinafter referred to as the Supplier,</font
         >
       </p>
       <p>
         <font
-          ><font
-            >and the users of the website forstorebg.com, hereinafter referred
-            to as Users.</font
-          ></font
+          >and the users of the website forstorebg.com, hereinafter referred to
+          as Users.</font
         >
       </p>
       <p>
         <font
-          ><font
-            >By accessing the site, the User accepts these General Terms and
-            Conditions.</font
-          ></font
+          >By accessing the site, the User accepts these General Terms and
+          Conditions.</font
         >
       </p>
       <p></p>
@@ -66,75 +56,63 @@ tags:
     </section>
     <section class="legal-module__-p45BW__section">
       <h2>
-        <font><font>2. PURPOSE OF THE SITE</font></font>
+        <font>2. PURPOSE OF THE SITE</font>
       </h2>
       <p>
         <font
-          ><font
-            >The site is informative in nature and provides information
-            about:</font
-          ></font
+          >The site is informative in nature and provides information
+          about:</font
         >
       </p>
       <ul>
         <li>
-          <font><font>lifting equipment</font></font>
+          <font>lifting equipment</font>
         </li>
         <li>
-          <font><font>warehouse systems</font></font>
+          <font>warehouse systems</font>
         </li>
         <li>
-          <font><font>automation and industrial solutions</font></font>
+          <font>automation and industrial solutions</font>
         </li>
         <li>
-          <font><font>engineering services and consulting</font></font>
+          <font>engineering services and consulting</font>
         </li>
       </ul>
       <p>
-        <font><font>The site does not offer direct online sales.</font></font>
+        <font>The site does not offer direct online sales.</font>
       </p>
       <p></p>
     </section>
     <section class="legal-module__-p45BW__section">
       <h2>
-        <font><font>3. INQUIRY FORM</font></font>
+        <font>3. INQUIRY FORM</font>
       </h2>
       <p>
-        <font><font>Users can send inquiries via a contact form.</font></font>
+        <font>Users can send inquiries via a contact form.</font>
       </p>
       <p>
-        <font><font>By sending a request, the User:</font></font>
+        <font>By sending a request, the User:</font>
       </p>
       <ul>
         <li>
           <font
-            ><font
-              >voluntarily provides their personal data (name, telephone number,
-              email, etc.);</font
-            ></font
+            >voluntarily provides their personal data (name, telephone number,
+            email, etc.);</font
           >
         </li>
         <li>
           <font
-            ><font
-              >agrees that this data will be used solely for contact and
-              processing of the inquiry;</font
-            ></font
+            >agrees that this data will be used solely for contact and
+            processing of the inquiry;</font
           >
         </li>
         <li>
-          <font
-            ><font
-              >guarantees that the data provided is true and accurate.</font
-            ></font
-          >
+          <font>guarantees that the data provided is true and accurate.</font>
         </li>
       </ul>
       <p>
         <font
-          ><font
-            >The provider is not responsible for incorrect data submitted.</font
-          ></font
+          >The provider is not responsible for incorrect data submitted.</font
         >
       </p>
       <p></p>
@@ -142,35 +120,27 @@ tags:
     </section>
     <section class="legal-module__-p45BW__section">
       <h2>
-        <font><font>4. PROTECTION OF PERSONAL DATA</font></font>
+        <font>4. PROTECTION OF PERSONAL DATA</font>
       </h2>
       <p>
         <font
-          ><font
-            >The Provider processes personal data in accordance with applicable
-            law, including Regulation (EU) 2016/679 (GDPR).</font
-          ></font
+          >The Provider processes personal data in accordance with applicable
+          law, including Regulation (EU) 2016/679 (GDPR).</font
         >
       </p>
       <p>
-        <font><font>The data sent via the form:</font></font>
+        <font>The data sent via the form:</font>
       </p>
       <ul>
         <li>
-          <font><font>are used only to respond to inquiries;</font></font>
+          <font>are used only to respond to inquiries;</font>
+        </li>
+        <li>
+          <font>are not provided to third parties unless required by law;</font>
         </li>
         <li>
           <font
-            ><font
-              >are not provided to third parties unless required by law;</font
-            ></font
-          >
-        </li>
-        <li>
-          <font
-            ><font
-              >are stored for the period necessary to process the request.</font
-            ></font
+            >are stored for the period necessary to process the request.</font
           >
         </li>
       </ul>
@@ -179,140 +149,117 @@ tags:
     </section>
     <section class="legal-module__-p45BW__section">
       <h2>
-        <font><font>5. RIGHTS AND OBLIGATIONS OF THE CONSUMER</font></font>
+        <font>5. RIGHTS AND OBLIGATIONS OF THE CONSUMER</font>
       </h2>
       <p>
-        <font><font>The user undertakes:</font></font>
+        <font>The user undertakes:</font>
       </p>
       <ul>
         <li>
-          <font><font>to use the site lawfully;</font></font>
+          <font>to use the site lawfully;</font>
         </li>
         <li>
           <font
-            ><font
-              >not to perform actions that may disrupt the normal operation of
-              the site;</font
-            ></font
+            >not to perform actions that may disrupt the normal operation of the
+            site;</font
           >
         </li>
         <li>
-          <font
-            ><font>not to submit misleading or false information.</font></font
-          >
+          <font>not to submit misleading or false information.</font>
         </li>
       </ul>
       <p></p>
     </section>
     <section class="legal-module__-p45BW__section">
       <h2>
-        <font><font>6. INTELLECTUAL PROPERTY</font></font>
+        <font>6. INTELLECTUAL PROPERTY</font>
       </h2>
       <p>
         <font
-          ><font
-            >All content on the site (texts, images, logo, design) is the
-            property of "ForstorBG" EOOD or is used legally.</font
-          ></font
+          >All content on the site (texts, images, logo, design) is the property
+          of "ForstorBG" EOOD or is used legally.</font
         >
       </p>
       <p>
         <font
-          ><font
-            >Copying, distribution or use without express consent is
-            prohibited.</font
-          ></font
+          >Copying, distribution or use without express consent is
+          prohibited.</font
         >
       </p>
       <p></p>
     </section>
     <section class="legal-module__-p45BW__section">
       <h2>
-        <font><font>7. LIMITATION OF LIABILITY</font></font>
+        <font>7. LIMITATION OF LIABILITY</font>
       </h2>
       <p>
-        <font><font>The Supplier does not guarantee:</font></font>
+        <font>The Supplier does not guarantee:</font>
       </p>
       <ul>
         <li>
-          <font><font>uninterrupted access to the site;</font></font>
+          <font>uninterrupted access to the site;</font>
         </li>
         <li>
-          <font><font>absence of technical errors;</font></font>
+          <font>absence of technical errors;</font>
         </li>
         <li>
-          <font><font>complete up-to-date information.</font></font>
+          <font>complete up-to-date information.</font>
         </li>
       </ul>
       <p>
         <font
-          ><font
-            >The provider is not liable for any damages caused by the use of the
-            site.</font
-          ></font
+          >The provider is not liable for any damages caused by the use of the
+          site.</font
         >
       </p>
       <p></p>
     </section>
     <section class="legal-module__-p45BW__section">
       <h2>
-        <font><font>8. LINKS TO THIRD PARTIES</font></font>
+        <font>8. LINKS TO THIRD PARTIES</font>
       </h2>
       <p>
         <font
-          ><font
-            >The site may contain links to other sites. The provider is not
-            responsible for their content.</font
-          ></font
+          >The site may contain links to other sites. The provider is not
+          responsible for their content.</font
         >
       </p>
     </section>
     <section class="legal-module__-p45BW__section">
       <h2>
-        <font><font>9. CHANGES</font></font>
+        <font>9. CHANGES</font>
       </h2>
       <p>
         <font
-          ><font
-            >The Provider reserves the right to change these General Terms and
-            Conditions at any time.</font
-          ></font
+          >The Provider reserves the right to change these General Terms and
+          Conditions at any time.</font
         >
       </p>
       <p>
-        <font
-          ><font
-            >The changes take effect upon their publication on the site.</font
-          ></font
-        >
+        <font>The changes take effect upon their publication on the site.</font>
       </p>
       <p></p>
     </section>
     <section class="legal-module__-p45BW__section">
       <h2>
-        <font><font>10. APPLICABLE LAW</font></font>
+        <font>10. APPLICABLE LAW</font>
       </h2>
       <p>
         <font
-          ><font
-            >The legislation of the Republic of Bulgaria applies to all
-            matters.</font
-          ></font
+          >The legislation of the Republic of Bulgaria applies to all
+          matters.</font
         >
       </p>
     </section>
     <section class="legal-module__-p45BW__section">
       <h2>
-        <font><font>11. CONTACTS</font></font>
+        <font>11. CONTACTS</font>
       </h2>
       <p>
-        <font><font>ForstoreBG Ltd. </font></font><br /><font
-          ><font>UIC: 206265331 </font></font
+        <font>ForstoreBG Ltd. </font><br /><font>UIC: 206265331 </font
         ><br /><font
-          ><font
-            >Address: Plovdiv (4000), Iztochen district, 105 Hristo Botev Blvd.
-          </font></font
-        ><br /><font><font>Website: forstorebg.com</font></font>
+          >Address: Plovdiv (4000), Iztochen district, 105 Hristo Botev Blvd. </font
+        ><br /><font>Website: forstorebg.com</font>
       </p>
     </section>
     <p></p>

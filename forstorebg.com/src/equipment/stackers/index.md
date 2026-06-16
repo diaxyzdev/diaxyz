@@ -28,26 +28,20 @@ tags: - equipment - stackers --- tags: - equipment - stackers ---
       <div class="Services-module__3bADUG__overlay"></div>
       <div class="Services-module__3bADUG__heroContent">
         <h1>
-          <font><font>Stackers</font></font
+          <font>Stackers</font
           ><span class="Services-module__3bADUG__engtitle"
-            ><font><font>Stackers</font></font></span
+            ><font>Stackers</font></span
           >
         </h1>
         <h2>
-          <font
-            ><font
-              >Universal lifting equipment for medium storage heights</font
-            ></font
-          >
+          <font>Universal lifting equipment for medium storage heights</font>
         </h2>
         <div>
           <button
             class="Button-module__e7WGRa__inverseWhiteBtn Button-module__e7WGRa__size_lg"
             type="button"
           >
-            <span
-              ><font><font>Send inquiry</font></font></span
-            >
+            <span><font>Send inquiry</font></span>
           </button>
         </div>
       </div>
@@ -58,7 +52,7 @@ tags: - equipment - stackers --- tags: - equipment - stackers ---
           class="Services-module__3bADUG__navLink"
           href="#Stacker-Linde"
           title="Linde electric stackers"
-          ><font><font>Linde electric stackers</font></font></a
+          ><font>Linde electric stackers</font></a
         >
       </div>
     </nav>
@@ -70,7 +64,7 @@ tags: - equipment - stackers --- tags: - equipment - stackers ---
         <div class="SectionTitle-module__Svbyca__container">
           <span
             class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
-            ><font><font>Stackers</font></font></span
+            ><font>Stackers</font></span
           >
         </div>
       </div>
@@ -79,45 +73,43 @@ tags: - equipment - stackers --- tags: - equipment - stackers ---
           <div class="Services-module__3bADUG__textBlock">
             <div class="Services-module__3bADUG__product">
               <h3 class="Services-module__3bADUG__productTitle">
-                <font><font>Linde electric stackers</font></font>
+                <font>Linde electric stackers</font>
               </h3>
               <div class="Services-module__3bADUG__specRow">
                 <span class="Services-module__3bADUG__label"
-                  ><font><font>Manufacturer:</font></font></span
+                  ><font>Manufacturer:</font></span
                 ><span class="Services-module__3bADUG__value"
-                  ><font><font>Linde</font></font></span
+                  ><font>Linde</font></span
                 >
               </div>
               <div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Load capacity </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Load capacity </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>1,200 kg. - 2,500 kg.</font></font></span
+                    ><font>1,200 kg. - 2,500 kg.</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Lifting height </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Lifting height </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>up to 5.75 m</font></font></span
+                    ><font>up to 5.75 m</font></span
                   >
                 </div>
               </div>
               <div class="Services-module__3bADUG__specRow">
                 <span class="Services-module__3bADUG__label"
-                  ><font><font>Condition:</font></font></span
+                  ><font>Condition:</font></span
                 ><span class="Services-module__3bADUG__value"
-                  ><font><font>Used / Recycled</font></font></span
+                  ><font>Used / Recycled</font></span
                 >
               </div>
               <div class="Services-module__3bADUG__specRow">
                 <span class="Services-module__3bADUG__label"
-                  ><font><font>Price:</font></font></span
+                  ><font>Price:</font></span
                 ><span class="Services-module__3bADUG__value"
-                  ><font><font>Upon request</font></font></span
+                  ><font>Upon request</font></span
                 >
               </div>
               <div class="Services-module__3bADUG__productBtn">
@@ -125,9 +117,7 @@ tags: - equipment - stackers --- tags: - equipment - stackers ---
                   class="Button-module__e7WGRa__grayBtn Button-module__e7WGRa__size_lg"
                   type="button"
                 >
-                  <span
-                    ><font><font>Send inquiry</font></font></span
-                  >
+                  <span><font>Send inquiry</font></span>
                 </button>
               </div>
             </div>
@@ -151,7 +141,7 @@ tags: - equipment - stackers --- tags: - equipment - stackers ---
         <div class="SectionTitle-module__Svbyca__container">
           <span
             class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
-            ><font><font>Gallery</font></font></span
+            ><font>Gallery</font></span
           >
         </div>
       </div>

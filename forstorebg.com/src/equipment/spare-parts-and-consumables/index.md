@@ -29,18 +29,16 @@ spare-parts-and-consumables ---
       <div class="Services-module__3bADUG__overlay"></div>
       <div class="Services-module__3bADUG__heroContent">
         <h1>
-          <font><font>Spare parts and consumables</font></font
+          <font>Spare parts and consumables</font
           ><span class="Services-module__3bADUG__engtitle"
-            ><font><font>Spare parts and consumables</font></font></span
+            ><font>Spare parts and consumables</font></span
           >
         </h1>
         <h2>
           <font
-            ><font
-              >Spare parts and consumables for lifting equipment – ​​guaranteed
-              reliability, optimal performance and long service life of your
-              equipment</font
-            ></font
+            >Spare parts and consumables for lifting equipment – ​​guaranteed
+            reliability, optimal performance and long service life of your
+            equipment</font
           >
         </h2>
         <div>
@@ -48,9 +46,7 @@ spare-parts-and-consumables ---
             class="Button-module__e7WGRa__inverseWhiteBtn Button-module__e7WGRa__size_lg"
             type="button"
           >
-            <span
-              ><font><font>Send inquiry</font></font></span
-            >
+            <span><font>Send inquiry</font></span>
           </button>
         </div>
       </div>
@@ -61,17 +57,17 @@ spare-parts-and-consumables ---
           class="Services-module__3bADUG__navLink"
           href="#rezervni-chasti"
           title="Spare parts"
-          ><font><font>Spare parts</font></font></a
+          ><font>Spare parts</font></a
         ><a
           class="Services-module__3bADUG__navLink"
           href="#tyagovi-baterii-i-zaryadni-ustroystva"
           title="Traction batteries and chargers"
-          ><font><font>Traction batteries and chargers</font></font></a
+          ><font>Traction batteries and chargers</font></a
         ><a
           class="Services-module__3bADUG__navLink Services-module__3bADUG__activeLink"
           href="#industrialni-gumi-i-bandazhni-koleleta"
           title="Industrial tires and tire wheels"
-          ><font><font>Industrial tires and tire wheels</font></font>
+          ><font>Industrial tires and tire wheels</font>
           <div class="Services-module__3bADUG__underline"></div
         ></a>
       </div>
@@ -84,7 +80,7 @@ spare-parts-and-consumables ---
         <div class="SectionTitle-module__Svbyca__container">
           <span
             class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
-            ><font><font>Spare parts</font></font></span
+            ><font>Spare parts</font></span
           >
         </div>
       </div>
@@ -93,27 +89,21 @@ spare-parts-and-consumables ---
           <div class="Services-module__3bADUG__textBlock">
             <div class="Services-module__3bADUG__product">
               <h3 class="Services-module__3bADUG__productTitle">
-                <font><font>Spare parts</font></font>
+                <font>Spare parts</font>
               </h3>
               <div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Spare parts </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Spare parts </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font
-                      ><font>For all types of lifting equipment</font></font
-                    ></span
+                    ><font>For all types of lifting equipment</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Consumables </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Consumables </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font
-                      ><font>For all types of lifting equipment</font></font
-                    ></span
+                    ><font>For all types of lifting equipment</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow"></div>
@@ -123,9 +113,7 @@ spare-parts-and-consumables ---
                   class="Button-module__e7WGRa__grayBtn Button-module__e7WGRa__size_lg"
                   type="button"
                 >
-                  <span
-                    ><font><font>Send inquiry</font></font></span
-                  >
+                  <span><font>Send inquiry</font></span>
                 </button>
               </div>
             </div>
@@ -152,7 +140,7 @@ spare-parts-and-consumables ---
         <div class="SectionTitle-module__Svbyca__container">
           <span
             class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
-            ><font><font>Traction batteries and chargers</font></font></span
+            ><font>Traction batteries and chargers</font></span
           >
         </div>
       </div>
@@ -161,13 +149,13 @@ spare-parts-and-consumables ---
           <div class="Services-module__3bADUG__textBlock">
             <div class="Services-module__3bADUG__product">
               <h3 class="Services-module__3bADUG__productTitle">
-                <font><font>Traction batteries and chargers</font></font>
+                <font>Traction batteries and chargers</font>
               </h3>
               <div class="Services-module__3bADUG__specRow">
                 <span class="Services-module__3bADUG__label"
-                  ><font><font>Manufacturer:</font></font></span
+                  ><font>Manufacturer:</font></span
                 ><span class="Services-module__3bADUG__value"
-                  ><font><font>MIDAC and SUNLIGHT</font></font></span
+                  ><font>MIDAC and SUNLIGHT</font></span
                 >
               </div>
               <div>
@@ -181,9 +169,7 @@ spare-parts-and-consumables ---
                   class="Button-module__e7WGRa__grayBtn Button-module__e7WGRa__size_lg"
                   type="button"
                 >
-                  <span
-                    ><font><font>Send inquiry</font></font></span
-                  >
+                  <span><font>Send inquiry</font></span>
                 </button>
               </div>
             </div>
@@ -210,7 +196,7 @@ spare-parts-and-consumables ---
         <div class="SectionTitle-module__Svbyca__container">
           <span
             class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
-            ><font><font>Industrial tires and tire wheels</font></font></span
+            ><font>Industrial tires and tire wheels</font></span
           >
         </div>
       </div>
@@ -219,25 +205,21 @@ spare-parts-and-consumables ---
           <div class="Services-module__3bADUG__textBlock">
             <div class="Services-module__3bADUG__product">
               <h3 class="Services-module__3bADUG__productTitle">
-                <font><font>Industrial tires and tire wheels</font></font>
+                <font>Industrial tires and tire wheels</font>
               </h3>
               <div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Features </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Features </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>Super elastic</font></font></span
+                    ><font>Super elastic</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Services </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Services </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font
-                      ><font>Delivery, packing and unloading</font></font
-                    ></span
+                    ><font>Delivery, packing and unloading</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow"></div>
@@ -247,9 +229,7 @@ spare-parts-and-consumables ---
                   class="Button-module__e7WGRa__grayBtn Button-module__e7WGRa__size_lg"
                   type="button"
                 >
-                  <span
-                    ><font><font>Send inquiry</font></font></span
-                  >
+                  <span><font>Send inquiry</font></span>
                 </button>
               </div>
             </div>

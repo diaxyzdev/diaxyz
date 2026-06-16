@@ -29,22 +29,20 @@ manual-pallet-trucks ---
       <div class="Services-module__3bADUG__overlay"></div>
       <div class="Services-module__3bADUG__heroContent">
         <h1>
-          <font><font>Manual pallet trucks</font></font
+          <font>Manual pallet trucks</font
           ><span class="Services-module__3bADUG__engtitle"
-            ><font><font>Hand Pallet Trucks</font></font></span
+            ><font>Hand Pallet Trucks</font></span
           >
         </h1>
         <h2>
-          <font><font>Reliable manual pallet handling solutions</font></font>
+          <font>Reliable manual pallet handling solutions</font>
         </h2>
         <div>
           <button
             class="Button-module__e7WGRa__inverseWhiteBtn Button-module__e7WGRa__size_lg"
             type="button"
           >
-            <span
-              ><font><font>Send inquiry</font></font></span
-            >
+            <span><font>Send inquiry</font></span>
           </button>
         </div>
       </div>
@@ -55,7 +53,7 @@ manual-pallet-trucks ---
           class="Services-module__3bADUG__navLink"
           href="#rachna-paletna-kolichka"
           title="Manual pallet trucks"
-          ><font><font>Manual pallet trucks</font></font></a
+          ><font>Manual pallet trucks</font></a
         >
       </div>
     </nav>
@@ -67,7 +65,7 @@ manual-pallet-trucks ---
         <div class="SectionTitle-module__Svbyca__container">
           <span
             class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
-            ><font><font>Manual pallet trucks</font></font></span
+            ><font>Manual pallet trucks</font></span
           >
         </div>
       </div>
@@ -76,15 +74,14 @@ manual-pallet-trucks ---
           <div class="Services-module__3bADUG__textBlock">
             <div class="Services-module__3bADUG__product">
               <h3 class="Services-module__3bADUG__productTitle">
-                <font><font>Manual pallet trucks</font></font>
+                <font>Manual pallet trucks</font>
               </h3>
               <div>
                 <div class="Services-module__3bADUG__specRow">
                   <span class="Services-module__3bADUG__label"
-                    ><font><font>Load capacity </font></font
-                    ><font><font>:</font></font></span
+                    ><font>Load capacity </font><font>:</font></span
                   ><span class="Services-module__3bADUG__value"
-                    ><font><font>2,000 kg - 5,000 kg</font></font></span
+                    ><font>2,000 kg - 5,000 kg</font></span
                   >
                 </div>
                 <div class="Services-module__3bADUG__specRow"></div>
@@ -92,16 +89,16 @@ manual-pallet-trucks ---
               </div>
               <div class="Services-module__3bADUG__specRow">
                 <span class="Services-module__3bADUG__label"
-                  ><font><font>Condition:</font></font></span
+                  ><font>Condition:</font></span
                 ><span class="Services-module__3bADUG__value"
-                  ><font><font>New</font></font></span
+                  ><font>New</font></span
                 >
               </div>
               <div class="Services-module__3bADUG__specRow">
                 <span class="Services-module__3bADUG__label"
-                  ><font><font>Price:</font></font></span
+                  ><font>Price:</font></span
                 ><span class="Services-module__3bADUG__value"
-                  ><font><font>Upon request</font></font></span
+                  ><font>Upon request</font></span
                 >
               </div>
               <div class="Services-module__3bADUG__productBtn">
@@ -109,9 +106,7 @@ manual-pallet-trucks ---
                   class="Button-module__e7WGRa__grayBtn Button-module__e7WGRa__size_lg"
                   type="button"
                 >
-                  <span
-                    ><font><font>Send inquiry</font></font></span
-                  >
+                  <span><font>Send inquiry</font></span>
                 </button>
               </div>
             </div>
@@ -135,7 +130,7 @@ manual-pallet-trucks ---
         <div class="SectionTitle-module__Svbyca__container">
           <span
             class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
-            ><font><font>Gallery</font></font></span
+            ><font>Gallery</font></span
           >
         </div>
       </div>

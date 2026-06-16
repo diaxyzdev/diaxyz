@@ -32,15 +32,13 @@ tags:
       <div class="ProjectsPage-module__5eSqbG__overlay"></div>
       <div class="ProjectsPage-module__5eSqbG__heroContent">
         <h1>
-          <font><font>Part of the implemented projects</font></font>
+          <font>Part of the implemented projects</font>
         </h1>
         <p>
           <font
-            ><font
-              >Selected solutions for warehouse equipment and internal
-              logistics, tailored to the requirements of modern warehouses and
-              production sites.</font
-            ></font
+            >Selected solutions for warehouse equipment and internal logistics,
+            tailored to the requirements of modern warehouses and production
+            sites.</font
           >
         </p>
         <div>
@@ -48,9 +46,7 @@ tags:
             class="Button-module__e7WGRa__inverseWhiteBtn Button-module__e7WGRa__size_lg"
             type="button"
           >
-            <span
-              ><font><font>Contact us</font></font></span
-            >
+            <span><font>Contact us</font></span>
           </button>
         </div>
         <p></p>
@@ -187,23 +183,17 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font
-                  ><font>Warehouse and logistics solutions</font></font
-                ></span
+                ><font>Warehouse and logistics solutions</font></span
               >
             </div>
             <h2 class="ProjectsPage-module__5eSqbG__title">
-              <font
-                ><font>Drive-in racking system - Alkaloid Macedonia</font></font
-              >
+              <font>Drive-in racking system - Alkaloid Macedonia</font>
             </h2>
             <p class="ProjectsPage-module__5eSqbG__area">
-              <font><font>4,000 sq m</font></font>
+              <font>4,000 sq m</font>
             </p>
             <p class="ProjectsPage-module__5eSqbG__description">
-              <font
-                ><font>Implementation of a Drive-in racking system.</font></font
-              >
+              <font>Implementation of a Drive-in racking system.</font>
             </p>
             <p></p>
           </div>
@@ -359,23 +349,17 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font
-                  ><font>Warehouse and logistics solutions</font></font
-                ></span
+                ><font>Warehouse and logistics solutions</font></span
               >
             </div>
             <h2 class="ProjectsPage-module__5eSqbG__title">
-              <font><font>Production base – Plovdiv</font></font>
+              <font>Production base – Plovdiv</font>
             </h2>
             <p class="ProjectsPage-module__5eSqbG__area">
-              <font><font>3,500 p. m.</font></font>
+              <font>3,500 p. m.</font>
             </p>
             <p class="ProjectsPage-module__5eSqbG__description">
-              <font
-                ><font
-                  >Design and construction of a Standard Pallet System</font
-                ></font
-              >
+              <font>Design and construction of a Standard Pallet System</font>
             </p>
             <p></p>
           </div>
@@ -553,19 +537,17 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font
-                  ><font>Warehouse and logistics solutions</font></font
-                ></span
+                ><font>Warehouse and logistics solutions</font></span
               >
             </div>
             <h2 class="ProjectsPage-module__5eSqbG__title">
-              <font><font>Mezzanine floor - Pazardzhik</font></font>
+              <font>Mezzanine floor - Pazardzhik</font>
             </h2>
             <p class="ProjectsPage-module__5eSqbG__area">
-              <font><font>2,000 sq m</font></font>
+              <font>2,000 sq m</font>
             </p>
             <p class="ProjectsPage-module__5eSqbG__description">
-              <font><font>Mezzanine Pazardzhik.</font></font>
+              <font>Mezzanine Pazardzhik.</font>
             </p>
             <p></p>
           </div>
@@ -743,24 +725,20 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font
-                  ><font>Warehouse and logistics solutions</font></font
-                ></span
+                ><font>Warehouse and logistics solutions</font></span
               >
             </div>
             <h2 class="ProjectsPage-module__5eSqbG__title">
               <font
-                ><font
-                  >Mezzanine with shelves for manual service - Sofia
-                  automorgue</font
-                ></font
+                >Mezzanine with shelves for manual service - Sofia
+                automorgue</font
               >
             </h2>
             <p class="ProjectsPage-module__5eSqbG__area">
-              <font><font>5,000 sq m</font></font>
+              <font>5,000 sq m</font>
             </p>
             <p class="ProjectsPage-module__5eSqbG__description">
-              <font><font>Mezzanine with manual service racks</font></font>
+              <font>Mezzanine with manual service racks</font>
             </p>
             <p></p>
           </div>
@@ -938,23 +916,17 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font
-                  ><font>Warehouse and logistics solutions</font></font
-                ></span
+                ><font>Warehouse and logistics solutions</font></span
               >
             </div>
             <h2 class="ProjectsPage-module__5eSqbG__title">
-              <font
-                ><font
-                  >Two-story manual service system - BITOLA MACEDONIA</font
-                ></font
-              >
+              <font>Two-story manual service system - BITOLA MACEDONIA</font>
             </h2>
             <p class="ProjectsPage-module__5eSqbG__area">
-              <font><font>2,000 sq m</font></font>
+              <font>2,000 sq m</font>
             </p>
             <p class="ProjectsPage-module__5eSqbG__description">
-              <font><font>Two-story manual service system.</font></font>
+              <font>Two-story manual service system.</font>
             </p>
             <p></p>
           </div>
@@ -1154,19 +1126,17 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font
-                  ><font>Warehouse and logistics solutions</font></font
-                ></span
+                ><font>Warehouse and logistics solutions</font></span
               >
             </div>
             <h2 class="ProjectsPage-module__5eSqbG__title">
-              <font><font>Logistics company - Sofia</font></font>
+              <font>Logistics company - Sofia</font>
             </h2>
             <p class="ProjectsPage-module__5eSqbG__area">
-              <font><font>4 500 p.m.</font></font>
+              <font>4 500 p.m.</font>
             </p>
             <p class="ProjectsPage-module__5eSqbG__description">
-              <font><font>Standard pallet system</font></font>
+              <font>Standard pallet system</font>
             </p>
             <p></p>
           </div>
@@ -1278,19 +1248,17 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font
-                  ><font>Warehouse and logistics solutions</font></font
-                ></span
+                ><font>Warehouse and logistics solutions</font></span
               >
             </div>
             <h2 class="ProjectsPage-module__5eSqbG__title">
-              <font><font>Warehouse - Stara Zagora</font></font>
+              <font>Warehouse - Stara Zagora</font>
             </h2>
             <p class="ProjectsPage-module__5eSqbG__area">
-              <font><font>7,800 p.m.</font></font>
+              <font>7,800 p.m.</font>
             </p>
             <p class="ProjectsPage-module__5eSqbG__description">
-              <font><font>Standard pallet system</font></font>
+              <font>Standard pallet system</font>
             </p>
             <p></p>
           </div>
@@ -1446,19 +1414,17 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font
-                  ><font>Warehouse and logistics solutions</font></font
-                ></span
+                ><font>Warehouse and logistics solutions</font></span
               >
             </div>
             <h2 class="ProjectsPage-module__5eSqbG__title">
-              <font><font>Drive-in system - Benkovski</font></font>
+              <font>Drive-in system - Benkovski</font>
             </h2>
             <p class="ProjectsPage-module__5eSqbG__area">
-              <font><font>8,000 p.m.</font></font>
+              <font>8,000 p.m.</font>
             </p>
             <p class="ProjectsPage-module__5eSqbG__description">
-              <font><font>Drive in system</font></font>
+              <font>Drive in system</font>
             </p>
             <p></p>
           </div>
@@ -1570,19 +1536,17 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font
-                  ><font>Warehouse and logistics solutions</font></font
-                ></span
+                ><font>Warehouse and logistics solutions</font></span
               >
             </div>
             <h2 class="ProjectsPage-module__5eSqbG__title">
-              <font><font>Warehouse - Kosovo</font></font>
+              <font>Warehouse - Kosovo</font>
             </h2>
             <p class="ProjectsPage-module__5eSqbG__area">
-              <font><font>2 300 p.m.</font></font>
+              <font>2 300 p.m.</font>
             </p>
             <p class="ProjectsPage-module__5eSqbG__description">
-              <font><font>Standard pallet system</font></font>
+              <font>Standard pallet system</font>
             </p>
             <p></p>
           </div>
@@ -1782,21 +1746,17 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font
-                  ><font>Warehouse and logistics solutions</font></font
-                ></span
+                ><font>Warehouse and logistics solutions</font></span
               >
             </div>
             <h2 class="ProjectsPage-module__5eSqbG__title">
-              <font
-                ><font>Three-story manual service system - Plovdiv</font></font
-              >
+              <font>Three-story manual service system - Plovdiv</font>
             </h2>
             <p class="ProjectsPage-module__5eSqbG__area">
-              <font><font>2,000 sq m</font></font>
+              <font>2,000 sq m</font>
             </p>
             <p class="ProjectsPage-module__5eSqbG__description">
-              <font><font>Manual service system</font></font>
+              <font>Manual service system</font>
             </p>
             <p></p>
           </div>
@@ -1908,17 +1868,17 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font><font>Commercial and light equipment</font></font></span
+                ><font>Commercial and light equipment</font></span
               >
             </div>
             <h2 class="ProjectsPage-module__5eSqbG__title">
-              <font><font>Super 1/2/3 - Plovdiv warehouse</font></font>
+              <font>Super 1/2/3 - Plovdiv warehouse</font>
             </h2>
             <p class="ProjectsPage-module__5eSqbG__area">
-              <font><font>1,000 sq m</font></font>
+              <font>1,000 sq m</font>
             </p>
             <p class="ProjectsPage-module__5eSqbG__description">
-              <font><font>Super 1/2/3</font></font>
+              <font>Super 1/2/3</font>
             </p>
             <p></p>
           </div>
@@ -2118,17 +2078,17 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font><font>Commercial and light equipment</font></font></span
+                ><font>Commercial and light equipment</font></span
               >
             </div>
             <h2 class="ProjectsPage-module__5eSqbG__title">
-              <font><font>Shop fitting store shelves - Plovdiv</font></font>
+              <font>Shop fitting store shelves - Plovdiv</font>
             </h2>
             <p class="ProjectsPage-module__5eSqbG__area">
-              <font><font>500 sq m</font></font>
+              <font>500 sq m</font>
             </p>
             <p class="ProjectsPage-module__5eSqbG__description">
-              <font><font>Commercial equipment.</font></font>
+              <font>Commercial equipment.</font>
             </p>
             <p></p>
           </div>
@@ -2306,31 +2266,25 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font
-                  ><font>Warehouse and logistics solutions</font></font
-                ></span
+                ><font>Warehouse and logistics solutions</font></span
               >
             </div>
             <h2 class="ProjectsPage-module__5eSqbG__title">
               <font
-                ><font
-                  >Delivery and installation of pallet racks for METRO - Veliko
-                  Tarnovo</font
-                ></font
+                >Delivery and installation of pallet racks for METRO - Veliko
+                Tarnovo</font
               >
             </h2>
             <p class="ProjectsPage-module__5eSqbG__area">
-              <font><font>94 pallet spaces</font></font>
+              <font>94 pallet spaces</font>
             </p>
             <p class="ProjectsPage-module__5eSqbG__description">
               <font
-                ><font
-                  >The project includes the delivery and installation of 32
-                  pallet farms with heights of 5.10 m and 5.50 m, implemented
-                  with a 3+1 level configuration (including ground level),
-                  providing maximum storage capacity and convenient access to
-                  palletized goods.</font
-                ></font
+                >The project includes the delivery and installation of 32 pallet
+                farms with heights of 5.10 m and 5.50 m, implemented with a 3+1
+                level configuration (including ground level), providing maximum
+                storage capacity and convenient access to palletized
+                goods.</font
               >
             </p>
             <p></p>

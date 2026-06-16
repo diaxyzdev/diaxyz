@@ -31,23 +31,17 @@ tags:
       <div class="Services-module__PU9S2q__overlay"></div>
       <div class="Services-module__PU9S2q__heroContent">
         <h1>
-          <font><font>Complete warehouse solutions</font></font>
+          <font>Complete warehouse solutions</font>
         </h1>
         <p>
-          <font
-            ><font
-              >Integrated enterprise solutions from strategy to support.</font
-            ></font
-          >
+          <font>Integrated enterprise solutions from strategy to support.</font>
         </p>
         <div>
           <button
             class="Button-module__e7WGRa__inverseWhiteBtn Button-module__e7WGRa__size_lg"
             type="button"
           >
-            <span
-              ><font><font>Contact us</font></font></span
-            >
+            <span><font>Contact us</font></span>
           </button>
         </div>
         <p></p>
@@ -59,42 +53,42 @@ tags:
           class="Services-module__PU9S2q__navLink"
           href="#consultation"
           title="Consultation"
-          ><font><font>Consultation</font></font></a
+          ><font>Consultation</font></a
         ><a
           class="Services-module__PU9S2q__navLink"
           href="#design"
           title="Design"
-          ><font><font>Design</font></font></a
+          ><font>Design</font></a
         ><a
           class="Services-module__PU9S2q__navLink"
           href="#delivery"
           title="Delivery"
-          ><font><font>Delivery</font></font></a
+          ><font>Delivery</font></a
         ><a
           class="Services-module__PU9S2q__navLink"
           href="#installation"
           title="Installation"
-          ><font><font>Installation</font></font></a
+          ><font>Installation</font></a
         ><a
           class="Services-module__PU9S2q__navLink"
           href="#service"
           title="Service"
-          ><font><font>Service</font></font></a
+          ><font>Service</font></a
         ><a
           class="Services-module__PU9S2q__navLink"
           href="#maintenance"
           title="Support"
-          ><font><font>Support</font></font></a
+          ><font>Support</font></a
         ><a
           class="Services-module__PU9S2q__navLink"
           href="#repair"
           title="Repair"
-          ><font><font>Repair</font></font></a
+          ><font>Repair</font></a
         ><a
           class="Services-module__PU9S2q__navLink Services-module__PU9S2q__activeLink"
           href="#rental"
           title="Machine rental"
-          ><font><font>Machine rental</font></font>
+          ><font>Machine rental</font>
           <div
             class="Services-module__PU9S2q__underline"
             style="transform-origin: 50% 50% 0px"
@@ -109,38 +103,32 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font><font>01</font></font></span
+                ><font>01</font></span
               >
             </div>
             <h2>
-              <font><font>Consultation</font></font>
+              <font>Consultation</font>
             </h2>
             <p>
               <font
-                ><font
-                  >We provide in-depth analysis of warehouse processes and
-                  capacity to identify inefficiencies and optimization
-                  opportunities. We work with a structured methodology based on
-                  real operational data.</font
-                ></font
+                >We provide in-depth analysis of warehouse processes and
+                capacity to identify inefficiencies and optimization
+                opportunities. We work with a structured methodology based on
+                real operational data.</font
               >
             </p>
             <ul class="Services-module__PU9S2q__list">
               <li>
-                <font
-                  ><font>Analysis of current processes and workload</font></font
-                >
+                <font>Analysis of current processes and workload</font>
               </li>
               <li>
-                <font><font>Identifying bottlenecks</font></font>
+                <font>Identifying bottlenecks</font>
               </li>
               <li>
-                <font><font>Capacity and load assessment</font></font>
+                <font>Capacity and load assessment</font>
               </li>
               <li>
-                <font
-                  ><font>Spatial and process optimization strategy</font></font
-                >
+                <font>Spatial and process optimization strategy</font>
               </li>
             </ul>
             <p></p>
@@ -168,37 +156,31 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font><font>02</font></font></span
+                ><font>02</font></span
               >
             </div>
             <h2>
-              <font><font>Design</font></font>
+              <font>Design</font>
             </h2>
             <p>
               <font
-                ><font
-                  >We develop technical and functional projects for warehouse
-                  spaces, tailored to the specifics of the business and
-                  regulatory requirements.</font
-                ></font
+                >We develop technical and functional projects for warehouse
+                spaces, tailored to the specifics of the business and regulatory
+                requirements.</font
               >
             </p>
             <ul class="Services-module__PU9S2q__list">
               <li>
-                <font
-                  ><font
-                    >3D visualization and technical documentation</font
-                  ></font
-                >
+                <font>3D visualization and technical documentation</font>
               </li>
               <li>
-                <font><font>Optimal distribution of areas</font></font>
+                <font>Optimal distribution of areas</font>
               </li>
               <li>
-                <font><font>Compliance with safety standards</font></font>
+                <font>Compliance with safety standards</font>
               </li>
               <li>
-                <font><font>Planning for future expansion</font></font>
+                <font>Planning for future expansion</font>
               </li>
             </ul>
             <p></p>
@@ -223,32 +205,30 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font><font>03</font></font></span
+                ><font>03</font></span
               >
             </div>
             <h2>
-              <font><font>Delivery</font></font>
+              <font>Delivery</font>
             </h2>
             <p>
               <font
-                ><font
-                  >We ensure coordinated and timely delivery of shelving systems
-                  and warehouse equipment from proven manufacturers.</font
-                ></font
+                >We ensure coordinated and timely delivery of shelving systems
+                and warehouse equipment from proven manufacturers.</font
               >
             </p>
             <ul class="Services-module__PU9S2q__list">
               <li>
-                <font><font>Timeline and logistics control</font></font>
+                <font>Timeline and logistics control</font>
               </li>
               <li>
-                <font><font>Quality check upon receipt</font></font>
+                <font>Quality check upon receipt</font>
               </li>
               <li>
-                <font><font>Coordination with installation teams</font></font>
+                <font>Coordination with installation teams</font>
               </li>
               <li>
-                <font><font>Optimized delivery organization</font></font>
+                <font>Optimized delivery organization</font>
               </li>
             </ul>
             <p></p>
@@ -276,33 +256,31 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font><font>04</font></font></span
+                ><font>04</font></span
               >
             </div>
             <h2>
-              <font><font>Installation</font></font>
+              <font>Installation</font>
             </h2>
             <p>
               <font
-                ><font
-                  >We perform professional installation of storage systems in
-                  accordance with technical standards and safety
-                  requirements.</font
-                ></font
+                >We perform professional installation of storage systems in
+                accordance with technical standards and safety
+                requirements.</font
               >
             </p>
             <ul class="Services-module__PU9S2q__list">
               <li>
-                <font><font>Certified installation teams</font></font>
+                <font>Certified installation teams</font>
               </li>
               <li>
-                <font><font>Precise leveling and reinforcement</font></font>
+                <font>Precise leveling and reinforcement</font>
               </li>
               <li>
-                <font><font>Quality control during execution</font></font>
+                <font>Quality control during execution</font>
               </li>
               <li>
-                <font><font>Compliance with design parameters</font></font>
+                <font>Compliance with design parameters</font>
               </li>
             </ul>
             <p></p>
@@ -327,32 +305,30 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font><font>05</font></font></span
+                ><font>05</font></span
               >
             </div>
             <h2>
-              <font><font>Service</font></font>
+              <font>Service</font>
             </h2>
             <p>
               <font
-                ><font
-                  >We provide fast and reliable service for warehouse systems to
-                  minimize operational downtime.</font
-                ></font
+                >We provide fast and reliable service for warehouse systems to
+                minimize operational downtime.</font
               >
             </p>
             <ul class="Services-module__PU9S2q__list">
               <li>
-                <font><font>Fault diagnosis</font></font>
+                <font>Fault diagnosis</font>
               </li>
               <li>
-                <font><font>Replacement of damaged components</font></font>
+                <font>Replacement of damaged components</font>
               </li>
               <li>
-                <font><font>Emergency response if necessary</font></font>
+                <font>Emergency response if necessary</font>
               </li>
               <li>
-                <font><font>Consultation on preventive measures</font></font>
+                <font>Consultation on preventive measures</font>
               </li>
             </ul>
             <p></p>
@@ -380,34 +356,30 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font><font>06</font></font></span
+                ><font>06</font></span
               >
             </div>
             <h2>
-              <font><font>Support</font></font>
+              <font>Support</font>
             </h2>
             <p>
               <font
-                ><font
-                  >We provide periodic technical support to ensure safe and
-                  efficient operation.</font
-                ></font
+                >We provide periodic technical support to ensure safe and
+                efficient operation.</font
               >
             </p>
             <ul class="Services-module__PU9S2q__list">
               <li>
-                <font><font>Scheduled inspections</font></font>
+                <font>Scheduled inspections</font>
               </li>
               <li>
-                <font><font>Checking load-bearing elements</font></font>
+                <font>Checking load-bearing elements</font>
               </li>
               <li>
-                <font><font>Status report and recommendations</font></font>
+                <font>Status report and recommendations</font>
               </li>
               <li>
-                <font
-                  ><font>Compliance with regulatory requirements</font></font
-                >
+                <font>Compliance with regulatory requirements</font>
               </li>
             </ul>
             <p></p>
@@ -432,32 +404,30 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font><font>07</font></font></span
+                ><font>07</font></span
               >
             </div>
             <h2>
-              <font><font>Repair</font></font>
+              <font>Repair</font>
             </h2>
             <p>
               <font
-                ><font
-                  >We repair and restore damaged shelving systems and warehouse
-                  equipment.</font
-                ></font
+                >We repair and restore damaged shelving systems and warehouse
+                equipment.</font
               >
             </p>
             <ul class="Services-module__PU9S2q__list">
               <li>
-                <font><font>Replacement of deformed elements</font></font>
+                <font>Replacement of deformed elements</font>
               </li>
               <li>
-                <font><font>Structural strengthening</font></font>
+                <font>Structural strengthening</font>
               </li>
               <li>
-                <font><font>Recovery after incidents</font></font>
+                <font>Recovery after incidents</font>
               </li>
               <li>
-                <font><font>Safety assessment</font></font>
+                <font>Safety assessment</font>
               </li>
             </ul>
             <p></p>
@@ -485,32 +455,30 @@ tags:
             <div class="SectionTitle-module__Svbyca__container">
               <span
                 class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__small SectionTitle-module__Svbyca__orange"
-                ><font><font>08</font></font></span
+                ><font>08</font></span
               >
             </div>
             <h2>
-              <font><font>Machine rental</font></font>
+              <font>Machine rental</font>
             </h2>
             <p>
               <font
-                ><font
-                  >We offer flexible solutions for short-term and long-term
-                  rental of warehouse equipment.</font
-                ></font
+                >We offer flexible solutions for short-term and long-term rental
+                of warehouse equipment.</font
               >
             </p>
             <ul class="Services-module__PU9S2q__list">
               <li>
-                <font><font>Equipment in working order</font></font>
+                <font>Equipment in working order</font>
               </li>
               <li>
-                <font><font>Flexible rental terms</font></font>
+                <font>Flexible rental terms</font>
               </li>
               <li>
-                <font><font>Maintenance during operation</font></font>
+                <font>Maintenance during operation</font>
               </li>
               <li>
-                <font><font>Quick availability when needed</font></font>
+                <font>Quick availability when needed</font>
               </li>
             </ul>
             <p></p>
@@ -531,14 +499,12 @@ tags:
     <section class="Cta-module__iI3zKq__cta">
       <div>
         <h2>
-          <font><font>Are you ready to optimize your warehouse?</font></font>
+          <font>Are you ready to optimize your warehouse?</font>
         </h2>
         <p>
           <font
-            ><font
-              >Contact us for a free consultation and an individual
-              solution.</font
-            ></font
+            >Contact us for a free consultation and an individual
+            solution.</font
           >
         </p>
         <div class="Cta-module__iI3zKq__btnArea">
@@ -546,17 +512,13 @@ tags:
             class="Button-module__e7WGRa__whiteBtn Button-module__e7WGRa__size_lg"
             type="button"
           >
-            <span
-              ><font><font>Send inquiry</font></font></span
-            ></button
+            <span><font>Send inquiry</font></span></button
           ><a
             aria-disabled="false"
             class="Button-module__e7WGRa__inverseWhiteBtn Button-module__e7WGRa__size_lg"
             href="tel:+359877486644"
             title="Call us"
-            ><span
-              ><font><font>Call us</font></font></span
-            ></a
+            ><span><font>Call us</font></span></a
           >
         </div>
         <p></p>
