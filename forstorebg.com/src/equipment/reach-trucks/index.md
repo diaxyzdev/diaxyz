@@ -145,41 +145,12 @@ tags: - equipment - reach-trucks --- tags: - equipment - reach-trucks ---
     </div>
     <div class="Services-module__3bADUG__container">
       <div class="Services-module__3bADUG__navigationSwiper">
-        <button class="customPrev Services-module__3bADUG__navBtnSwiper">
-          <svg
-            aria-hidden="true"
-            class="lucide lucide-chevrons-left"
-            fill="none"
-            height="31"
-            stroke="currentColor"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            viewBox="0 0 24 24"
-            width="31"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path d="m11 17-5-5 5-5"></path>
-            <path d="m18 17-5-5 5-5"></path>
-          </svg></button
-        ><button class="customNext Services-module__3bADUG__navBtnSwiper">
-          <svg
-            aria-hidden="true"
-            class="lucide lucide-chevrons-right"
-            fill="none"
-            height="31"
-            stroke="currentColor"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            viewBox="0 0 24 24"
-            width="31"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path d="m6 17 5-5-5-5"></path>
-            <path d="m13 17 5-5-5-5"></path>
-          </svg>
-        </button>
+        <button
+          class="customPrev Services-module__3bADUG__navBtnSwiper"
+        ></button
+        ><button
+          class="customNext Services-module__3bADUG__navBtnSwiper"
+        ></button>
       </div>
       <div class="swiper" style="overflow: visible">
         <div class="swiper-wrapper">
@@ -206,25 +177,7 @@ tags: - equipment - reach-trucks --- tags: - equipment - reach-trucks ---
                   title="Reach trucks"
                 />
                 <div class="Services-module__3bADUG__overlaySwiper">
-                  <span
-                    ><svg
-                      aria-hidden="true"
-                      class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
-                      fill="none"
-                      height="48"
-                      stroke="currentColor"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
-                      viewBox="0 0 24 24"
-                      width="48"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <circle cx="11" cy="11" r="8"></circle>
-                      <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
-                      <line x1="11" x2="11" y1="8" y2="14"></line>
-                      <line x1="8" x2="14" y1="11" y2="11"></line></svg
-                  ></span>
+                  <span></span>
                 </div>
               </div>
             </div>
@@ -252,25 +205,7 @@ tags: - equipment - reach-trucks --- tags: - equipment - reach-trucks ---
                   title="Reach trucks"
                 />
                 <div class="Services-module__3bADUG__overlaySwiper">
-                  <span
-                    ><svg
-                      aria-hidden="true"
-                      class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
-                      fill="none"
-                      height="48"
-                      stroke="currentColor"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
-                      viewBox="0 0 24 24"
-                      width="48"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <circle cx="11" cy="11" r="8"></circle>
-                      <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
-                      <line x1="11" x2="11" y1="8" y2="14"></line>
-                      <line x1="8" x2="14" y1="11" y2="11"></line></svg
-                  ></span>
+                  <span></span>
                 </div>
               </div>
             </div>
@@ -298,25 +233,7 @@ tags: - equipment - reach-trucks --- tags: - equipment - reach-trucks ---
                   title="Reach trucks"
                 />
                 <div class="Services-module__3bADUG__overlaySwiper">
-                  <span
-                    ><svg
-                      aria-hidden="true"
-                      class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
-                      fill="none"
-                      height="48"
-                      stroke="currentColor"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
-                      viewBox="0 0 24 24"
-                      width="48"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <circle cx="11" cy="11" r="8"></circle>
-                      <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
-                      <line x1="11" x2="11" y1="8" y2="14"></line>
-                      <line x1="8" x2="14" y1="11" y2="11"></line></svg
-                  ></span>
+                  <span></span>
                 </div>
               </div>
             </div>
@@ -344,25 +261,7 @@ tags: - equipment - reach-trucks --- tags: - equipment - reach-trucks ---
                   title="Reach trucks"
                 />
                 <div class="Services-module__3bADUG__overlaySwiper">
-                  <span
-                    ><svg
-                      aria-hidden="true"
-                      class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
-                      fill="none"
-                      height="48"
-                      stroke="currentColor"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
-                      viewBox="0 0 24 24"
-                      width="48"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <circle cx="11" cy="11" r="8"></circle>
-                      <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
-                      <line x1="11" x2="11" y1="8" y2="14"></line>
-                      <line x1="8" x2="14" y1="11" y2="11"></line></svg
-                  ></span>
+                  <span></span>
                 </div>
               </div>
             </div>
@@ -390,25 +289,7 @@ tags: - equipment - reach-trucks --- tags: - equipment - reach-trucks ---
                   title="Reach trucks"
                 />
                 <div class="Services-module__3bADUG__overlaySwiper">
-                  <span
-                    ><svg
-                      aria-hidden="true"
-                      class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
-                      fill="none"
-                      height="48"
-                      stroke="currentColor"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
-                      viewBox="0 0 24 24"
-                      width="48"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <circle cx="11" cy="11" r="8"></circle>
-                      <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
-                      <line x1="11" x2="11" y1="8" y2="14"></line>
-                      <line x1="8" x2="14" y1="11" y2="11"></line></svg
-                  ></span>
+                  <span></span>
                 </div>
               </div>
             </div>
@@ -436,25 +317,7 @@ tags: - equipment - reach-trucks --- tags: - equipment - reach-trucks ---
                   title="Reach trucks"
                 />
                 <div class="Services-module__3bADUG__overlaySwiper">
-                  <span
-                    ><svg
-                      aria-hidden="true"
-                      class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
-                      fill="none"
-                      height="48"
-                      stroke="currentColor"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
-                      viewBox="0 0 24 24"
-                      width="48"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <circle cx="11" cy="11" r="8"></circle>
-                      <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
-                      <line x1="11" x2="11" y1="8" y2="14"></line>
-                      <line x1="8" x2="14" y1="11" y2="11"></line></svg
-                  ></span>
+                  <span></span>
                 </div>
               </div>
             </div>
@@ -482,25 +345,7 @@ tags: - equipment - reach-trucks --- tags: - equipment - reach-trucks ---
                   title="Reach trucks"
                 />
                 <div class="Services-module__3bADUG__overlaySwiper">
-                  <span
-                    ><svg
-                      aria-hidden="true"
-                      class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
-                      fill="none"
-                      height="48"
-                      stroke="currentColor"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
-                      viewBox="0 0 24 24"
-                      width="48"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <circle cx="11" cy="11" r="8"></circle>
-                      <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
-                      <line x1="11" x2="11" y1="8" y2="14"></line>
-                      <line x1="8" x2="14" y1="11" y2="11"></line></svg
-                  ></span>
+                  <span></span>
                 </div>
               </div>
             </div>
@@ -528,25 +373,7 @@ tags: - equipment - reach-trucks --- tags: - equipment - reach-trucks ---
                   title="Reach trucks"
                 />
                 <div class="Services-module__3bADUG__overlaySwiper">
-                  <span
-                    ><svg
-                      aria-hidden="true"
-                      class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
-                      fill="none"
-                      height="48"
-                      stroke="currentColor"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
-                      viewBox="0 0 24 24"
-                      width="48"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <circle cx="11" cy="11" r="8"></circle>
-                      <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
-                      <line x1="11" x2="11" y1="8" y2="14"></line>
-                      <line x1="8" x2="14" y1="11" y2="11"></line></svg
-                  ></span>
+                  <span></span>
                 </div>
               </div>
             </div>
@@ -574,25 +401,7 @@ tags: - equipment - reach-trucks --- tags: - equipment - reach-trucks ---
                   title="Reach trucks"
                 />
                 <div class="Services-module__3bADUG__overlaySwiper">
-                  <span
-                    ><svg
-                      aria-hidden="true"
-                      class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
-                      fill="none"
-                      height="48"
-                      stroke="currentColor"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
-                      viewBox="0 0 24 24"
-                      width="48"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <circle cx="11" cy="11" r="8"></circle>
-                      <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
-                      <line x1="11" x2="11" y1="8" y2="14"></line>
-                      <line x1="8" x2="14" y1="11" y2="11"></line></svg
-                  ></span>
+                  <span></span>
                 </div>
               </div>
             </div>
@@ -620,25 +429,7 @@ tags: - equipment - reach-trucks --- tags: - equipment - reach-trucks ---
                   title="Reach trucks"
                 />
                 <div class="Services-module__3bADUG__overlaySwiper">
-                  <span
-                    ><svg
-                      aria-hidden="true"
-                      class="lucide lucide-zoom-in Services-module__3bADUG__overlaySign"
-                      fill="none"
-                      height="48"
-                      stroke="currentColor"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
-                      viewBox="0 0 24 24"
-                      width="48"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <circle cx="11" cy="11" r="8"></circle>
-                      <line x1="21" x2="16.65" y1="21" y2="16.65"></line>
-                      <line x1="11" x2="11" y1="8" y2="14"></line>
-                      <line x1="8" x2="14" y1="11" y2="11"></line></svg
-                  ></span>
+                  <span></span>
                 </div>
               </div>
             </div>

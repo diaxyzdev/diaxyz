@@ -50,24 +50,6 @@ tags:
         </div>
         <div class="About-module__3NYl7q__grid2">
           <div class="About-module__3NYl7q__missionCard">
-            <svg
-              aria-hidden="true"
-              class="lucide lucide-compass"
-              fill="none"
-              height="3rem"
-              stroke="#b2b8bf"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="1.1px"
-              viewBox="0 0 24 24"
-              width="3rem"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path
-                d="m16.24 7.76-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z"
-              ></path>
-              <circle cx="12" cy="12" r="10"></circle>
-            </svg>
             <h2>
               <font><font>Our mission</font></font>
             </h2>
@@ -82,31 +64,6 @@ tags:
             </p>
           </div>
           <div class="About-module__3NYl7q__missionCard">
-            <svg
-              aria-hidden="true"
-              class="lucide lucide-telescope"
-              fill="none"
-              height="3rem"
-              stroke="#b2b8bf"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="1.1px"
-              viewBox="0 0 24 24"
-              width="3rem"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path
-                d="m10.065 12.493-6.18 1.318a.934.934 0 0 1-1.108-.702l-.537-2.15a1.07 1.07 0 0 1 .691-1.265l13.504-4.44"
-              ></path>
-              <path d="m13.56 11.747 4.332-.924"></path>
-              <path d="m16 21-3.105-6.21"></path>
-              <path
-                d="M16.485 5.94a2 2 0 0 1 1.455-2.425l1.09-.272a1 1 0 0 1 1.212.727l1.515 6.06a1 1 0 0 1-.727 1.213l-1.09.272a2 2 0 0 1-2.425-1.455z"
-              ></path>
-              <path d="m6.158 8.633 1.114 4.456"></path>
-              <path d="m8 21 3.105-6.21"></path>
-              <circle cx="12" cy="13" r="2"></circle>
-            </svg>
             <h2>
               <font><font>Our vision</font></font>
             </h2>
@@ -136,24 +93,6 @@ tags:
         </h2>
         <div class="About-module__3NYl7q__cards">
           <div class="About-module__3NYl7q__card">
-            <svg
-              aria-hidden="true"
-              class="lucide lucide-chart-gantt"
-              fill="none"
-              height="3rem"
-              stroke="#b2b8bf"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="1.5px"
-              viewBox="0 0 24 24"
-              width="3rem"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path d="M10 6h8"></path>
-              <path d="M12 16h6"></path>
-              <path d="M3 3v16a2 2 0 0 0 2 2h16"></path>
-              <path d="M8 11h7"></path>
-            </svg>
             <h3>
               <font><font>Predictability</font></font>
             </h3>
@@ -176,23 +115,6 @@ tags:
             <p></p>
           </div>
           <div class="About-module__3NYl7q__card">
-            <svg
-              aria-hidden="true"
-              class="lucide lucide-shield"
-              fill="none"
-              height="3rem"
-              stroke="#b2b8bf"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="1.5px"
-              viewBox="0 0 24 24"
-              width="3rem"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path
-                d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"
-              ></path>
-            </svg>
             <h3>
               <font><font>Security</font></font>
             </h3>
@@ -215,22 +137,6 @@ tags:
             <p></p>
           </div>
           <div class="About-module__3NYl7q__card">
-            <svg
-              aria-hidden="true"
-              class="lucide lucide-gauge"
-              fill="none"
-              height="3rem"
-              stroke="#b2b8bf"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="1.5px"
-              viewBox="0 0 24 24"
-              width="3rem"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path d="m12 14 4-4"></path>
-              <path d="M3.34 19a10 10 0 1 1 17.32 0"></path>
-            </svg>
             <h3>
               <font><font>Efficiency</font></font>
             </h3>
@@ -250,26 +156,6 @@ tags:
             <p></p>
           </div>
           <div class="About-module__3NYl7q__card">
-            <svg
-              aria-hidden="true"
-              class="lucide lucide-link"
-              fill="none"
-              height="3rem"
-              stroke="#b2b8bf"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="1.5px"
-              viewBox="0 0 24 24"
-              width="3rem"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path
-                d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"
-              ></path>
-              <path
-                d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"
-              ></path>
-            </svg>
             <h3>
               <font><font>Long-term partnership</font></font>
             </h3>

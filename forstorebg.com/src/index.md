@@ -30,23 +30,7 @@ stylesheets:
               href="/services/"
               title="Check out the services"
               ><span>Check out the services</span
-              ><span class="Button-module__e7WGRa__iconRight"
-                ><svg
-                  fill="none"
-                  height="16"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  viewBox="0 0 24 24"
-                  width="16"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M12 9v-3.586a1 1 0 0 1 1.707 -.707l6.586 6.586a1 1 0 0 1 0 1.414l-6.586 6.586a1 1 0 0 1 -1.707 -.707v-3.586h-3v-6h3z"
-                  ></path>
-                  <path d="M3 9v6"></path>
-                  <path d="M6 9v6"></path></svg></span
+              ><span class="Button-module__e7WGRa__iconRight"></span
             ></a>
           </div>
         </div>
@@ -98,53 +82,12 @@ stylesheets:
         </div>
         <div class="TrustBar-module__TJ25Sa__grid">
           <div class="TrustBar-module__TJ25Sa__card">
-            <svg
-              aria-hidden="true"
-              class="lucide lucide-warehouse TrustBar-module__TJ25Sa__icon"
-              fill="none"
-              height="24"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              viewBox="0 0 24 24"
-              width="24"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path d="M18 21V10a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1v11"></path>
-              <path
-                d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V8a2 2 0 0 1 1.132-1.803l7.95-3.974a2 2 0 0 1 1.837 0l7.948 3.974A2 2 0 0 1 22 8z"
-              ></path>
-              <path d="M6 13h12"></path>
-              <path d="M6 17h12"></path>
-            </svg>
             <h3 class="TrustBar-module__TJ25Sa__cardTitle">600+ projects</h3>
             <p class="TrustBar-module__TJ25Sa__cardText">
               Realized warehouse and industrial projects
             </p>
           </div>
           <div class="TrustBar-module__TJ25Sa__card">
-            <svg
-              aria-hidden="true"
-              class="lucide lucide-ruler TrustBar-module__TJ25Sa__icon"
-              fill="none"
-              height="24"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              viewBox="0 0 24 24"
-              width="24"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path
-                d="M21.3 15.3a2.4 2.4 0 0 1 0 3.4l-2.6 2.6a2.4 2.4 0 0 1-3.4 0L2.7 8.7a2.41 2.41 0 0 1 0-3.4l2.6-2.6a2.41 2.41 0 0 1 3.4 0Z"
-              ></path>
-              <path d="m14.5 12.5 2-2"></path>
-              <path d="m11.5 9.5 2-2"></path>
-              <path d="m8.5 6.5 2-2"></path>
-              <path d="m17.5 15.5 2-2"></path>
-            </svg>
             <h3 class="TrustBar-module__TJ25Sa__cardTitle">
               Individual approach
             </h3>
@@ -153,24 +96,6 @@ stylesheets:
             </p>
           </div>
           <div class="TrustBar-module__TJ25Sa__card">
-            <svg
-              aria-hidden="true"
-              class="lucide lucide-hard-hat TrustBar-module__TJ25Sa__icon"
-              fill="none"
-              height="24"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              viewBox="0 0 24 24"
-              width="24"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path d="M10 10V5a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v5"></path>
-              <path d="M14 6a6 6 0 0 1 6 6v3"></path>
-              <path d="M4 15v-3a6 6 0 0 1 6-6"></path>
-              <rect height="4" rx="1" width="20" x="2" y="15"></rect>
-            </svg>
             <h3 class="TrustBar-module__TJ25Sa__cardTitle">
               Uncompromising quality
             </h3>
@@ -179,22 +104,6 @@ stylesheets:
             </p>
           </div>
           <div class="TrustBar-module__TJ25Sa__card">
-            <svg
-              aria-hidden="true"
-              class="lucide lucide-clock TrustBar-module__TJ25Sa__icon"
-              fill="none"
-              height="24"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              viewBox="0 0 24 24"
-              width="24"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path d="M12 6v6l4 2"></path>
-              <circle cx="12" cy="12" r="10"></circle>
-            </svg>
             <h3 class="TrustBar-module__TJ25Sa__cardTitle">100% deadlines</h3>
             <p class="TrustBar-module__TJ25Sa__cardText">
               Contractual commitments met
@@ -304,424 +213,91 @@ stylesheets:
               class="OurServices2-module__-ks7Ma__card OurServices2-module__-ks7Ma__visible"
               style="transition-delay: 0ms"
             >
-              <div class="OurServices2-module__-ks7Ma__iconWrapper">
-                <svg
-                  aria-hidden="true"
-                  class="lucide lucide-lightbulb"
-                  fill="none"
-                  height="65"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="1.2"
-                  viewBox="0 0 24 24"
-                  width="65"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"
-                  ></path>
-                  <path d="M9 18h6"></path>
-                  <path d="M10 22h4"></path>
-                </svg>
-              </div>
+              <div class="OurServices2-module__-ks7Ma__iconWrapper"></div>
               <h3>Consultation</h3>
               <p class="OurServices2-module__-ks7Ma__description">
                 Expert analysis and a clear strategy for optimizing warehouse
                 operations
               </p>
-              <div class="OurServices2-module__-ks7Ma__link">
-                <svg
-                  aria-hidden="true"
-                  class="lucide lucide-square-arrow-out-up-right"
-                  fill="none"
-                  height="24"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  viewBox="0 0 24 24"
-                  width="24"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M21 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h6"
-                  ></path>
-                  <path d="m21 3-9 9"></path>
-                  <path d="M15 3h6v6"></path>
-                </svg>
-              </div></div></a
+              <div class="OurServices2-module__-ks7Ma__link"></div></div></a
           ><a href="/services/#design" title="Design"
             ><div
               class="OurServices2-module__-ks7Ma__card OurServices2-module__-ks7Ma__visible"
               style="transition-delay: 0ms"
             >
-              <div class="OurServices2-module__-ks7Ma__iconWrapper">
-                <svg
-                  aria-hidden="true"
-                  class="lucide lucide-pencil-ruler"
-                  fill="none"
-                  height="65"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="1.2"
-                  viewBox="0 0 24 24"
-                  width="65"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M13 7 8.7 2.7a2.41 2.41 0 0 0-3.4 0L2.7 5.3a2.41 2.41 0 0 0 0 3.4L7 13"
-                  ></path>
-                  <path d="m8 6 2-2"></path>
-                  <path d="m18 16 2-2"></path>
-                  <path
-                    d="m17 11 4.3 4.3c.94.94.94 2.46 0 3.4l-2.6 2.6c-.94.94-2.46.94-3.4 0L11 17"
-                  ></path>
-                  <path
-                    d="M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"
-                  ></path>
-                  <path d="m15 5 4 4"></path>
-                </svg>
-              </div>
+              <div class="OurServices2-module__-ks7Ma__iconWrapper"></div>
               <h3>Designing</h3>
               <p class="OurServices2-module__-ks7Ma__description">
                 Functional design of efficient and safe warehouse systems
               </p>
-              <div class="OurServices2-module__-ks7Ma__link">
-                <svg
-                  aria-hidden="true"
-                  class="lucide lucide-square-arrow-out-up-right"
-                  fill="none"
-                  height="24"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  viewBox="0 0 24 24"
-                  width="24"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M21 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h6"
-                  ></path>
-                  <path d="m21 3-9 9"></path>
-                  <path d="M15 3h6v6"></path>
-                </svg>
-              </div></div></a
+              <div class="OurServices2-module__-ks7Ma__link"></div></div></a
           ><a href="/services/#delivery" title="Delivery"
             ><div
               class="OurServices2-module__-ks7Ma__card OurServices2-module__-ks7Ma__visible"
               style="transition-delay: 0ms"
             >
-              <div class="OurServices2-module__-ks7Ma__iconWrapper">
-                <svg
-                  aria-hidden="true"
-                  class="lucide lucide-truck"
-                  fill="none"
-                  height="65"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="1.2"
-                  viewBox="0 0 24 24"
-                  width="65"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M14 18V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v11a1 1 0 0 0 1 1h2"
-                  ></path>
-                  <path d="M15 18H9"></path>
-                  <path
-                    d="M19 18h2a1 1 0 0 0 1-1v-3.65a1 1 0 0 0-.22-.624l-3.48-4.35A1 1 0 0 0 17.52 8H14"
-                  ></path>
-                  <circle cx="17" cy="18" r="2"></circle>
-                  <circle cx="7" cy="18" r="2"></circle>
-                </svg>
-              </div>
+              <div class="OurServices2-module__-ks7Ma__iconWrapper"></div>
               <h3>Delivery</h3>
               <p class="OurServices2-module__-ks7Ma__description">
                 Reliable supply of warehouse equipment and industrial systems
               </p>
-              <div class="OurServices2-module__-ks7Ma__link">
-                <svg
-                  aria-hidden="true"
-                  class="lucide lucide-square-arrow-out-up-right"
-                  fill="none"
-                  height="24"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  viewBox="0 0 24 24"
-                  width="24"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M21 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h6"
-                  ></path>
-                  <path d="m21 3-9 9"></path>
-                  <path d="M15 3h6v6"></path>
-                </svg>
-              </div></div></a
+              <div class="OurServices2-module__-ks7Ma__link"></div></div></a
           ><a href="/services/#installation" title="Assembly"
             ><div
               class="OurServices2-module__-ks7Ma__card OurServices2-module__-ks7Ma__visible"
               style="transition-delay: 0ms"
             >
-              <div class="OurServices2-module__-ks7Ma__iconWrapper">
-                <svg
-                  aria-hidden="true"
-                  class="lucide lucide-drill"
-                  fill="none"
-                  height="65"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="1.2"
-                  viewBox="0 0 24 24"
-                  width="65"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M10 18a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H5a3 3 0 0 1-3-3 1 1 0 0 1 1-1z"
-                  ></path>
-                  <path
-                    d="M13 10H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1l-.81 3.242a1 1 0 0 1-.97.758H8"
-                  ></path>
-                  <path d="M14 4h3a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1h-3"></path>
-                  <path d="M18 6h4"></path>
-                  <path d="m5 10-2 8"></path>
-                  <path d="m7 18 2-8"></path>
-                </svg>
-              </div>
+              <div class="OurServices2-module__-ks7Ma__iconWrapper"></div>
               <h3>Assembly</h3>
               <p class="OurServices2-module__-ks7Ma__description">
                 Professional installation with a guarantee of security and
                 durability
               </p>
-              <div class="OurServices2-module__-ks7Ma__link">
-                <svg
-                  aria-hidden="true"
-                  class="lucide lucide-square-arrow-out-up-right"
-                  fill="none"
-                  height="24"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  viewBox="0 0 24 24"
-                  width="24"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M21 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h6"
-                  ></path>
-                  <path d="m21 3-9 9"></path>
-                  <path d="M15 3h6v6"></path>
-                </svg>
-              </div></div></a
+              <div class="OurServices2-module__-ks7Ma__link"></div></div></a
           ><a href="/services/#service" title="Service"
             ><div
               class="OurServices2-module__-ks7Ma__card OurServices2-module__-ks7Ma__visible"
               style="transition-delay: 0ms"
             >
-              <div class="OurServices2-module__-ks7Ma__iconWrapper">
-                <svg
-                  aria-hidden="true"
-                  class="lucide lucide-settings"
-                  fill="none"
-                  height="65"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="1.2"
-                  viewBox="0 0 24 24"
-                  width="65"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M9.671 4.136a2.34 2.34 0 0 1 4.659 0 2.34 2.34 0 0 0 3.319 1.915 2.34 2.34 0 0 1 2.33 4.033 2.34 2.34 0 0 0 0 3.831 2.34 2.34 0 0 1-2.33 4.033 2.34 2.34 0 0 0-3.319 1.915 2.34 2.34 0 0 1-4.659 0 2.34 2.34 0 0 0-3.32-1.915 2.34 2.34 0 0 1-2.33-4.033 2.34 2.34 0 0 0 0-3.831A2.34 2.34 0 0 1 6.35 6.051a2.34 2.34 0 0 0 3.319-1.915"
-                  ></path>
-                  <circle cx="12" cy="12" r="3"></circle>
-                </svg>
-              </div>
+              <div class="OurServices2-module__-ks7Ma__iconWrapper"></div>
               <h3>Service</h3>
               <p class="OurServices2-module__-ks7Ma__description">
                 Fast service to minimize operational downtime
               </p>
-              <div class="OurServices2-module__-ks7Ma__link">
-                <svg
-                  aria-hidden="true"
-                  class="lucide lucide-square-arrow-out-up-right"
-                  fill="none"
-                  height="24"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  viewBox="0 0 24 24"
-                  width="24"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M21 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h6"
-                  ></path>
-                  <path d="m21 3-9 9"></path>
-                  <path d="M15 3h6v6"></path>
-                </svg>
-              </div></div></a
+              <div class="OurServices2-module__-ks7Ma__link"></div></div></a
           ><a href="/services/#maintenance" title="Support"
             ><div
               class="OurServices2-module__-ks7Ma__card OurServices2-module__-ks7Ma__visible"
               style="transition-delay: 0ms"
             >
-              <div class="OurServices2-module__-ks7Ma__iconWrapper">
-                <svg
-                  aria-hidden="true"
-                  class="lucide lucide-headset"
-                  fill="none"
-                  height="65"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="1.2"
-                  viewBox="0 0 24 24"
-                  width="65"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M3 11h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-5Zm0 0a9 9 0 1 1 18 0m0 0v5a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3Z"
-                  ></path>
-                  <path d="M21 16v2a4 4 0 0 1-4 4h-5"></path>
-                </svg>
-              </div>
+              <div class="OurServices2-module__-ks7Ma__iconWrapper"></div>
               <h3>Support</h3>
               <p class="OurServices2-module__-ks7Ma__description">
                 Scheduled maintenance for safe and trouble-free operation
               </p>
-              <div class="OurServices2-module__-ks7Ma__link">
-                <svg
-                  aria-hidden="true"
-                  class="lucide lucide-square-arrow-out-up-right"
-                  fill="none"
-                  height="24"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  viewBox="0 0 24 24"
-                  width="24"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M21 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h6"
-                  ></path>
-                  <path d="m21 3-9 9"></path>
-                  <path d="M15 3h6v6"></path>
-                </svg>
-              </div></div></a
+              <div class="OurServices2-module__-ks7Ma__link"></div></div></a
           ><a href="/services/#repair" title="Repair"
             ><div
               class="OurServices2-module__-ks7Ma__card OurServices2-module__-ks7Ma__visible"
               style="transition-delay: 0ms"
             >
-              <div class="OurServices2-module__-ks7Ma__iconWrapper">
-                <svg
-                  aria-hidden="true"
-                  class="lucide lucide-wrench"
-                  fill="none"
-                  height="65"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="1.2"
-                  viewBox="0 0 24 24"
-                  width="65"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.106-3.105c.32-.322.863-.22.983.218a6 6 0 0 1-8.259 7.057l-7.91 7.91a1 1 0 0 1-2.999-3l7.91-7.91a6 6 0 0 1 7.057-8.259c.438.12.54.662.219.984z"
-                  ></path>
-                </svg>
-              </div>
+              <div class="OurServices2-module__-ks7Ma__iconWrapper"></div>
               <h3>Repair</h3>
               <p class="OurServices2-module__-ks7Ma__description">
                 Repair and restoration of warehouse structures and equipment
               </p>
-              <div class="OurServices2-module__-ks7Ma__link">
-                <svg
-                  aria-hidden="true"
-                  class="lucide lucide-square-arrow-out-up-right"
-                  fill="none"
-                  height="24"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  viewBox="0 0 24 24"
-                  width="24"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M21 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h6"
-                  ></path>
-                  <path d="m21 3-9 9"></path>
-                  <path d="M15 3h6v6"></path>
-                </svg>
-              </div></div></a
+              <div class="OurServices2-module__-ks7Ma__link"></div></div></a
           ><a href="/services/#rental" title="Machine rental"
             ><div
               class="OurServices2-module__-ks7Ma__card OurServices2-module__-ks7Ma__visible"
               style="transition-delay: 0ms"
             >
-              <div class="OurServices2-module__-ks7Ma__iconWrapper">
-                <svg
-                  aria-hidden="true"
-                  class="lucide lucide-warehouse"
-                  fill="none"
-                  height="65"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="1.2"
-                  viewBox="0 0 24 24"
-                  width="65"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path d="M18 21V10a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1v11"></path>
-                  <path
-                    d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V8a2 2 0 0 1 1.132-1.803l7.95-3.974a2 2 0 0 1 1.837 0l7.948 3.974A2 2 0 0 1 22 8z"
-                  ></path>
-                  <path d="M6 13h12"></path>
-                  <path d="M6 17h12"></path>
-                </svg>
-              </div>
+              <div class="OurServices2-module__-ks7Ma__iconWrapper"></div>
               <h3>Machine rental</h3>
               <p class="OurServices2-module__-ks7Ma__description">
                 Flexible solutions for renting warehouse equipment
               </p>
-              <div class="OurServices2-module__-ks7Ma__link">
-                <svg
-                  aria-hidden="true"
-                  class="lucide lucide-square-arrow-out-up-right"
-                  fill="none"
-                  height="24"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  viewBox="0 0 24 24"
-                  width="24"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M21 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h6"
-                  ></path>
-                  <path d="m21 3-9 9"></path>
-                  <path d="M15 3h6v6"></path>
-                </svg>
-              </div></div
+              <div class="OurServices2-module__-ks7Ma__link"></div></div
           ></a>
         </div>
       </div>
@@ -928,23 +504,6 @@ stylesheets:
         </h3>
         <div class="AboutUsSection-module__XRQDMG__pillarsGrid">
           <div class="AboutUsSection-module__XRQDMG__pillarCard">
-            <svg
-              aria-hidden="true"
-              class="lucide lucide-target AboutUsSection-module__XRQDMG__pillarIcon"
-              fill="none"
-              height="24"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              viewBox="0 0 24 24"
-              width="24"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <circle cx="12" cy="12" r="10"></circle>
-              <circle cx="12" cy="12" r="6"></circle>
-              <circle cx="12" cy="12" r="2"></circle>
-            </svg>
             <h4>PRECISION</h4>
             <span>Engineering discipline</span>
             <p>
@@ -953,25 +512,6 @@ stylesheets:
             </p>
           </div>
           <div class="AboutUsSection-module__XRQDMG__pillarCard">
-            <svg
-              aria-hidden="true"
-              class="lucide lucide-lightbulb AboutUsSection-module__XRQDMG__pillarIcon"
-              fill="none"
-              height="24"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              viewBox="0 0 24 24"
-              width="24"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path
-                d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"
-              ></path>
-              <path d="M9 18h6"></path>
-              <path d="M10 22h4"></path>
-            </svg>
             <h4>INNOVATION</h4>
             <span>Smart solutions</span>
             <p>
@@ -980,24 +520,6 @@ stylesheets:
             </p>
           </div>
           <div class="AboutUsSection-module__XRQDMG__pillarCard">
-            <svg
-              aria-hidden="true"
-              class="lucide lucide-shield-check AboutUsSection-module__XRQDMG__pillarIcon"
-              fill="none"
-              height="24"
-              stroke="currentColor"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              viewBox="0 0 24 24"
-              width="24"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path
-                d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"
-              ></path>
-              <path d="m9 12 2 2 4-4"></path>
-            </svg>
             <h4>RELIABILITY</h4>
             <span>Guaranteed stability</span>
             <p>
@@ -1012,24 +534,7 @@ stylesheets:
             type="button"
           >
             <span>Ask for an offer</span
-            ><span class="Button-module__e7WGRa__iconRight"
-              ><svg
-                fill="none"
-                height="20"
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="1.2"
-                viewBox="0 0 24 24"
-                width="20"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M12 9v-3.586a1 1 0 0 1 1.707 -.707l6.586 6.586a1 1 0 0 1 0 1.414l-6.586 6.586a1 1 0 0 1 -1.707 -.707v-3.586h-3v-6h3z"
-                ></path>
-                <path d="M3 9v6"></path>
-                <path d="M6 9v6"></path></svg
-            ></span>
+            ><span class="Button-module__e7WGRa__iconRight"></span>
           </button>
         </div>
       </div>
@@ -1053,128 +558,30 @@ stylesheets:
           <div class="FinalCTA-module__kq61cW__info">
             <h3>Contact information</h3>
             <div class="FinalCTA-module__kq61cW__infoBlock">
-              <svg
-                aria-hidden="true"
-                class="lucide lucide-map-pinned FinalCTA-module__kq61cW__icon"
-                fill="none"
-                height="24"
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                viewBox="0 0 24 24"
-                width="24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M18 8c0 3.613-3.869 7.429-5.393 8.795a1 1 0 0 1-1.214 0C9.87 15.429 6 11.613 6 8a6 6 0 0 1 12 0"
-                ></path>
-                <circle cx="12" cy="8" r="2"></circle>
-                <path
-                  d="M8.714 14h-3.71a1 1 0 0 0-.948.683l-2.004 6A1 1 0 0 0 3 22h18a1 1 0 0 0 .948-1.316l-2-6a1 1 0 0 0-.949-.684h-3.712"
-                ></path>
-              </svg>
               <div>
                 <span>Office</span>
                 <p>Plovdiv city</p>
               </div>
             </div>
             <div class="FinalCTA-module__kq61cW__infoBlock">
-              <svg
-                aria-hidden="true"
-                class="lucide lucide-phone-outgoing FinalCTA-module__kq61cW__icon"
-                fill="none"
-                height="24"
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                viewBox="0 0 24 24"
-                width="24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path d="m16 8 6-6"></path>
-                <path d="M22 8V2h-6"></path>
-                <path
-                  d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"
-                ></path>
-              </svg>
               <div>
                 <span>Phone</span>
                 <p>+359 877 486 644</p>
               </div>
             </div>
             <div class="FinalCTA-module__kq61cW__infoBlock">
-              <svg
-                aria-hidden="true"
-                class="lucide lucide-map-pinned FinalCTA-module__kq61cW__icon"
-                fill="none"
-                height="24"
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                viewBox="0 0 24 24"
-                width="24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M18 8c0 3.613-3.869 7.429-5.393 8.795a1 1 0 0 1-1.214 0C9.87 15.429 6 11.613 6 8a6 6 0 0 1 12 0"
-                ></path>
-                <circle cx="12" cy="8" r="2"></circle>
-                <path
-                  d="M8.714 14h-3.71a1 1 0 0 0-.948.683l-2.004 6A1 1 0 0 0 3 22h18a1 1 0 0 0 .948-1.316l-2-6a1 1 0 0 0-.949-.684h-3.712"
-                ></path>
-              </svg>
               <div>
                 <span>Office</span>
                 <p>the city of Sofia</p>
               </div>
             </div>
             <div class="FinalCTA-module__kq61cW__infoBlock">
-              <svg
-                aria-hidden="true"
-                class="lucide lucide-phone-outgoing FinalCTA-module__kq61cW__icon"
-                fill="none"
-                height="24"
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                viewBox="0 0 24 24"
-                width="24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path d="m16 8 6-6"></path>
-                <path d="M22 8V2h-6"></path>
-                <path
-                  d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"
-                ></path>
-              </svg>
               <div>
                 <span>Phone</span>
                 <p>+359 878 758 080</p>
               </div>
             </div>
             <div class="FinalCTA-module__kq61cW__infoBlock">
-              <svg
-                aria-hidden="true"
-                class="lucide lucide-send FinalCTA-module__kq61cW__icon"
-                fill="none"
-                height="24"
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                viewBox="0 0 24 24"
-                width="24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M14.536 21.686a.5.5 0 0 0 .937-.024l6.5-19a.496.496 0 0 0-.635-.635l-19 6.5a.5.5 0 0 0-.024.937l7.93 3.18a2 2 0 0 1 1.112 1.11z"
-                ></path>
-                <path d="m21.854 2.147-10.94 10.939"></path>
-              </svg>
               <div>
                 <span>Email</span>
                 <p>office@forstorebg.com</p>
