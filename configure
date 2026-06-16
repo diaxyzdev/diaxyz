@@ -13,7 +13,7 @@ main() {
     simba_define_btime_envar APP_AUTHOR_NAME 'diaxyz'
     simba_define_btime_envar APP_AUTHOR_ID 'diaxyz'
     simba_define_btime_envar APP_AUTHOR_EMAIL 'admin@diaxyz.com'
-    simba_define_btime_envar APP_AUTHOR_HOME_URL 'https://github.com/pnoulis'
+    simba_define_btime_envar APP_AUTHOR_HOME_URL 'https://github.com/diaxyzdev'
 
     # Package
     simba_define_btime_envar APP_NAME 'diaxyz'

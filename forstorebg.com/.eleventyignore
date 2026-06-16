@@ -1,0 +1,4 @@
+src/**/*.html
+**/node_modules/**
+**/build/**
+**/mirrors/**

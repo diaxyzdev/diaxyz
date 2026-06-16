@@ -7,30 +7,39 @@
   <title><%= title %> | FORSTORBG</title>
   <meta name="description" content="<%= description %>">
   
-  <link rel="preload" href="/_next/static/media/47d6d6c1e6da10b8.p.660e3587.woff2" as="font" crossorigin="" type="font/woff2">
-  <link rel="preload" href="/_next/static/media/827a210979ea4704.p.5b0890a2.woff2" as="font" crossorigin="" type="font/woff2">
-  <link rel="preload" href="/_next/static/media/bb835a708696869b.p.c37cd17c.woff2" as="font" crossorigin="" type="font/woff2">
-  <link rel="preload" href="/_next/static/media/c825fd02acae0153.p.1692d83b.woff2" as="font" crossorigin="" type="font/woff2">
-  <link rel="preload" as="image" href="/forstore_dark_new.svg">
-  <link rel="preload" href="/forstore_lite_new.svg" as="image">
-  <link rel="preload" href="/icons/Facebook_Icon_Primary_Blue.svg" as="image">
-  <link rel="preload" href="/icons/linkedin-logo.svg" as="image">
+  <link rel="preload" href="/assets/fonts/47d6d6c1e6da10b8.p.660e3587.woff2" as="font" crossorigin="" type="font/woff2">
+  <link rel="preload" href="/assets/fonts/827a210979ea4704.p.5b0890a2.woff2" as="font" crossorigin="" type="font/woff2">
+  <link rel="preload" href="/assets/fonts/bb835a708696869b.p.c37cd17c.woff2" as="font" crossorigin="" type="font/woff2">
+  <link rel="preload" href="/assets/fonts/c825fd02acae0153.p.1692d83b.woff2" as="font" crossorigin="" type="font/woff2">
+  <link rel="preload" as="image" href="/assets/forstore_dark_new.svg">
+  <link rel="preload" href="/assets/forstore_lite_new.svg" as="image">
+  <link rel="preload" href="/assets/icons/Facebook_Icon_Primary_Blue.svg" as="image">
+  <link rel="preload" href="/assets/icons/linkedin-logo.svg" as="image">
 
   <link rel="stylesheet" href="/_next/static/chunks/3cf92629a4ec7e88.css">
   <link rel="stylesheet" href="/_next/static/chunks/051aa0cac4e5a18c.css">
-  <link rel="stylesheet" href="/_next/static/chunks/fdedda43be506c50.css">
+  <% if (typeof stylesheets !== 'undefined' && Array.isArray(stylesheets)) { %>
+    <% stylesheets.forEach(function(cssPath) { %>
+      <link rel="stylesheet" href="<%= cssPath %>">
+    <% }); %>
+  <% } else if (page.url && page.url.startsWith('/equipment/') && page.url !== '/equipment/') { %>
+    <link rel="stylesheet" href="/_next/static/chunks/fdedda43be506c50.css">
+    <link rel="stylesheet" href="/_next/static/chunks/702cd381b41a98a9.css">
+  <% } else if (page.url === '/') { %>
+    <link rel="stylesheet" href="/_next/static/chunks/fdedda43be506c50.css">
+  <% } %>
 
-  <link rel="icon" href="/favicon-32x32.png" sizes="32x32" type="image/png">
-  <link rel="icon" href="/favicon-16x16.png" sizes="16x16" type="image/png">
-  <link rel="icon" href="/forstore_ico.svg" type="image/svg+xml">
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="icon" href="/assets/favicon-32x32.png" sizes="32x32" type="image/png">
+  <link rel="icon" href="/assets/favicon-16x16.png" sizes="16x16" type="image/png">
+  <link rel="icon" href="/assets/forstore_ico.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 </head>
 <body class="google_sans_42955067-module__RzqGtG__variable raleway_5ea59cd6-module__dzsAeG__variable google_sans_42955067-module__RzqGtG__className">
   <div hidden=""><!--$--><!--/$--></div>
   <header class="Header-module__ldgnoG__header <%= (page.url !== '/') ? 'Header-module__ldgnoG__light' : '' %>">
     <div class="Header-module__ldgnoG__container">
       <a href="/">
-        <img src="<%= (page.url !== '/') ? '/forstore_lite_new.svg' : '/forstore_dark_new.svg' %>" alt="Logo Forstor BG" title="Logo Forstor BG" class="Logo-module__FeqWJG__logo" width="207" height="40">
+        <img src="<%= (page.url !== '/') ? '/assets/forstore_lite_new.svg' : '/assets/forstore_dark_new.svg' %>" alt="Logo Forstor BG" title="Logo Forstor BG" class="Logo-module__FeqWJG__logo" width="207" height="40">
       </a>
       <nav class="Navigation-module__l8qRma__navigation">
         <button class="Navigation-module__l8qRma__burger <%= (page.url !== '/') ? 'Navigation-module__l8qRma__light' : 'Navigation-module__l8qRma__dark' %>" aria-label="Toggle menu" id="burger-menu-btn">
@@ -137,16 +146,16 @@
       <div class="Footer-module__Grjkva__column">
         <div class="Footer-module__Grjkva__logo">
           <a href="/">
-            <img src="/forstore_lite_new.svg" alt="Logo Forstor BG" title="Logo Forstor BG" class="Logo-module__FeqWJG__logo" width="207" height="40">
+            <img src="/assets/forstore_lite_new.svg" alt="Logo Forstor BG" title="Logo Forstor BG" class="Logo-module__FeqWJG__logo" width="207" height="40">
           </a>
         </div>
         <p class="Footer-module__Grjkva__description">Design and construction of modern warehouse and logistics bases with high functionality, optimized costs and long-term returns.</p>
         <div class="Footer-module__Grjkva__social">
           <a href="https://www.facebook.com/forstorebg" target="_blank" title="Link to Facebook page of Forstorebg.com">
-            <img src="/icons/Facebook_Icon_Primary_Blue.svg" alt="Facebook Logo" title="Logo Facebook" class="Footer-module__Grjkva__fblogo">
+            <img src="/assets/icons/Facebook_Icon_Primary_Blue.svg" alt="Facebook Logo" title="Logo Facebook" class="Footer-module__Grjkva__fblogo">
           </a>
           <a href="https://www.linkedin.com/" target="_blank" title="Link to Linkedin page of Forstorebg.com">
-            <img src="/icons/linkedin-logo.svg" alt="Linkedin Logo" title="Logo Linkedin" class="Footer-module__Grjkva__inLogo">
+            <img src="/assets/icons/linkedin-logo.svg" alt="Linkedin Logo" title="Logo Linkedin" class="Footer-module__Grjkva__inLogo">
           </a>
         </div>
       </div>

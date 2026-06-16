@@ -71,13 +71,13 @@ document.addEventListener('DOMContentLoaded', () => {
         header.classList.add('Header-module__ldgnoG__scrolled');
         if (isHome) {
           header.classList.add('Header-module__ldgnoG__light');
-          if (logoImg) logoImg.src = '/forstore_lite_new.svg';
+          if (logoImg) logoImg.src = '/assets/forstore_lite_new.svg';
         }
       } else {
         header.classList.remove('Header-module__ldgnoG__scrolled');
         if (isHome) {
           header.classList.remove('Header-module__ldgnoG__light');
-          if (logoImg) logoImg.src = '/forstore_dark_new.svg';
+          if (logoImg) logoImg.src = '/assets/forstore_dark_new.svg';
         }
       }
     }
