@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Multilingual Eleventy</title>
+</head>
+<body>
+  <header>
+    <h1 translate="pre">Welcome to our Multi-lingual Site!</h1>
+  </header>
+  
+  <main>
+    <p translate="pre">This is a static layout paragraph.</p>
+    
+    <p translate="pre">Hello {{ user.name | default: 'Guest' }}!</p>
+
+    <!-- Simulate a dynamic blog post injection -->
+    <div translate="post">This is dynamic content that gets evaluated by Liquid. My name is {{ user.name | default: 'John' }} and this is my blog post!</div>
+
+    <div>
+      <p>This paragraph is NOT marked for translation.</p>
+    </div>
+  </main>
+</body>
+</html>

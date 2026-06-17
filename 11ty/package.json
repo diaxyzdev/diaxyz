@@ -4,13 +4,16 @@
   "description": "[11ty](https://www.11ty.dev/) is a static site generator.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "extract": "LOCALE=en npx @11ty/eleventy",
+    "build:all": "make"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "@11ty/eleventy": "^3.1.6"
+    "@11ty/eleventy": "^3.1.6",
+    "cheerio": "^1.2.0"
   }
 }
