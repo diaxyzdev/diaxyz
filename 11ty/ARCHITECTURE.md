@@ -62,6 +62,22 @@ within an Eleventy Plugin (`11ty/plugins/i18n.js`):
   John!`). It generates a hash for the final rendered string and looks it up in
   the dictionary.
 
+## 3. Implementation
+
+The translation stage employs a modular architecture split into discreet scripts.
+
+1. Extract
+2. Parse / Transform
+3. Hash
+4. Lookup translations
+5. Translate
+
+The sequence can purposefully be run as a stand alone program from the command
+line which lends itself beautifully to translating static text (translate=pre).
+
+However, when we need to translate static text mixed with dynamic content
+(translate=post), the sequence is initiated by 11ty at build time.
+
 ## 3. Automated Extraction & Build Workflow
 
 The architecture completely automates the extraction of new translatable strings.
@@ -86,6 +102,21 @@ of `LOCALES` (e.g., `en es`).
 - **Fail-Fast Safety:** If the plugin encounters a missing translation while
   building for a non-default language, it throws a fatal error, guaranteeing
   100% translation completion before deployment.
+## 4. Development builds
+
+One major negative consequence of the translation architecture is the time
+consuming build process. Long build times hinder a fast development loop
+ultimately affecting developer productivity.
+
+Therefore, the developer is allowed to opt out of the translation stage by
+passing in the flag **TRANSLATE=0** to the build process.
+
+
+```bash
+
+TRANSLATE=0 make build
+
+```
 
 ## 4. Developer Usage
 
