@@ -10,21 +10,46 @@ Our `translate="pre"` directive splits text using a regex to preserve Liquid tag
 By converting normalized English strings into SHA-256 hashes, we lose context. If the English word "Book" appears twice on your site—once as a noun (a reading book) and once as a verb (to book a flight)—it generates the exact same hash.
 **The fatal flaw:** Because both instances share the same key in `translations.json`, you are forced to translate it the exact same way everywhere. You cannot translate it as "Libro" in one place and "Reservar" in another.
 
+
 ### 3. Jamming CMS Data into a JSON File (`translate="post"`)
 Our dynamic extraction captures fully evaluated data (like blog posts) and writes it into `translations.json`. 
 **The fatal flaw:** A JSON file is a UI dictionary, not a database. If your site scales to 5,000 blog posts, `translations.json` will swell to dozens of megabytes, crashing your text editor and causing Git merge conflicts from hell. Content (like blog posts) should be translated at the CMS/Database level, while UI elements (buttons, headers) should be translated in `translations.json`. Mixing them is an architectural anti-pattern.
+
+#### Solution
+
+Dynamic content that might potentially be too large to contain in a JSON file
+shall be stored in an sqlite database. So the translation lookup will make use
+of that database.
+
+for static content a JSON file will do.
 
 ### 4. Severe Build-Time Performance Penalties
 Eleventy is famous for being incredibly fast. 
 **The fatal flaw:** We are passing *every single file* through Cheerio's HTML parser up to twice per build (once in the preprocessor, once in the transform). Parsing and serializing ASTs (Abstract Syntax Trees) in JavaScript is expensive. For a site with 10,000 pages, this will bottleneck Eleventy and increase build times exponentially. 
 
+#### Solution
+
+Using the build time flag `TRANSLATE=0` the developer is allowed to skip the
+translation stage which is mandatory only for release builds.
+
+
 ### 5. The "Fail-Fast" Deployment Nightmare
 Failing the build when a translation is missing ensures 100% coverage, which sounds great in theory.
 **The fatal flaw:** Imagine a content editor publishes a new blog post via a headless CMS on a Friday evening. The CI/CD pipeline triggers an Eleventy build. Because the post hasn't been manually translated to Spanish in `translations.json` yet, the *entire build fails*. The new English post never goes live, and the site deployment is paralyzed until a developer intervenes. Graceful fallbacks (showing English text if Spanish is missing) are usually preferred for dynamic content.
 
+#### Solution
+
+Return the original text if a translation is missing.
+
 ### 6. Hijacking Standard HTML Attributes
 We used `translate="pre"` and `translate="post"`, and then we stripped them from the final HTML.
 **The fatal flaw:** `translate` is an actual, standard HTML5 global attribute used to tell automated translation tools (like Chrome's built-in Google Translate) whether they should translate a node. By hijacking it for our build process and stripping it, we are removing standard semantic accessibility markers. We should have used a data attribute like `data-i18n="pre"`.
+
+
+#### Solution
+
+Make use of a custom attribute called `data-tt`.
+
 
 ***
 

@@ -4,10 +4,10 @@ tmp/
 tmp.*
 forstorebg.com/**/*.html
 forstorebg.com/**/*.py
+scratch.*
 
 /* Configuration artifacts */
 Makefile
-config.*
 !11ty/Makefile
 
 /* Build artifacts */

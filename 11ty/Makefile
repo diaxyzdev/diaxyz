@@ -4,16 +4,25 @@ SHELL:=/usr/bin/bash
 
 
 # Default locales to build. Add more as needed, e.g., "en es"
-export LOCALE ?= en es
 export TRANSLATE ?= 0
+export TRANSLATE_TARGET_LOCALE ?= en
+export TRANSLATE_TRY_TRANSLATE ?= 0
+export TRANSLATE_SAVE_TRANSLATIONS ?= 0
+export TRANSLATE_SAVE_KEYS ?= 1
+export TRANSLATE_VERBOSITY ?= 1
+
+.PHONY: all
+all: build
 
 .PHONY: build
 build:
-	node scratch.js
+	npx @11ty/eleventy
 
-.PHONY: al	l
-all:
-	@for locale in $(LOCALES); do \
-		echo "Building for locale: $$locale"; \
-		LOCALE=$$locale npx @11ty/eleventy; \
-	done
+.PHONY: scratch
+scratch:
+	node ./scratch.js
+
+.PHONY: translate
+translate:
+	node ./translate/translate.js
+

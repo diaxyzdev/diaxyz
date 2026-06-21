@@ -1,0 +1,225 @@
+#!__BASH__
+
+##################################################
+# Make config
+##################################################
+.SUFFIXES: # Clear all suffix-based implicit rules
+.DELETE_ON_ERROR:
+SHELL							:= __BASH__
+.DEFAULT_GOAL			:= all
+
+##################################################
+# Application information
+##################################################
+export APP_AUTHOR_NAME				= __APP_AUTHOR_NAME__
+export APP_AUTHOR_ID					= __APP_AUTHOR_ID__
+export APP_AUTHOR_EMAIL				= __APP_AUTHOR_EMAIL__
+export APP_AUTHOR_HOME_URL		= __APP_AUTHOR_HOME_URL__
+export APP_NAME								= __APP_NAME__
+export APP_ID									= __APP_ID__
+export APP_PRETTY_NAME				= __APP_PRETTY_NAME__
+export APP_VERSION						= __APP_VERSION__
+export APP_VVERSION						= __APP_VVERSION__
+export APP_REPO_TYPE					= __APP_REPO_TYPE__
+export APP_REPO_URL						= __APP_REPO_URL__
+export APP_HOME_URL						= __APP_HOME_URL__
+export APP_DOCUMENTATION_URL	= __APP_DOCUMENTATION_URL__
+export APP_BUG_REPORT_url			= __APP_BUG_REPORT_URL__
+export APP_SUPPORT_URL				= __APP_SUPPORT_URL__
+
+##################################################
+# Program name transformation
+##################################################
+export PROGRAM_NAME = __PROGRAM_NAME__
+
+##################################################
+# Build directories
+##################################################
+export BUILDROOTDIR			= __BUILDROOTDIR__
+export BUILDROOTDIR_ABS	= __BUILDROOTDIR_ABS__
+export SRCROOTDIR				= __SRCROOTDIR__
+export SRCROOTDIR_ABS		= __SRCROOTDIR_ABS__
+export SRCDIR						= $(SRCROOTDIR)/src
+export SRCDIR_ABS				= $(SRCROOTDIR_ABS)/src
+export BUILDIR					= __BUILDIR__
+export BUILDIR_ABS			= __BUILDIR_ABS__
+export DISTDIR					= __DISTDIR__
+export DISTDIR_ABS			= __DISTDIR_ABS__
+
+##################################################
+# Installation directories
+##################################################
+export XDG_DATA_HOME			= __XDG_DATA_HOME__
+export XDG_CONFIG_HOME		= __XDG_CONFIG_HOME__
+export XDG_STATE_HOME			= __XDG_STATE_HOME__
+export XDG_CACHE_HOME			= __XDG_CACHE_HOME__
+export XDG_RUNTIME_DIR		= __XDG_RUNTIME_DIR__
+export XDG_DATA_DIRS			= __XDG_DATA_DIRS__
+export XDG_CONFIG_DIRS		= __XDG_CONFIG_DIRS__
+export prefix							= __prefix__
+export exec_prefix				= __exec_prefix__
+export bindir							= __bindir__
+export sbindir						= __sbindir__
+export libexecdir					= __libexecdir__
+export datarootdir				= __datarootdir__
+export datadir						= __datadir__
+export sysconfdir					= __sysconfdir__
+export sharedstatedir			= __sharedstatedir__
+export localstatedir			= __localstatedir__
+export runstatedir				= __runstatedir__
+export includedir					= __includedir__
+export oldincludedir			= __oldincludedir__
+export docdir							= __docdir__
+export infodir						= __infodir__
+export mandir							= __mandir__
+export htmldir						= __htmldir__
+export pdfdir							= __pdfdir__
+export psdir							= __psdir__
+export libdir							= __libdir__
+export localedir					= __localedir__
+# Derived directories
+export tmpdir							= __tmpdir__
+export tmpdir_persistent	= __tmpdir_persistent__
+export statedir						= __statedir__
+export cachedir						= __cachedir__
+export logdir							= __logdir__
+export spooldir						= __spooldir__
+export lockdir						= __lockdir__
+export desktopdir					= __desktopdir__
+export icondir						= __icondir__
+export metainfodir				=	__metainfodir__
+
+##################################################
+# Tools
+##################################################
+MAKE					= __MAKE__
+ECHO					= __ECHO__
+CHMOD					= __CHMOD__
+CHOWN					= __CHOWN__
+CP						= __CP__
+RM						= __RM__
+CAT						= __CAT__
+MKDIR					= __MKDIR__
+CAT						= __CAT__
+CUT						= __CUT__
+TAIL					= __TAIL__
+GREP					= __GREP__
+GIT						= __GIT__
+M4						= __M4__
+M4_ENV_FLAGS	= __BUILD_TIME_ENV_M4_DEFINES__
+
+##################################################
+# Misc
+##################################################
+colon								= :
+CONFIG_MACROSFILE		= __SIMBA_CONFIG_MACROSFILE__
+CONFIG_MAKEFILE_IN	= __SIMBA_CONFIG_MAKEFILE_IN__
+CONFIG_MAKEFILE			= __SIMBA_CONFIG_MAKEFILE__
+export DOTENVFILE		= $(BUILDIR).env
+ENVIRONMENT					= __BUILD_TIME_ENV__
+export MODE					= __MODE__
+
+VPATH = $(SRCDIR)
+
+##################################################
+# Default target
+##################################################
+all: build
+
+##################################################
+# Build
+##################################################
+build:
+
+##################################################
+# Release
+##################################################
+release:
+
+##################################################
+# Distribute source tree
+##################################################
+dist: archive?=zip
+dist: dist.$$(archive)
+
+##################################################
+# Distribute package
+##################################################
+package: archive?=zip
+package: package.$$(archive)
+
+##################################################
+# Install
+##################################################
+install:
+
+##################################################
+# Uninstall
+##################################################
+uninstall:
+
+##################################################
+# Clean
+##################################################
+clean:
+ifneq ($(BUILDIR),$(BUILDROOTDIR))
+	-$(RM) -fr $(BUILDIR)
+else
+	@echo nothing to clean
+endif
+
+##################################################
+# Distclean
+##################################################
+distclean: clean
+	-$(RM) -f *.log
+	-$(RM) -f .#*
+	-$(RM) -f config.*
+	-$(RM) -f Makefile
+
+##################################################
+# Environment
+##################################################
+dotenv: $(DOTENVFILE)
+
+$(DOTENVFILE): $(CONFIG_MAKEFILE_IN)
+	$(ECHO) -e $(ENVIRONMENT) > $@
+
+
+##################################################
+# misc
+##################################################
+.DEFAULT:
+	@if [ ! -f "$<" ]; then $(ECHO) "Missing file -> $${file:-$<}"; exit 1; fi
+
+##################################################
+# directories
+##################################################
+$(BUILDIR_ABS):
+	$(MKDIR) -p $@ 2>/dev/null
+
+##################################################
+# help
+##################################################
+help:
+	$(CAT) $(CONFIG_MAKEFILE)| $(GREP) -i --color=auto 'phony' | $(CUT) -d ' ' -f2- | $(TAIL) --lines=+3
+
+# Software development
+.PHONY: run # Read dotenvfile and run $target or tmp/scratch.js
+.PHONY: dev # Develop application
+.PHONY: build # Build application
+.PHONY: test # Test application
+# Software distribution
+.PHONY: release # Create a new version
+.PHONY: dist # Distribute source tree
+.PHONY: package # Distribute build
+# Software package
+.PHONY: install # Install package
+.PHONY: uninstall # Uninstall package
+# Cleaning
+.PHONY: clean # Remove files created by ./make
+.PHONY: distclean # Remove files created by ./configure
+# Misc
+.PHONY: help # Display a short description about each Makefile target's function
+.PHONY: dotenv # Write environment into .env
+.PHONY: all # Default target

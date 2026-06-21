@@ -6,16 +6,18 @@
 </head>
 <body>
   <header>
-    <h1 translate="pre">Welcome to our Multi-lingual Site!</h1>
+    <h1 data-tt="pre">Welcome {{ user.name }} to our {{ user.name }} Multi-lingual Site {{ user.pp }} !</h1>
   </header>
   
   <main>
-    <p translate="pre">This is a static layout paragraph.</p>
+      <p data-tt="pre">This is a static <span>layout</span> paragraph.</p>
     
-    <p translate="pre">Hello {{ user.name | default: 'Guest' }}!</p>
+    <p data-tt="pre">Hello {{ user.name | default: 'Guest' }}!</p>
+    <p data-tt="pre">       </p>
+    <p data-tt="pre"></p>
 
     <!-- Simulate a dynamic blog post injection -->
-    <div translate="post">This is dynamic content that gets evaluated by Liquid. My name is {{ user.name | default: 'John' }} and this is my blog post!</div>
+    <div data-tt="pre">This is dynamic content that gets evaluated by Liquid. My name is {{ user.name | default: 'John' }} and this is my blog post!</div>
 
     <div>
       <p>This paragraph is NOT marked for translation.</p>

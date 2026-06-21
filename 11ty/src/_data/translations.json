@@ -1,30 +1,18 @@
 {
-  "P8sXqn/U7AEx5cADmuywK1hXtHkHs98+cIuxuRTuWK0=": {
-    "en": "Welcome to our Multi-lingual Site!",
-    "es": "¡Bienvenido a nuestro sitio multilingüe!"
-  },
-  "D2UFUlptpby+Jy0uAcdSAh+Mx5N/skW8hl+bdic7ep0=": {
-    "en": "This is a paragraph of text that should be translated into multiple languages.",
-    "es": "Este es un párrafo de texto que debe traducirse a varios idiomas."
-  },
-  "ZXRJCIn4e4wLHF9aqzaWaMXO+64ReQfr6KeOLGnW+lk=": {
-    "en": "We are building this site using <strong>Eleventy</strong> and <em>Liquid</em>.",
-    "es": "Estamos construyendo este sitio usando <strong>Eleventy</strong> y <em>Liquid</em>."
-  },
-  "GF+NsyJx/iX1Yab8k4suJkMG7DBO2lGAB9F2SCY4GWk=": {
-    "en": "Hello",
-    "es": "Hola"
-  },
-  "u3IIvJtdfATxI2qCoAk6XjP0BCPVuo1CZvcJLDukO2I=": {
-    "en": "!",
-    "es": "!"
+  "SDXIOQMI0T05vLTou/jvcENGG6noZPsUhIMGpaAJWNg=": {
+    "en": "Welcome {{ user.name }} to our {{ user.name }} Multi-lingual Site {{ user.pp }} !",
+    "es": "¡Bienvenido a {{ user.name }} a nuestro {{ user.name }} sitio multilingüe {{ user.pp }}!"
   },
   "HSBvaigOa8SrwOSJUkpnGiLtwBzJepRydBs0hrWPrDo=": {
     "en": "This is a static layout paragraph.",
     "es": "Este es un párrafo de diseño estático."
   },
-  "4D3TGYLBJr92iPPo82psn6xi6t7S9fkUnk17jrFDcA0=": {
-    "en": "This is dynamic content that gets evaluated by Liquid. My name is John and this is my blog post!",
-    "es": "Este es contenido dinámico que es evaluado por Liquid. ¡Mi nombre es John y esta es mi entrada de blog!"
+  "GUk6fa2/5YNGlKM8N9vXNSuahQKCtAzejkiB11LHdWs=": {
+    "en": "Hello {{ user.name | default: 'Guest' }}!",
+    "es": "Hola {{ user.name | default: 'Guest' }}!"
+  },
+  "CtDRZTfkHmrlQqkHkKFYZUjDAW6uVznn0vs9lK5sL1I=": {
+    "en": "This is dynamic content that gets evaluated by Liquid. My name is {{ user.name | default: 'John' }} and this is my blog post!",
+    "es": "Este es contenido dinámico que Liquid evalúa. Mi nombre es {{ user.name | default: 'John' }} ¡y esta es la publicación de mi blog!"
   }
 }

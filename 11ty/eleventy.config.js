@@ -2,7 +2,8 @@ import * as cheerio from 'cheerio';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import i18nPlugin from './plugins/i18n.js';
+import { translatePlugin } from './translate/plugin.11ty.js';
+import { TRANSLATE } from './translate/config.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -10,7 +11,8 @@ const __dirname = path.dirname(__filename);
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 
 export default function(eleventyConfig) {
-  eleventyConfig.addPlugin(i18nPlugin);
+
+  if (TRANSLATE) eleventyConfig.addPlugin(translatePlugin);
 
   /*
     Directory where 11ty will look for input source files
