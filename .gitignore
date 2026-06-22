@@ -7,8 +7,9 @@ forstorebg.com/**/*.py
 scratch.*
 
 /* Configuration artifacts */
-Makefile
-!11ty/Makefile
+/Makefile
+config.macros.m4
+config.log
 
 /* Build artifacts */
 build/

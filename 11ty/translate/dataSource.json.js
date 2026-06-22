@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 
 function hasKey(dataSource, key) {
- return Object.hasOwn(dataSource, key);
+  return Object.hasOwn(dataSource, key);
 }
 
 function lookup(dataSource, key, locale) {
@@ -17,7 +17,14 @@ function save(filename, dataSource) {
 }
 
 export function initializeJSONDataSource(filename) {
-  const dataSource = JSON.parse(readFileSync(filename, 'utf-8'));
+  let dataSource;
+
+  try {
+    dataSource = JSON.parse(readFileSync(filename, 'utf-8'));
+  } catch (err) {
+    writeFileSync(filename, JSON.stringify({}));
+    dataSource = JSON.parse(readFileSync(filename, 'utf-8'));
+  }
 
   return {
     hasKey: hasKey.bind(null, dataSource),

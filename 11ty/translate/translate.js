@@ -4,15 +4,16 @@ import { pipeline } from 'node:stream/promises';
 import { Writable, Transform } from 'node:stream';
 import { extractHTMLTranslationTargets } from './extract.html.js';
 import { WARNING_MISSING_KEY, ERR_FAILED_TRANSLATION, WARNING_MALFORMED_TRANSLATION_TARGET, WARNING_MISSING_TRANSLATION, normalizeText, hashText } from './common.js';
-import { VERBOSE, SAVE_KEYS, SAVE_TRANSLATIONS, DATA_SOURCE_JSON, SOURCE_LOCALE, TARGET_LOCALE, TRY_TRANSLATE } from './config.js';
+import { VERBOSE, SAVE_KEYS, SAVE_TRANSLATIONS, SOURCE_LOCALE, TARGET_LOCALE, TRY_TRANSLATE } from './config.js';
 import { initializeJSONDataSource } from './dataSource.json.js';
 import { googleTranslate } from './translate.google.js';
 
 if (!process.argv[2]) throw new Error(`[ERROR] Missing argument: source directory`);
-
 const SRC_DIR = path.resolve(process.argv[2]);
 
+const DATA_SOURCE_JSON = process.argv[3] || '/tmp/translate.json';
 const dataSource = initializeJSONDataSource(DATA_SOURCE_JSON);
+
 const pendingTranslations = new Set();
 
 async function translate() {

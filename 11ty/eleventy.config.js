@@ -12,7 +12,10 @@ const __dirname = path.dirname(__filename);
 
 export default function(eleventyConfig) {
 
-  if (TRANSLATE) eleventyConfig.addPlugin(translatePlugin);
+  if (TRANSLATE) eleventyConfig.addPlugin(
+    translatePlugin,
+    { dataSourceJSON: "./src/_data/translations.json" }
+  );
 
   /*
     Directory where 11ty will look for input source files

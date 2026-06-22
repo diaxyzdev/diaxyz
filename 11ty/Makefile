@@ -4,7 +4,7 @@ SHELL:=/usr/bin/bash
 
 
 # Default locales to build. Add more as needed, e.g., "en es"
-export TRANSLATE ?= 0
+export TRANSLATE ?= 1
 export TRANSLATE_TARGET_LOCALE ?= en
 export TRANSLATE_TRY_TRANSLATE ?= 0
 export TRANSLATE_SAVE_TRANSLATIONS ?= 0
@@ -24,5 +24,5 @@ scratch:
 
 .PHONY: translate
 translate:
-	node ./translate/translate.js
+	node ./translate/translate.js ./src
 

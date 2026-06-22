@@ -1,13 +1,15 @@
 import crypto from 'node:crypto';
 import fs from "node:fs";
 import * as cheerio from 'cheerio';
-import { TARGET_SELECTOR, DATA_SOURCE_JSON, TARGET_LOCALE } from './config.js';
+import { TARGET_SELECTOR, TARGET_LOCALE } from './config.js';
 import { WARNING_MISSING_KEY, WARNING_MALFORMED_TRANSLATION_TARGET, WARNING_MISSING_TRANSLATION, normalizeText, hashText } from './common.js';
 import { initializeJSONDataSource } from './dataSource.json.js';
 
-const dataSource = initializeJSONDataSource(DATA_SOURCE_JSON);
+let dataSource;
 
 export function translatePlugin(eleventyConfig, pluginOptions) {
+  dataSource = initializeJSONDataSource(pluginOptions.dataSourceJSON);
+
   // Translate static content
   eleventyConfig.addPreprocessor('translatePre', 'html,liquid', function(context, inputFileRaw) {
     if (!context.page.inputPath.endsWith('.html')) return inputFileRaw;

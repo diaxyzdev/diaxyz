@@ -22,9 +22,6 @@ export const TARGET_SELECTOR = 'data-tt';
 // Regex to match Liquid's interpolation expressions.
 // export const RE_LIQUID_INTERPOLATION = /(\{\{[\s\S]*?\}\}|\{\%[\s\S]*?\%\})/g;
 
-// The file path where the translation dictionary JSON will be loaded from and saved to.
-export const DATA_SOURCE_JSON = './src/_data/translations.json';
-
 // When enabled, automatically calls the Google Translate API (or chosen package)
 // for any missing translations.
 export const TRY_TRANSLATE = (process.env.TRANSLATE_TRY_TRANSLATE || 0) == 1;
@@ -44,7 +41,6 @@ console.error(`TRANSLATE:${TRANSLATE}`);
 console.error(`TARGET_LOCALE:${TARGET_LOCALE}`);
 console.error(`SOURCE_LOCALE:${SOURCE_LOCALE}`);
 console.error(`TARGET_SELECTOR:${TARGET_SELECTOR}`);
-console.error(`DATA_SOURCE_JSON:${DATA_SOURCE_JSON}`);
 console.error(`TRY_TRANSLATE:${TRY_TRANSLATE}`);
 console.error(`SAVE_TRANSLATIONS:${SAVE_TRANSLATIONS}`);
 console.error(`SAVE_KEYS:${SAVE_KEYS}`);
