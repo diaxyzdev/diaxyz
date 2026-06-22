@@ -1,0 +1,31 @@
+{
+  "name": "translate",
+  "version": "1.0.0",
+  "description": "A library for statically generating multi-language websites during the build process",
+  "author": "Pavlos Noulis <pavlos.noulis@gmail.com>",
+  "main": "./src/index.js",
+  "keywords": [
+    "translation",
+    "i18n",
+    "eleventy",
+    "11ty-plugin",
+    "cli",
+    "html-parser"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diaxyzdev/diaxyz.git",
+    "directory": "lib/translate"
+  },
+  "license": "ISC",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.js",
+    "./*": "./src/*"
+  },
+  "dependencies": {
+    "cheerio": "1.2.0",
+    "google-translate-api-x": "10.7.3",
+    "htmlparser2": "12.0.0"
+  }
+}

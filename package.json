@@ -1,0 +1,7 @@
+{
+  "name": "diaxyz",
+  "private": true,
+  "workspaces": [
+    "lib/translate"
+  ]
+}
