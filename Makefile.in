@@ -107,6 +107,12 @@ GREP					= __GREP__
 GIT						= __GIT__
 M4						= __M4__
 M4_ENV_FLAGS	= __BUILD_TIME_ENV_M4_DEFINES__
+ECMA_VERSION := es2024
+NODE_VERSION := 24.16.0
+NODE_VVERSION := v$(NODE_VERSION)
+NVM_BIN := /home/pnoulis/.nvm/versions/node/$(NODE_VVERSION)/bin
+NODE := $(NVM_BIN)/node
+PRETTIER := $(NVM_BIN)/prettier
 
 ##################################################
 # Misc
@@ -135,6 +141,22 @@ build:
 # Release
 ##################################################
 release:
+
+
+##################################################
+# Format
+##################################################
+format: $(DIR)
+ifdef DIR
+	$(PRETTIER) --config prettier.config.js --write $(DIR)
+else
+	git diff --cached --name-only | while read -r file; do \
+		case "$$file" in \
+			*.json|*.js|*.ts|*.tsx|*.jsx|*.html) \
+				[[ -f "$$file" ]] && $(PRETTIER) --config prettier.config.js --write "$$file"; \
+		esac \
+	done
+endif
 
 ##################################################
 # Distribute source tree
@@ -223,3 +245,4 @@ help:
 .PHONY: help # Display a short description about each Makefile target's function
 .PHONY: dotenv # Write environment into .env
 .PHONY: all # Default target
+.PHONY: format # Enforce code format rules
