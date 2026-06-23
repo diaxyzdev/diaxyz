@@ -9,7 +9,7 @@ Elements to be translated are identified by a custom attribute (which the user
 may define):
 
 default: `data-tt`
-example: `<p data-tt>hello world</p>**
+example: `<p data-tt>hello world</p>\*\*
 
 The library will:
 
@@ -38,11 +38,11 @@ To translate pages during your Eleventy build, import and register
 `translatePlugin` in your `eleventy.config.js`:
 
 ```javascript
-import { translatePlugin } from './lib/translate/src/plugin.11ty.js'; // Or 'translate' if using local dependency
+import { translatePlugin } from "./lib/translate/src/plugin.11ty.js"; // Or 'translate' if using local dependency
 
 export default function (eleventyConfig) {
   eleventyConfig.addPlugin(translatePlugin, {
-    dataSourceJSON: './path/to/translations.json'
+    dataSourceJSON: "./path/to/translations.json",
   });
 }
 ```
@@ -50,6 +50,7 @@ export default function (eleventyConfig) {
 ### Build-Time Preprocessor & Transform
 
 The plugin registers:
+
 - A **preprocessor** (`translatePre`): Runs on `html` and `liquid` templates to process elements marked with `data-tt="pre"`.
 - A **post-transform** (`translatePost`): Runs on output `html` files to process elements marked with `data-tt="post"`.
 
@@ -59,7 +60,7 @@ The utility reads configuration parameters from environment variables (defined
 in [`config.js`](file:///home/pnoulis/src/diaxyz/lib/translate/src/config.js)):
 
 | Environment Variable          | Default | Description                                                                   |
-|:------------------------------|:--------|:------------------------------------------------------------------------------|
+| :---------------------------- | :------ | :---------------------------------------------------------------------------- |
 | `TRANSLATE_TARGET_LOCALE`     | `'en'`  | The target language code to generate translations for (e.g., `'es'`, `'fr'`). |
 | `TRANSLATE_SOURCE_LOCALE`     | `'en'`  | The canonical language of the source text files.                              |
 | `TRANSLATE_TRY_TRANSLATE`     | `0`     | Set to `1` to call the Google Translate API for missing keys (CLI only).      |
