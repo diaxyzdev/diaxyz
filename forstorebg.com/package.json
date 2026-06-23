@@ -1,12 +1,17 @@
 {
   "name": "forstorebg-static-en",
   "version": "1.0.0",
+  "type": "module",
   "description": "Static English copy of ForStoreBG website using Eleventy",
   "scripts": {
     "start": "eleventy --serve --port=8080",
     "build": "eleventy"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.1"
+    "@11ty/eleventy": "^3.0.0",
+    "translate": "*"
+  },
+  "dependencies": {
+    "@11ty/eleventy-plugin-ejs": "^1.0.0"
   }
 }

@@ -11,14 +11,8 @@ tags: - equipment - walk-through-shelving-system --- tags: - equipment -
 walk-through-shelving-system ---
 
 <main class="Services-module__3bADUG__page">
-  <section class="Services-module__3bADUG__hero">
-    <img
-      alt="Drive-through racking system"
-      class="Services-module__3bADUG__heroImage"
-      data-nimg="fill"
-      decoding="async"
-      src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system6.webp"
-      style="
+<section class="Services-module__3bADUG__hero">
+<img alt="Drive-through racking system" class="Services-module__3bADUG__heroImage" data-nimg="fill" decoding="async" src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system6.webp" style="
         position: absolute;
         height: 100%;
         width: 100%;
@@ -27,315 +21,199 @@ walk-through-shelving-system ---
         right: 0;
         bottom: 0;
         color: transparent;
-      "
-      title="Drive-through racking system"
-    />
-    <div class="Services-module__3bADUG__overlay"></div>
-    <div class="Services-module__3bADUG__heroContent">
-      <h1>
-        Drive-through racking system<span
-          class="Services-module__3bADUG__engtitle"
-          >Drive-in racking system</span
-        >
-      </h1>
-      <h2>
+      " title="Drive-through racking system"/>
+<div class="Services-module__3bADUG__overlay"></div>
+<div class="Services-module__3bADUG__heroContent">
+<h1>
+        Drive-through racking system<span class="Services-module__3bADUG__engtitle">Drive-in racking system</span>
+</h1>
+<h2>
         Optimal solution for maximum use of warehouse space and storage of large
         quantities of uniform goods.
       </h2>
-      <div>
-        <button
-          class="Button-module__e7WGRa__inverseWhiteBtn Button-module__e7WGRa__size_lg"
-          type="button"
-        >
-          <span>Send inquiry</span>
-        </button>
-      </div>
-    </div>
-  </section>
-
-  <nav class="Services-module__3bADUG__stickyNav">
-    <div class="Services-module__3bADUG__navInner">
-      <a
-        class="Services-module__3bADUG__navLink"
-        href="#product"
-        title="Description"
-        >Description</a
-      ><a
-        class="Services-module__3bADUG__navLink"
-        href="#advantages"
-        title="Advantages"
-        >Advantages</a
-      ><a
-        class="Services-module__3bADUG__navLink"
-        href="#applications"
-        title="Applications"
-        >Applications</a
-      ><a
-        class="Services-module__3bADUG__navLink"
-        href="#components"
-        title="Components"
-        >Components</a
-      ><a
-        class="Services-module__3bADUG__navLink Services-module__3bADUG__activeLink"
-        href="#gallery"
-        title="Gallery"
-        >Gallery
-        <div class="Services-module__3bADUG__underline"></div
-      ></a>
-    </div>
-  </nav>
-
-  <section class="Services-module__3bADUG__serviceSection" id="product">
-    <div class="Services-module__3bADUG__contentTitle">
-      <div class="SectionTitle-module__Svbyca__container">
-        <span
-          class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
-          >System description</span
-        >
-      </div>
-    </div>
-    <div class="Services-module__3bADUG__container">
-      <div class="Services-module__3bADUG__serviceGrid">
-        <div class="Services-module__3bADUG__textBlock">
-          <p>
+<div>
+<button class="Button-module__e7WGRa__inverseWhiteBtn Button-module__e7WGRa__size_lg" type="button">
+<span>Send inquiry</span>
+</button>
+</div>
+</div>
+</section>
+<nav class="Services-module__3bADUG__stickyNav">
+<div class="Services-module__3bADUG__navInner">
+<a class="Services-module__3bADUG__navLink" href="#product" title="Description">Description</a><a class="Services-module__3bADUG__navLink" href="#advantages" title="Advantages">Advantages</a><a class="Services-module__3bADUG__navLink" href="#applications" title="Applications">Applications</a><a class="Services-module__3bADUG__navLink" href="#components" title="Components">Components</a><a class="Services-module__3bADUG__navLink Services-module__3bADUG__activeLink" href="#gallery" title="Gallery">Gallery
+        <div class="Services-module__3bADUG__underline"></div></a>
+</div>
+</nav>
+<section class="Services-module__3bADUG__serviceSection" id="product">
+<div class="Services-module__3bADUG__contentTitle">
+<div class="SectionTitle-module__Svbyca__container">
+<span class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange">System description</span>
+</div>
+</div>
+<div class="Services-module__3bADUG__container">
+<div class="Services-module__3bADUG__serviceGrid">
+<div class="Services-module__3bADUG__textBlock">
+<p>
             An ideal solution for warehouses with homogeneous goods and a large
             number of pallets of the same type of product.
           </p>
-          <p>
+<p>
             Drive-in racking is an efficient, high-density storage system that
             allows for a significant increase in warehouse capacity by reducing
             the number of aisles. Forklifts enter directly into the rack
             channels to place or retrieve pallets, ensuring maximum use of
             available space.
           </p>
-          <p>
+<p>
             The system can be configured in two variants, Drive-in – loading and
             unloading from the same aisle and Drive-through – loading from one
             side and unloading from the opposite.
           </p>
-          <p>
+<p>
             This makes it a practical and economical solution for warehouses
             with large quantities of the same type of products.
           </p>
-        </div>
-        <div class="Services-module__3bADUG__imageWrapper">
-          <div class="Services-module__3bADUG__imagesContainer">
-            <img
-              alt="Drive-through racking system"
-              class="Services-module__3bADUG__serviceImage"
-              data-nimg="1"
-              decoding="async"
-              height="600"
-              loading="lazy"
-              src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system.webp"
-              style="color: transparent"
-              title="Drive-through racking system"
-              width="800"
-            />
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section
-    class="Services-module__3bADUG__serviceSection Services-module__3bADUG__reverse"
-    id="advantages"
-  >
-    <div class="Services-module__3bADUG__contentTitle">
-      <div class="SectionTitle-module__Svbyca__container">
-        <span
-          class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
-          >Key benefits</span
-        >
-      </div>
-    </div>
-    <div class="Services-module__3bADUG__container">
-      <div class="Services-module__3bADUG__serviceGrid">
-        <div class="Services-module__3bADUG__textBlock">
-          <p>
+</div>
+<div class="Services-module__3bADUG__imageWrapper">
+<div class="Services-module__3bADUG__imagesContainer">
+<img alt="Drive-through racking system" class="Services-module__3bADUG__serviceImage" data-nimg="1" decoding="async" height="600" loading="lazy" src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system.webp" style="color: transparent" title="Drive-through racking system" width="800"/>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="Services-module__3bADUG__serviceSection Services-module__3bADUG__reverse" id="advantages">
+<div class="Services-module__3bADUG__contentTitle">
+<div class="SectionTitle-module__Svbyca__container">
+<span class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange">Key benefits</span>
+</div>
+</div>
+<div class="Services-module__3bADUG__container">
+<div class="Services-module__3bADUG__serviceGrid">
+<div class="Services-module__3bADUG__textBlock">
+<p>
             This system allows for optimal use of both the available floor space
             and the height of the warehouse. Thanks to the high storage density,
             the capacity is significantly increased compared to conventional
             pallet racks.
           </p>
-          <p>
+<p>
             This is one of the most efficient high-density storage solutions. It
             is characterized by a simple design, quick installation and minimal
             initial investment.
           </p>
-          <p>
+<p>
             The shelving system can be configured according to the specific
             needs of the warehouse - both in terms of height and depth, and
             according to the characteristics of the stored goods.
           </p>
-          <p>
+<p>
             The system can be organized with one corridor for loading and
             unloading at the front or with two corridors – loading at the front
             and unloading at the rear, which provides greater flexibility in
             logistics processes.
           </p>
-          <p>
+<p>
             The system is designed to accommodate pallets of various sizes and
             weights, making it a versatile solution for a variety of storage
             needs.
           </p>
-        </div>
-        <div class="Services-module__3bADUG__imageWrapper">
-          <div class="Services-module__3bADUG__imagesContainer">
-            <img
-              alt="Drive-through racking system"
-              class="Services-module__3bADUG__serviceImage"
-              data-nimg="1"
-              decoding="async"
-              height="600"
-              loading="lazy"
-              src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system2.webp"
-              style="color: transparent"
-              title="Drive-through racking system"
-              width="800"
-            />
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="Services-module__3bADUG__serviceSection" id="applications">
-    <div class="Services-module__3bADUG__contentTitle">
-      <div class="SectionTitle-module__Svbyca__container">
-        <span
-          class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
-          >Areas of application</span
-        >
-      </div>
-    </div>
-    <div class="Services-module__3bADUG__container">
-      <div class="Services-module__3bADUG__serviceGrid">
-        <div class="Services-module__3bADUG__textBlock">
-          <p>
+</div>
+<div class="Services-module__3bADUG__imageWrapper">
+<div class="Services-module__3bADUG__imagesContainer">
+<img alt="Drive-through racking system" class="Services-module__3bADUG__serviceImage" data-nimg="1" decoding="async" height="600" loading="lazy" src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system2.webp" style="color: transparent" title="Drive-through racking system" width="800"/>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="Services-module__3bADUG__serviceSection" id="applications">
+<div class="Services-module__3bADUG__contentTitle">
+<div class="SectionTitle-module__Svbyca__container">
+<span class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange">Areas of application</span>
+</div>
+</div>
+<div class="Services-module__3bADUG__container">
+<div class="Services-module__3bADUG__serviceGrid">
+<div class="Services-module__3bADUG__textBlock">
+<p>
             Warehouses with a small variety of products and a large number of
             pallets. Drive-in racks are an ideal solution for companies that
             store a limited number of product types but in large quantities.
             They allow for maximum use of available warehouse space and increase
             storage capacity.
           </p>
-          <p>
+<p>
             Logistics centers in large cities. Thanks to their high storage
             density, Drive-in racks reduce the required warehouse space. This
             makes them an excellent solution for logistics centers in areas
             where warehouse space costs are high.
           </p>
-          <p>
+<p>
             Cold and freezer warehouses. Drive-in systems are widely used in
             cold storage and temperature-controlled warehouses, as they allow
             for maximum use of available space and more efficient cooling of
             stored products.
           </p>
-          <p>
+<p>
             Buffer warehouses. In a Drive-through configuration (with two
             aisles), the system can be used as a buffer warehouse, allowing
             operation on the FIFO (first in - first out) or LIFO (last in -
             first out) principles according to the needs of the logistics
             process.
           </p>
-        </div>
-        <div class="Services-module__3bADUG__imageWrapper">
-          <div class="Services-module__3bADUG__imagesContainer">
-            <img
-              alt="Drive-through racking system"
-              class="Services-module__3bADUG__serviceImage"
-              data-nimg="1"
-              decoding="async"
-              height="600"
-              loading="lazy"
-              src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system3.webp"
-              style="color: transparent"
-              title="Drive-through racking system"
-              width="800"
-            />
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section
-    class="Services-module__3bADUG__serviceSection Services-module__3bADUG__reverse"
-    id="components"
-  >
-    <div class="Services-module__3bADUG__contentTitle">
-      <div class="SectionTitle-module__Svbyca__container">
-        <span
-          class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
-          >Main components and elements</span
-        >
-      </div>
-    </div>
-    <div class="Services-module__3bADUG__container">
-      <div class="styles.serviceGrid Services-module__3bADUG__serviceGridList">
-        <div class="Services-module__3bADUG__textBlock">
-          <ul class="Services-module__3bADUG__list">
-            <li>Farm</li>
-            <li>Drive-in beam</li>
-            <li>Pallet support rail</li>
-            <li>Support rail connector</li>
-            <li>Pallet centralizer</li>
-            <li>Driver</li>
-            <li>Protector</li>
-            <li>Strengthening</li>
-            <li>Pallet limiter</li>
-          </ul>
-        </div>
-        <div class="Services-module__3bADUG__imageWrapper">
-          <img
-            alt="Drive-through racking system"
-            class="Services-module__3bADUG__serviceImageScheme"
-            data-nimg="1"
-            decoding="async"
-            height="600"
-            loading="lazy"
-            src="/assets/images/equipment/walk-through-shelving-system/drive-in-racking-scheme.webp"
-            style="color: transparent"
-            title="Drive-through racking system"
-            width="800"
-          />
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="Services-module__3bADUG__serviceSection" id="gallery">
-    <div class="Services-module__3bADUG__contentTitle">
-      <div class="SectionTitle-module__Svbyca__container">
-        <span
-          class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
-          >Gallery</span
-        >
-      </div>
-    </div>
-    <div class="Services-module__3bADUG__container">
-      <div class="Services-module__3bADUG__navigationSwiper">
-        <button
-          class="customPrev Services-module__3bADUG__navBtnSwiper"
-        ></button
-        ><button
-          class="customNext Services-module__3bADUG__navBtnSwiper"
-        ></button>
-      </div>
-      <div class="swiper" style="overflow: visible">
-        <div class="swiper-wrapper">
-          <div class="swiper-slide">
-            <div class="Services-module__3bADUG__cardSwiper">
-              <div class="Services-module__3bADUG__imageWrapperSwiper">
-                <img
-                  alt="Drive-through racking system"
-                  class="Services-module__3bADUG__imageSwiper"
-                  data-nimg="fill"
-                  decoding="async"
-                  loading="lazy"
-                  src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system1.webp"
-                  style="
+</div>
+<div class="Services-module__3bADUG__imageWrapper">
+<div class="Services-module__3bADUG__imagesContainer">
+<img alt="Drive-through racking system" class="Services-module__3bADUG__serviceImage" data-nimg="1" decoding="async" height="600" loading="lazy" src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system3.webp" style="color: transparent" title="Drive-through racking system" width="800"/>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="Services-module__3bADUG__serviceSection Services-module__3bADUG__reverse" id="components">
+<div class="Services-module__3bADUG__contentTitle">
+<div class="SectionTitle-module__Svbyca__container">
+<span class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange">Main components and elements</span>
+</div>
+</div>
+<div class="Services-module__3bADUG__container">
+<div class="styles.serviceGrid Services-module__3bADUG__serviceGridList">
+<div class="Services-module__3bADUG__textBlock">
+<ul class="Services-module__3bADUG__list">
+<li>Farm</li>
+<li>Drive-in beam</li>
+<li>Pallet support rail</li>
+<li>Support rail connector</li>
+<li>Pallet centralizer</li>
+<li>Driver</li>
+<li>Protector</li>
+<li>Strengthening</li>
+<li>Pallet limiter</li>
+</ul>
+</div>
+<div class="Services-module__3bADUG__imageWrapper">
+<img alt="Drive-through racking system" class="Services-module__3bADUG__serviceImageScheme" data-nimg="1" decoding="async" height="600" loading="lazy" src="/assets/images/equipment/walk-through-shelving-system/drive-in-racking-scheme.webp" style="color: transparent" title="Drive-through racking system" width="800"/>
+</div>
+</div>
+</div>
+</section>
+<section class="Services-module__3bADUG__serviceSection" id="gallery">
+<div class="Services-module__3bADUG__contentTitle">
+<div class="SectionTitle-module__Svbyca__container">
+<span class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange">Gallery</span>
+</div>
+</div>
+<div class="Services-module__3bADUG__container">
+<div class="Services-module__3bADUG__navigationSwiper">
+<button class="customPrev Services-module__3bADUG__navBtnSwiper"></button><button class="customNext Services-module__3bADUG__navBtnSwiper"></button>
+</div>
+<div class="swiper" style="overflow: visible">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="Services-module__3bADUG__cardSwiper">
+<div class="Services-module__3bADUG__imageWrapperSwiper">
+<img alt="Drive-through racking system" class="Services-module__3bADUG__imageSwiper" data-nimg="fill" decoding="async" loading="lazy" src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system1.webp" style="
                     position: absolute;
                     height: 100%;
                     width: 100%;
@@ -344,26 +222,17 @@ walk-through-shelving-system ---
                     right: 0;
                     bottom: 0;
                     color: transparent;
-                  "
-                  title="Drive-through racking system"
-                />
-                <div class="Services-module__3bADUG__overlaySwiper">
-                  <span></span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="Services-module__3bADUG__cardSwiper">
-              <div class="Services-module__3bADUG__imageWrapperSwiper">
-                <img
-                  alt="Drive-through racking system"
-                  class="Services-module__3bADUG__imageSwiper"
-                  data-nimg="fill"
-                  decoding="async"
-                  loading="lazy"
-                  src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system2.webp"
-                  style="
+                  " title="Drive-through racking system"/>
+<div class="Services-module__3bADUG__overlaySwiper">
+<span></span>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="Services-module__3bADUG__cardSwiper">
+<div class="Services-module__3bADUG__imageWrapperSwiper">
+<img alt="Drive-through racking system" class="Services-module__3bADUG__imageSwiper" data-nimg="fill" decoding="async" loading="lazy" src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system2.webp" style="
                     position: absolute;
                     height: 100%;
                     width: 100%;
@@ -372,26 +241,17 @@ walk-through-shelving-system ---
                     right: 0;
                     bottom: 0;
                     color: transparent;
-                  "
-                  title="Drive-through racking system"
-                />
-                <div class="Services-module__3bADUG__overlaySwiper">
-                  <span></span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="Services-module__3bADUG__cardSwiper">
-              <div class="Services-module__3bADUG__imageWrapperSwiper">
-                <img
-                  alt="Drive-through racking system"
-                  class="Services-module__3bADUG__imageSwiper"
-                  data-nimg="fill"
-                  decoding="async"
-                  loading="lazy"
-                  src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system3.webp"
-                  style="
+                  " title="Drive-through racking system"/>
+<div class="Services-module__3bADUG__overlaySwiper">
+<span></span>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="Services-module__3bADUG__cardSwiper">
+<div class="Services-module__3bADUG__imageWrapperSwiper">
+<img alt="Drive-through racking system" class="Services-module__3bADUG__imageSwiper" data-nimg="fill" decoding="async" loading="lazy" src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system3.webp" style="
                     position: absolute;
                     height: 100%;
                     width: 100%;
@@ -400,26 +260,17 @@ walk-through-shelving-system ---
                     right: 0;
                     bottom: 0;
                     color: transparent;
-                  "
-                  title="Drive-through racking system"
-                />
-                <div class="Services-module__3bADUG__overlaySwiper">
-                  <span></span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="Services-module__3bADUG__cardSwiper">
-              <div class="Services-module__3bADUG__imageWrapperSwiper">
-                <img
-                  alt="Drive-through racking system"
-                  class="Services-module__3bADUG__imageSwiper"
-                  data-nimg="fill"
-                  decoding="async"
-                  loading="lazy"
-                  src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system4.webp"
-                  style="
+                  " title="Drive-through racking system"/>
+<div class="Services-module__3bADUG__overlaySwiper">
+<span></span>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="Services-module__3bADUG__cardSwiper">
+<div class="Services-module__3bADUG__imageWrapperSwiper">
+<img alt="Drive-through racking system" class="Services-module__3bADUG__imageSwiper" data-nimg="fill" decoding="async" loading="lazy" src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system4.webp" style="
                     position: absolute;
                     height: 100%;
                     width: 100%;
@@ -428,26 +279,17 @@ walk-through-shelving-system ---
                     right: 0;
                     bottom: 0;
                     color: transparent;
-                  "
-                  title="Drive-through racking system"
-                />
-                <div class="Services-module__3bADUG__overlaySwiper">
-                  <span></span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="Services-module__3bADUG__cardSwiper">
-              <div class="Services-module__3bADUG__imageWrapperSwiper">
-                <img
-                  alt="Drive-through racking system"
-                  class="Services-module__3bADUG__imageSwiper"
-                  data-nimg="fill"
-                  decoding="async"
-                  loading="lazy"
-                  src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system5.webp"
-                  style="
+                  " title="Drive-through racking system"/>
+<div class="Services-module__3bADUG__overlaySwiper">
+<span></span>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="Services-module__3bADUG__cardSwiper">
+<div class="Services-module__3bADUG__imageWrapperSwiper">
+<img alt="Drive-through racking system" class="Services-module__3bADUG__imageSwiper" data-nimg="fill" decoding="async" loading="lazy" src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system5.webp" style="
                     position: absolute;
                     height: 100%;
                     width: 100%;
@@ -456,26 +298,17 @@ walk-through-shelving-system ---
                     right: 0;
                     bottom: 0;
                     color: transparent;
-                  "
-                  title="Drive-through racking system"
-                />
-                <div class="Services-module__3bADUG__overlaySwiper">
-                  <span></span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="Services-module__3bADUG__cardSwiper">
-              <div class="Services-module__3bADUG__imageWrapperSwiper">
-                <img
-                  alt="Drive-through racking system"
-                  class="Services-module__3bADUG__imageSwiper"
-                  data-nimg="fill"
-                  decoding="async"
-                  loading="lazy"
-                  src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system6.webp"
-                  style="
+                  " title="Drive-through racking system"/>
+<div class="Services-module__3bADUG__overlaySwiper">
+<span></span>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="Services-module__3bADUG__cardSwiper">
+<div class="Services-module__3bADUG__imageWrapperSwiper">
+<img alt="Drive-through racking system" class="Services-module__3bADUG__imageSwiper" data-nimg="fill" decoding="async" loading="lazy" src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system6.webp" style="
                     position: absolute;
                     height: 100%;
                     width: 100%;
@@ -484,26 +317,17 @@ walk-through-shelving-system ---
                     right: 0;
                     bottom: 0;
                     color: transparent;
-                  "
-                  title="Drive-through racking system"
-                />
-                <div class="Services-module__3bADUG__overlaySwiper">
-                  <span></span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="Services-module__3bADUG__cardSwiper">
-              <div class="Services-module__3bADUG__imageWrapperSwiper">
-                <img
-                  alt="Drive-through racking system"
-                  class="Services-module__3bADUG__imageSwiper"
-                  data-nimg="fill"
-                  decoding="async"
-                  loading="lazy"
-                  src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system7.webp"
-                  style="
+                  " title="Drive-through racking system"/>
+<div class="Services-module__3bADUG__overlaySwiper">
+<span></span>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="Services-module__3bADUG__cardSwiper">
+<div class="Services-module__3bADUG__imageWrapperSwiper">
+<img alt="Drive-through racking system" class="Services-module__3bADUG__imageSwiper" data-nimg="fill" decoding="async" loading="lazy" src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system7.webp" style="
                     position: absolute;
                     height: 100%;
                     width: 100%;
@@ -512,26 +336,17 @@ walk-through-shelving-system ---
                     right: 0;
                     bottom: 0;
                     color: transparent;
-                  "
-                  title="Drive-through racking system"
-                />
-                <div class="Services-module__3bADUG__overlaySwiper">
-                  <span></span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="Services-module__3bADUG__cardSwiper">
-              <div class="Services-module__3bADUG__imageWrapperSwiper">
-                <img
-                  alt="Drive-through racking system"
-                  class="Services-module__3bADUG__imageSwiper"
-                  data-nimg="fill"
-                  decoding="async"
-                  loading="lazy"
-                  src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system.webp"
-                  style="
+                  " title="Drive-through racking system"/>
+<div class="Services-module__3bADUG__overlaySwiper">
+<span></span>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="Services-module__3bADUG__cardSwiper">
+<div class="Services-module__3bADUG__imageWrapperSwiper">
+<img alt="Drive-through racking system" class="Services-module__3bADUG__imageSwiper" data-nimg="fill" decoding="async" loading="lazy" src="/assets/images/equipment/walk-through-shelving-system/walk-through-shelving-system.webp" style="
                     position: absolute;
                     height: 100%;
                     width: 100%;
@@ -540,17 +355,15 @@ walk-through-shelving-system ---
                     right: 0;
                     bottom: 0;
                     color: transparent;
-                  "
-                  title="Drive-through racking system"
-                />
-                <div class="Services-module__3bADUG__overlaySwiper">
-                  <span></span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+                  " title="Drive-through racking system"/>
+<div class="Services-module__3bADUG__overlaySwiper">
+<span></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
 </main>

@@ -11,14 +11,8 @@ tags: - equipment - electric-forklifts --- tags: - equipment -
 electric-forklifts ---
 
 <main class="Services-module__3bADUG__page">
-  <section class="Services-module__3bADUG__hero">
-    <img
-      alt="Electric forklifts"
-      class="Services-module__3bADUG__heroImage"
-      data-nimg="fill"
-      decoding="async"
-      src="/assets/images/equipment/electric-forklifts/electric-forklifts.webp"
-      style="
+<section class="Services-module__3bADUG__hero">
+<img alt="Electric forklifts" class="Services-module__3bADUG__heroImage" data-nimg="fill" decoding="async" src="/assets/images/equipment/electric-forklifts/electric-forklifts.webp" style="
         position: absolute;
         height: 100%;
         width: 100%;
@@ -27,158 +21,93 @@ electric-forklifts ---
         right: 0;
         bottom: 0;
         color: transparent;
-      "
-      title="Electric forklifts"
-    />
-    <div class="Services-module__3bADUG__overlay"></div>
-    <div class="Services-module__3bADUG__heroContent">
-      <h1>
-        Electric forklifts<span class="Services-module__3bADUG__engtitle"
-          >Electric Forklifts</span
-        >
-      </h1>
-      <h2>
+      " title="Electric forklifts"/>
+<div class="Services-module__3bADUG__overlay"></div>
+<div class="Services-module__3bADUG__heroContent">
+<h1>
+        Electric forklifts<span class="Services-module__3bADUG__engtitle">Electric Forklifts</span>
+</h1>
+<h2>
         Efficient and environmentally friendly electric forklifts designed for
         indoor use
       </h2>
-      <div>
-        <button
-          class="Button-module__e7WGRa__inverseWhiteBtn Button-module__e7WGRa__size_lg"
-          type="button"
-        >
-          <span>Send inquiry</span>
-        </button>
-      </div>
-    </div>
-  </section>
-
-  <nav class="Services-module__3bADUG__stickyNav">
-    <div class="Services-module__3bADUG__navInner">
-      <a
-        class="Services-module__3bADUG__navLink"
-        href="#elektrokar"
-        title="Linde electric forklifts"
-        >Linde electric forklifts</a
-      >
-    </div>
-  </nav>
-
-  <section
-    class="Services-module__3bADUG__serviceSection Services-module__3bADUG__reverse"
-    id="elektrokar"
-  >
-    <div class="Services-module__3bADUG__contentTitle">
-      <div class="SectionTitle-module__Svbyca__container">
-        <span
-          class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
-          >Electric forklifts</span
-        >
-      </div>
-    </div>
-    <div class="Services-module__3bADUG__container">
-      <div class="styles.serviceGrid Services-module__3bADUG__serviceGrid">
-        <div class="Services-module__3bADUG__textBlock">
-          <div class="Services-module__3bADUG__product">
-            <h3 class="Services-module__3bADUG__productTitle">
+<div>
+<button class="Button-module__e7WGRa__inverseWhiteBtn Button-module__e7WGRa__size_lg" type="button">
+<span>Send inquiry</span>
+</button>
+</div>
+</div>
+</section>
+<nav class="Services-module__3bADUG__stickyNav">
+<div class="Services-module__3bADUG__navInner">
+<a class="Services-module__3bADUG__navLink" href="#elektrokar" title="Linde electric forklifts">Linde electric forklifts</a>
+</div>
+</nav>
+<section class="Services-module__3bADUG__serviceSection Services-module__3bADUG__reverse" id="elektrokar">
+<div class="Services-module__3bADUG__contentTitle">
+<div class="SectionTitle-module__Svbyca__container">
+<span class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange">Electric forklifts</span>
+</div>
+</div>
+<div class="Services-module__3bADUG__container">
+<div class="styles.serviceGrid Services-module__3bADUG__serviceGrid">
+<div class="Services-module__3bADUG__textBlock">
+<div class="Services-module__3bADUG__product">
+<h3 class="Services-module__3bADUG__productTitle">
               Linde electric forklifts
             </h3>
-            <div class="Services-module__3bADUG__specRow">
-              <span class="Services-module__3bADUG__label">Manufacturer:</span
-              ><span class="Services-module__3bADUG__value">Linde</span>
-            </div>
-            <div>
-              <div class="Services-module__3bADUG__specRow">
-                <span class="Services-module__3bADUG__label"
-                  >Load capacity :</span
-                ><span class="Services-module__3bADUG__value"
-                  >1,400 kg - 5,000 kg</span
-                >
-              </div>
-              <div class="Services-module__3bADUG__specRow">
-                <span class="Services-module__3bADUG__label"
-                  >Lifting height :</span
-                ><span class="Services-module__3bADUG__value"
-                  >3.1 m - 5.95 m</span
-                >
-              </div>
-              <div class="Services-module__3bADUG__specRow">
-                <span class="Services-module__3bADUG__label">Options :</span
-                ><span class="Services-module__3bADUG__value">Hard cab</span>
-              </div>
-            </div>
-            <div class="Services-module__3bADUG__specRow">
-              <span class="Services-module__3bADUG__label">Condition:</span
-              ><span class="Services-module__3bADUG__value"
-                >Used / Recycled</span
-              >
-            </div>
-            <div class="Services-module__3bADUG__specRow">
-              <span class="Services-module__3bADUG__label">Price:</span
-              ><span class="Services-module__3bADUG__value">Upon request</span>
-            </div>
-            <div class="Services-module__3bADUG__specRow">
-              <span class="Services-module__3bADUG__label">Equipment:</span
-              ><span class="Services-module__3bADUG__value">Standard</span>
-            </div>
-            <div class="Services-module__3bADUG__productBtn">
-              <button
-                class="Button-module__e7WGRa__grayBtn Button-module__e7WGRa__size_lg"
-                type="button"
-              >
-                <span>Send inquiry</span>
-              </button>
-            </div>
-          </div>
-        </div>
-        <div class="Services-module__3bADUG__imageWrapper">
-          <img
-            alt="Linde electric forklifts"
-            class="Services-module__3bADUG__productImage"
-            data-nimg="1"
-            decoding="async"
-            height="600"
-            loading="lazy"
-            src="/assets/images/equipment/electric-forklifts/electric-forklifts1.webp"
-            style="color: transparent"
-            title="Linde electric forklifts"
-            width="800"
-          />
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="Services-module__3bADUG__serviceSection">
-    <div class="Services-module__3bADUG__contentTitle">
-      <div class="SectionTitle-module__Svbyca__container">
-        <span
-          class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange"
-          >Gallery</span
-        >
-      </div>
-    </div>
-    <div class="Services-module__3bADUG__container">
-      <div class="Services-module__3bADUG__navigationSwiper">
-        <button
-          class="customPrev Services-module__3bADUG__navBtnSwiper"
-        ></button
-        ><button
-          class="customNext Services-module__3bADUG__navBtnSwiper"
-        ></button>
-      </div>
-      <div class="swiper" style="overflow: visible">
-        <div class="swiper-wrapper">
-          <div class="swiper-slide">
-            <div class="Services-module__3bADUG__cardSwiper">
-              <div class="Services-module__3bADUG__imageWrapperSwiper">
-                <img
-                  alt="Electric forklifts"
-                  class="Services-module__3bADUG__imageSwiper"
-                  data-nimg="fill"
-                  decoding="async"
-                  loading="lazy"
-                  src="/assets/images/equipment/electric-forklifts/product1.webp"
-                  style="
+<div class="Services-module__3bADUG__specRow">
+<span class="Services-module__3bADUG__label">Manufacturer:</span><span class="Services-module__3bADUG__value">Linde</span>
+</div>
+<div>
+<div class="Services-module__3bADUG__specRow">
+<span class="Services-module__3bADUG__label">Load capacity :</span><span class="Services-module__3bADUG__value">1,400 kg - 5,000 kg</span>
+</div>
+<div class="Services-module__3bADUG__specRow">
+<span class="Services-module__3bADUG__label">Lifting height :</span><span class="Services-module__3bADUG__value">3.1 m - 5.95 m</span>
+</div>
+<div class="Services-module__3bADUG__specRow">
+<span class="Services-module__3bADUG__label">Options :</span><span class="Services-module__3bADUG__value">Hard cab</span>
+</div>
+</div>
+<div class="Services-module__3bADUG__specRow">
+<span class="Services-module__3bADUG__label">Condition:</span><span class="Services-module__3bADUG__value">Used / Recycled</span>
+</div>
+<div class="Services-module__3bADUG__specRow">
+<span class="Services-module__3bADUG__label">Price:</span><span class="Services-module__3bADUG__value">Upon request</span>
+</div>
+<div class="Services-module__3bADUG__specRow">
+<span class="Services-module__3bADUG__label">Equipment:</span><span class="Services-module__3bADUG__value">Standard</span>
+</div>
+<div class="Services-module__3bADUG__productBtn">
+<button class="Button-module__e7WGRa__grayBtn Button-module__e7WGRa__size_lg" type="button">
+<span>Send inquiry</span>
+</button>
+</div>
+</div>
+</div>
+<div class="Services-module__3bADUG__imageWrapper">
+<img alt="Linde electric forklifts" class="Services-module__3bADUG__productImage" data-nimg="1" decoding="async" height="600" loading="lazy" src="/assets/images/equipment/electric-forklifts/electric-forklifts1.webp" style="color: transparent" title="Linde electric forklifts" width="800"/>
+</div>
+</div>
+</div>
+</section>
+<section class="Services-module__3bADUG__serviceSection">
+<div class="Services-module__3bADUG__contentTitle">
+<div class="SectionTitle-module__Svbyca__container">
+<span class="SectionTitle-module__Svbyca__subtitle SectionTitle-module__Svbyca__big SectionTitle-module__Svbyca__orange">Gallery</span>
+</div>
+</div>
+<div class="Services-module__3bADUG__container">
+<div class="Services-module__3bADUG__navigationSwiper">
+<button class="customPrev Services-module__3bADUG__navBtnSwiper"></button><button class="customNext Services-module__3bADUG__navBtnSwiper"></button>
+</div>
+<div class="swiper" style="overflow: visible">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="Services-module__3bADUG__cardSwiper">
+<div class="Services-module__3bADUG__imageWrapperSwiper">
+<img alt="Electric forklifts" class="Services-module__3bADUG__imageSwiper" data-nimg="fill" decoding="async" loading="lazy" src="/assets/images/equipment/electric-forklifts/product1.webp" style="
                     position: absolute;
                     height: 100%;
                     width: 100%;
@@ -187,26 +116,17 @@ electric-forklifts ---
                     right: 0;
                     bottom: 0;
                     color: transparent;
-                  "
-                  title="Electric forklifts"
-                />
-                <div class="Services-module__3bADUG__overlaySwiper">
-                  <span></span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="Services-module__3bADUG__cardSwiper">
-              <div class="Services-module__3bADUG__imageWrapperSwiper">
-                <img
-                  alt="Electric forklifts"
-                  class="Services-module__3bADUG__imageSwiper"
-                  data-nimg="fill"
-                  decoding="async"
-                  loading="lazy"
-                  src="/assets/images/equipment/electric-forklifts/product2.webp"
-                  style="
+                  " title="Electric forklifts"/>
+<div class="Services-module__3bADUG__overlaySwiper">
+<span></span>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="Services-module__3bADUG__cardSwiper">
+<div class="Services-module__3bADUG__imageWrapperSwiper">
+<img alt="Electric forklifts" class="Services-module__3bADUG__imageSwiper" data-nimg="fill" decoding="async" loading="lazy" src="/assets/images/equipment/electric-forklifts/product2.webp" style="
                     position: absolute;
                     height: 100%;
                     width: 100%;
@@ -215,26 +135,17 @@ electric-forklifts ---
                     right: 0;
                     bottom: 0;
                     color: transparent;
-                  "
-                  title="Electric forklifts"
-                />
-                <div class="Services-module__3bADUG__overlaySwiper">
-                  <span></span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="Services-module__3bADUG__cardSwiper">
-              <div class="Services-module__3bADUG__imageWrapperSwiper">
-                <img
-                  alt="Electric forklifts"
-                  class="Services-module__3bADUG__imageSwiper"
-                  data-nimg="fill"
-                  decoding="async"
-                  loading="lazy"
-                  src="/assets/images/equipment/electric-forklifts/product3.webp"
-                  style="
+                  " title="Electric forklifts"/>
+<div class="Services-module__3bADUG__overlaySwiper">
+<span></span>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="Services-module__3bADUG__cardSwiper">
+<div class="Services-module__3bADUG__imageWrapperSwiper">
+<img alt="Electric forklifts" class="Services-module__3bADUG__imageSwiper" data-nimg="fill" decoding="async" loading="lazy" src="/assets/images/equipment/electric-forklifts/product3.webp" style="
                     position: absolute;
                     height: 100%;
                     width: 100%;
@@ -243,26 +154,17 @@ electric-forklifts ---
                     right: 0;
                     bottom: 0;
                     color: transparent;
-                  "
-                  title="Electric forklifts"
-                />
-                <div class="Services-module__3bADUG__overlaySwiper">
-                  <span></span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="Services-module__3bADUG__cardSwiper">
-              <div class="Services-module__3bADUG__imageWrapperSwiper">
-                <img
-                  alt="Electric forklifts"
-                  class="Services-module__3bADUG__imageSwiper"
-                  data-nimg="fill"
-                  decoding="async"
-                  loading="lazy"
-                  src="/assets/images/equipment/electric-forklifts/product4.webp"
-                  style="
+                  " title="Electric forklifts"/>
+<div class="Services-module__3bADUG__overlaySwiper">
+<span></span>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="Services-module__3bADUG__cardSwiper">
+<div class="Services-module__3bADUG__imageWrapperSwiper">
+<img alt="Electric forklifts" class="Services-module__3bADUG__imageSwiper" data-nimg="fill" decoding="async" loading="lazy" src="/assets/images/equipment/electric-forklifts/product4.webp" style="
                     position: absolute;
                     height: 100%;
                     width: 100%;
@@ -271,26 +173,17 @@ electric-forklifts ---
                     right: 0;
                     bottom: 0;
                     color: transparent;
-                  "
-                  title="Electric forklifts"
-                />
-                <div class="Services-module__3bADUG__overlaySwiper">
-                  <span></span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="Services-module__3bADUG__cardSwiper">
-              <div class="Services-module__3bADUG__imageWrapperSwiper">
-                <img
-                  alt="Electric forklifts"
-                  class="Services-module__3bADUG__imageSwiper"
-                  data-nimg="fill"
-                  decoding="async"
-                  loading="lazy"
-                  src="/assets/images/equipment/electric-forklifts/product5.webp"
-                  style="
+                  " title="Electric forklifts"/>
+<div class="Services-module__3bADUG__overlaySwiper">
+<span></span>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="Services-module__3bADUG__cardSwiper">
+<div class="Services-module__3bADUG__imageWrapperSwiper">
+<img alt="Electric forklifts" class="Services-module__3bADUG__imageSwiper" data-nimg="fill" decoding="async" loading="lazy" src="/assets/images/equipment/electric-forklifts/product5.webp" style="
                     position: absolute;
                     height: 100%;
                     width: 100%;
@@ -299,26 +192,17 @@ electric-forklifts ---
                     right: 0;
                     bottom: 0;
                     color: transparent;
-                  "
-                  title="Electric forklifts"
-                />
-                <div class="Services-module__3bADUG__overlaySwiper">
-                  <span></span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="Services-module__3bADUG__cardSwiper">
-              <div class="Services-module__3bADUG__imageWrapperSwiper">
-                <img
-                  alt="Electric forklifts"
-                  class="Services-module__3bADUG__imageSwiper"
-                  data-nimg="fill"
-                  decoding="async"
-                  loading="lazy"
-                  src="/assets/images/equipment/electric-forklifts/product6.webp"
-                  style="
+                  " title="Electric forklifts"/>
+<div class="Services-module__3bADUG__overlaySwiper">
+<span></span>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="Services-module__3bADUG__cardSwiper">
+<div class="Services-module__3bADUG__imageWrapperSwiper">
+<img alt="Electric forklifts" class="Services-module__3bADUG__imageSwiper" data-nimg="fill" decoding="async" loading="lazy" src="/assets/images/equipment/electric-forklifts/product6.webp" style="
                     position: absolute;
                     height: 100%;
                     width: 100%;
@@ -327,26 +211,17 @@ electric-forklifts ---
                     right: 0;
                     bottom: 0;
                     color: transparent;
-                  "
-                  title="Electric forklifts"
-                />
-                <div class="Services-module__3bADUG__overlaySwiper">
-                  <span></span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="swiper-slide">
-            <div class="Services-module__3bADUG__cardSwiper">
-              <div class="Services-module__3bADUG__imageWrapperSwiper">
-                <img
-                  alt="Electric forklifts"
-                  class="Services-module__3bADUG__imageSwiper"
-                  data-nimg="fill"
-                  decoding="async"
-                  loading="lazy"
-                  src="/assets/images/equipment/electric-forklifts/product7.webp"
-                  style="
+                  " title="Electric forklifts"/>
+<div class="Services-module__3bADUG__overlaySwiper">
+<span></span>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="Services-module__3bADUG__cardSwiper">
+<div class="Services-module__3bADUG__imageWrapperSwiper">
+<img alt="Electric forklifts" class="Services-module__3bADUG__imageSwiper" data-nimg="fill" decoding="async" loading="lazy" src="/assets/images/equipment/electric-forklifts/product7.webp" style="
                     position: absolute;
                     height: 100%;
                     width: 100%;
@@ -355,17 +230,15 @@ electric-forklifts ---
                     right: 0;
                     bottom: 0;
                     color: transparent;
-                  "
-                  title="Electric forklifts"
-                />
-                <div class="Services-module__3bADUG__overlaySwiper">
-                  <span></span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+                  " title="Electric forklifts"/>
+<div class="Services-module__3bADUG__overlaySwiper">
+<span></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
 </main>

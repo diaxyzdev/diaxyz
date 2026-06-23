@@ -1,4 +1,8 @@
-module.exports = function(eleventyConfig) {
+import ejsPlugin from "@11ty/eleventy-plugin-ejs";
+
+export default function(eleventyConfig) {
+  eleventyConfig.addPlugin(ejsPlugin);
+
   // Passthrough copy for next chunks and assets
   eleventyConfig.addPassthroughCopy("_next");
   eleventyConfig.addPassthroughCopy("assets");
