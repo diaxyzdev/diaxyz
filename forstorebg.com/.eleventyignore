@@ -1,4 +1,4 @@
-src/**/*.html
+src/**/*.singleFile.*.html
 **/node_modules/**
 **/build/**
 **/mirrors/**

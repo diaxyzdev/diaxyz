@@ -1,0 +1,175 @@
+/* Global Footer Styles */
+
+footer {
+  color: var(--graphite-main);
+  background: #fff;
+  padding-top: 80px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+/* Container */
+footer > div:first-of-type {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+  gap: 50px;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 24px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 1024px) {
+  footer > div:first-of-type {
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+  }
+}
+
+@media (max-width: 640px) {
+  footer > div:first-of-type {
+    grid-template-columns: 1fr;
+    padding: 0 16px;
+  }
+}
+
+/* Columns */
+footer h3 {
+  color: var(--graphite-main);
+  margin: 0 0 20px 0;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: none;
+}
+
+footer p {
+  color: var(--graphite-light2);
+  margin: 0 0 25px 0;
+  line-height: 1.6;
+  font-size: 0.95rem;
+}
+
+/* Column 1 Logo and Socials */
+footer > div:first-of-type > div:first-child a {
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+footer .social-icons {
+  display: flex;
+  gap: 0.7rem;
+  align-items: center;
+}
+
+footer .social-icons img {
+  filter: grayscale(100%);
+  height: 1.5rem;
+  transition: all 0.3s;
+  display: block;
+}
+
+footer .social-icons img:hover {
+  filter: grayscale(0%);
+}
+
+/* Navigation Lists (Column 2 & 3) */
+footer nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+footer nav ul li {
+  margin-bottom: 12px;
+}
+
+footer nav ul li a {
+  color: var(--graphite-light2);
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+footer nav ul li a:hover {
+  color: #ff6b00;
+}
+
+/* Contacts Column (Column 4) */
+footer section ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+footer section ul li {
+  color: var(--graphite-light2);
+  display: flex;
+  align-items: flex-start;
+  gap: 0.7rem;
+  margin-bottom: 12px;
+  line-height: 1.4;
+  text-align: left;
+}
+
+footer section ul li img {
+  width: 1.3rem;
+  height: 1.3rem;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+footer section ul li a {
+  color: var(--graphite-light2);
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+footer section ul li a:hover {
+  color: #ff6b00;
+}
+
+/* Bottom Bar */
+footer > div:last-of-type {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1280px;
+  margin: 4rem auto 0;
+  padding: 1.5rem 24px;
+  border-top: 1px solid #f1f5f9;
+  box-sizing: border-box;
+}
+
+footer > div:last-of-type span {
+  font-size: 0.9rem;
+  color: var(--graphite-light2);
+}
+
+footer > div:last-of-type nav {
+  display: flex;
+  gap: 25px;
+}
+
+footer > div:last-of-type nav a {
+  color: var(--graphite-light);
+  text-decoration: none;
+  transition: all 0.3s;
+  font-size: 0.9rem;
+}
+
+footer > div:last-of-type nav a:hover {
+  color: var(--graphite-main);
+}
+
+@media (max-width: 640px) {
+  footer > div:last-of-type {
+    text-align: center;
+    flex-direction: column;
+    gap: 15px;
+    padding: 1.5rem 16px;
+  }
+  footer > div:last-of-type nav {
+    flex-direction: column;
+    gap: 10px;
+  }
+}

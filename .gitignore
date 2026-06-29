@@ -3,6 +3,8 @@ tmp/
 *.tmp
 tmp.*
 forstorebg.com/**/*.html
+!forstorebg.com/src/**/*.html
+forstorebg.com/src/**/*.singleFile.*.html
 forstorebg.com/**/*.py
 
 /* Configuration artifacts */

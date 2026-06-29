@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>
+      {{ title }}
+      | FORSTORBG
+    </title>
+    <meta name="description" content="{{ description }}">
+
+    <link
+      rel="preload"
+      href="/assets/fonts/47d6d6c1e6da10b8.p.660e3587.woff2"
+      as="font"
+      crossorigin=""
+      type="font/woff2"
+    >
+    <link
+      rel="preload"
+      href="/assets/fonts/827a210979ea4704.p.5b0890a2.woff2"
+      as="font"
+      crossorigin=""
+      type="font/woff2"
+    >
+    <link
+      rel="preload"
+      href="/assets/fonts/bb835a708696869b.p.c37cd17c.woff2"
+      as="font"
+      crossorigin=""
+      type="font/woff2"
+    >
+    <link
+      rel="preload"
+      href="/assets/fonts/c825fd02acae0153.p.1692d83b.woff2"
+      as="font"
+      crossorigin=""
+      type="font/woff2"
+    >
+    <link rel="preload" as="image" href="/assets/forstore_dark_new.svg">
+    <link rel="preload" href="/assets/forstore_lite_new.svg" as="image">
+    <link
+      rel="preload"
+      href="/assets/icons/socials/facebook.svg"
+      as="image"
+    >
+    <link rel="preload" href="/assets/icons/socials/linkedin.svg" as="image">
+
+    <link rel="stylesheet" href="/assets/css/global-base.css">
+    <link rel="stylesheet" href="https://unpkg.com/sanitize.css">
+    <link rel="stylesheet" href="/assets/css/global-footer.css">
+    <link rel="stylesheet" href="/assets/css/global-header.css">
+    {% if stylesheets %}
+      {% for cssPath in stylesheets %}
+        <link rel="stylesheet" href="{{ cssPath }}">
+      {% endfor %}
+    {% endif %}
+
+    <link
+      rel="icon"
+      href="/assets/favicon-32x32.png"
+      sizes="32x32"
+      type="image/png"
+    >
+    <link
+      rel="icon"
+      href="/assets/favicon-16x16.png"
+      sizes="16x16"
+      type="image/png"
+    >
+    <link rel="icon" href="/assets/forstore_ico.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+  </head>
+  <body
+    class="google_sans_42955067-module__RzqGtG__variable raleway_5ea59cd6-module__dzsAeG__variable google_sans_42955067-module__RzqGtG__className"
+  >
+    {% include 'components/site-header.liquid' %}
+    {{ content }}
+    {% include 'components/site-footer.liquid' %}
+    {% include 'components/scroll-top-button.liquid' %}
+    <script src="/app.js"></script>
+  </body>
+</html>

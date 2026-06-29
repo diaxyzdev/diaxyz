@@ -1,4 +1,4 @@
-export const config = {
+ export default {
   /**
    * Print semicolons at the ends of statements.
    * @default true
@@ -133,9 +133,12 @@ export const config = {
    * @default false
    * @deprecated use bracketSameLine instead
    */
-  jsxBracketSameLine: false,
+  bracketSameLine: false,
   /**
    * Arbitrary additional values on an options object are always allowed.
    */
   // [_: string]: unknown;
+   plugins: [
+     "@shopify/prettier-plugin-liquid"
+   ]
 };

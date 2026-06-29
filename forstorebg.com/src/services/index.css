@@ -1,0 +1,332 @@
+/* Services index.css */
+
+/* Hero Container */
+main > header {
+  color: #fff;
+  min-height: 80vh;
+  padding: 140px 24px 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  position: relative;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@media (min-width: 1280px) {
+  main > header {
+    padding-left: calc((100% - 1280px) / 2 + 24px);
+    padding-right: calc((100% - 1280px) / 2 + 24px);
+  }
+}
+
+
+main > header h1,
+main > header p,
+main header button,
+main header a {
+  position: relative;
+  z-index: 2;
+}
+
+main > header::before {
+  content: "";
+  background-image: linear-gradient(#00000080, #000000b3);
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+main > header > img {
+  object-fit: cover;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+}
+
+
+
+main > header h1 {
+  max-width: 850px;
+  letter-spacing: -2%;
+  flex-direction: column;
+  margin: 20px 0;
+  font-size: clamp(28px, 4vw, 42px);
+  line-height: 1.2;
+  display: flex;
+  font-weight: 700;
+  font-family: var(--font-raleway), sans-serif;
+}
+
+main > header p {
+  letter-spacing: 1px;
+  text-align: left;
+  width: 100%;
+  max-width: 750px;
+  padding-bottom: 2rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0;
+  line-height: 1.6;
+}
+
+main header button {
+  background-color: var(--primary-orange);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 24px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+main header button:hover {
+  background-color: #e25c05;
+}
+
+/* Sticky Navigation */
+main > nav {
+  z-index: 100;
+  scroll-snap-type: x mandatory;
+  background: #f7f8fa;
+  border-bottom: 1px solid #eee;
+  transition: background .3s;
+  position: sticky;
+  top: 5rem;
+}
+
+main > nav ul {
+  scrollbar-width: none;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  gap: 28px;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 18px 40px;
+  display: flex;
+  position: relative;
+  overflow-x: auto;
+  list-style: none;
+}
+
+main > nav ul::-webkit-scrollbar {
+  display: none;
+}
+
+main > nav ul li {
+  scroll-snap-align: center;
+}
+
+main > nav ul li a {
+  color: #888;
+  white-space: nowrap;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all .2s;
+  text-transform: capitalize;
+}
+
+main > nav ul li a:hover {
+  color: var(--primary-orange);
+}
+
+/* Service Sections */
+main > section {
+  background-color: #f9fafb;
+}
+
+main > section:nth-of-type(even) {
+  background-color: #ffffff;
+}
+
+main > section {
+  padding: 100px 24px;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: 1.25fr 1fr;
+  grid-auto-rows: max-content;
+  align-content: center;
+  align-items: center;
+  gap: 0 4.5rem;
+  scroll-margin-top: 8rem;
+}
+
+@media (min-width: 1200px) {
+  main > section {
+    padding-left: calc((100% - 1200px) / 2 + 24px);
+    padding-right: calc((100% - 1200px) / 2 + 24px);
+  }
+}
+
+main > section > h1,
+main > section > h2,
+main > section > p,
+main > section > ul,
+main > section > ol,
+main > section > div {
+  grid-column: 1;
+}
+
+main > section > img {
+  grid-column: 2;
+  grid-row: 1 / span 10;
+}
+
+main > section:nth-of-type(even) > h1,
+main > section:nth-of-type(even) > h2,
+main > section:nth-of-type(even) > p,
+main > section:nth-of-type(even) > ul,
+main > section:nth-of-type(even) > ol,
+main > section:nth-of-type(even) > div {
+  grid-column: 2;
+}
+
+main > section:nth-of-type(even) > img {
+  grid-column: 1;
+  grid-row: 1 / span 10;
+}
+
+
+
+
+
+main > section > h1 {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #9ca3af;
+  line-height: 1;
+  border-left: 3px solid var(--primary-orange);
+  padding-left: 8px;
+  letter-spacing: 0.1em;
+  display: inline-flex;
+  align-items: center;
+}
+
+main > section > h2 {
+  color: #111827;
+  margin-top: 10px;
+  margin-bottom: 24px;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.15;
+  font-family: var(--font-raleway), sans-serif;
+}
+
+main > section > p {
+  color: #4b5563;
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 1.05rem;
+  line-height: 1.625;
+}
+
+main > section > ul {
+  padding: 0;
+  list-style: none;
+  margin: 0 0 20px 0;
+}
+
+main > section > ul li {
+  color: #555;
+  margin-bottom: 10px;
+  padding-left: 20px;
+  position: relative;
+  font-size: 1rem;
+}
+
+main > section > ul li::before {
+  content: "•";
+  color: var(--primary-orange);
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+  position: absolute;
+}
+
+/* Service Images with rounded corners and shadow */
+main > section > img {
+  object-fit: cover;
+  aspect-ratio: 3/2;
+  border-radius: 1rem;
+  width: 100%;
+  height: auto;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.05);
+}
+
+/* CTA Section */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Media Queries */
+@media (max-width: 1024px) {
+  
+  main > nav ul {
+    gap: 20px;
+    padding: 16px 24px;
+  }
+  
+  
+  main > section > h2 {
+    font-size: 1.85rem;
+  }
+}
+
+@media (max-width: 768px) {
+  main > header {
+    min-height: 80dvh;
+  }
+  
+  
+  
+  main > nav {
+    top: 4rem;
+  }
+  main > nav ul {
+    gap: 16px;
+    padding: 16px;
+  }
+  main > nav ul li a {
+    font-size: 1rem;
+  }
+  main > section {
+    grid-template-columns: 1fr;
+    row-gap: 0;
+    padding: 64px 16px;
+    scroll-margin-top: 7rem;
+  }
+  main > section > h1,
+  main > section > h2,
+  main > section > p,
+  main > section > ul,
+  main > section > ol,
+  main > section > div,
+  main > section > img {
+    grid-column: auto;
+    grid-row: auto;
+  }
+  main > section > img {
+    margin-top: 28px;
+  }
+  
+}

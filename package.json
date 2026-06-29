@@ -5,5 +5,9 @@
   "workspaces": [
     "lib/translate",
     "forstorebg.com"
-  ]
+  ],
+  "devDependencies": {
+    "@shopify/prettier-plugin-liquid": "1.10.3",
+    "prettier": "3.9.4"
+  }
 }

@@ -1,0 +1,461 @@
+/* About Us index.css */
+
+/* Hero Container */
+main > header {
+  color: #fff;
+  min-height: 80vh;
+  padding: 140px 24px 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  position: relative;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@media (min-width: 1280px) {
+  main > header {
+    padding-left: calc((100% - 1280px) / 2 + 24px);
+    padding-right: calc((100% - 1280px) / 2 + 24px);
+  }
+}
+
+
+main > header h1,
+main > header p,
+main header button,
+main header a {
+  position: relative;
+  z-index: 2;
+}
+
+main > header::before {
+  content: "";
+  background-image: linear-gradient(#00000080, #000000b3);
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+main > header > img {
+  object-fit: cover;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+}
+
+
+
+main > header h1 {
+  max-width: 850px;
+  letter-spacing: -2%;
+  flex-direction: column;
+  margin: 20px 0;
+  font-size: clamp(28px, 4vw, 42px);
+  line-height: 1.2;
+  display: flex;
+  font-weight: 700;
+  font-family: var(--font-raleway), sans-serif;
+}
+
+main > header p {
+  letter-spacing: 1px;
+  text-align: left;
+  width: 100%;
+  max-width: 750px;
+  padding-bottom: 2rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0;
+  line-height: 1.6;
+}
+
+main header button {
+  background-color: var(--primary-orange);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 24px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+main header button:hover {
+  background-color: #e25c05;
+}
+
+/* Mission Section styling */
+main > section.mission {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 80px 24px;
+  box-sizing: border-box;
+}
+
+main > section.mission > header > h1 {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #94a3b8;
+  line-height: 1;
+  border-left: 3px solid var(--primary-orange);
+  padding-left: 8px;
+  letter-spacing: 0.1em;
+  margin-bottom: 24px;
+  text-transform: uppercase;
+}
+
+main > section.mission > div {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+main > section.mission > div > div {
+  background-color: #f8fafc;
+  padding: 40px;
+  border-radius: 1rem;
+  border: 1px solid #f1f5f9;
+  box-shadow:
+    0 15px 30px -10px rgba(0, 0, 0, 0.04),
+    0 5px 15px -5px rgba(0, 0, 0, 0.02);
+  box-sizing: border-box;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+main > section.mission > div > div:hover {
+  transform: translateY(-6px);
+  box-shadow:
+    0 25px 50px -12px rgba(0, 0, 0, 0.08),
+    0 10px 20px -8px rgba(0, 0, 0, 0.04);
+}
+
+main > section.mission > div > div h2 {
+  font-size: 1.5rem;
+  color: #1e293b;
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-weight: 700;
+  font-family: var(--font-raleway), sans-serif;
+}
+
+main > section.mission > div > div p {
+  color: #4b5563;
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Philosophy Section styling */
+main > section.philosophy {
+  background-color: #f8fafc;
+  padding: 80px 24px;
+}
+
+main > section.philosophy > header {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+main > section.philosophy > header > h1 {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #94a3b8;
+  line-height: 1;
+  border-left: 3px solid var(--primary-orange);
+  padding-left: 8px;
+  letter-spacing: 0.1em;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+
+main > section.philosophy > header > h2 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  color: #1e293b;
+  margin-top: 8px;
+  margin-bottom: 40px;
+  font-family: var(--font-raleway), sans-serif;
+}
+
+main > section.philosophy > div {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+}
+
+main > section.philosophy > div > div {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 1rem;
+  box-shadow:
+    0 15px 30px -10px rgba(0, 0, 0, 0.05),
+    0 5px 15px -5px rgba(0, 0, 0, 0.03);
+  border: 1px solid #f1f5f9;
+  box-sizing: border-box;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+main > section.philosophy > div > div:hover {
+  transform: translateY(-8px);
+  box-shadow:
+    0 30px 60px -15px rgba(0, 0, 0, 0.12),
+    0 15px 30px -10px rgba(0, 0, 0, 0.08);
+}
+
+main > section.philosophy > div > div h3 {
+  font-size: 1.5rem;
+  color: #1e293b;
+  margin-top: 0;
+  margin-bottom: 12px;
+  font-weight: 700;
+}
+
+main > section.philosophy > div > div p {
+  color: #4b5563;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin: 0 0 12px 0;
+}
+
+main > section.philosophy > div > div p:last-child {
+  margin-bottom: 0;
+  color: #64748b;
+}
+
+/* Process Section styling */
+main > section.process {
+  padding: 80px 24px;
+  background-color: #ffffff;
+}
+
+main > section.process > header {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+main > section.process > header > h1 {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #94a3b8;
+  line-height: 1;
+  border-left: 3px solid var(--primary-orange);
+  padding-left: 8px;
+  letter-spacing: 0.1em;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+
+main > section.process > header > h2 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  color: #1e293b;
+  margin-top: 8px;
+  margin-bottom: 60px;
+  font-family: var(--font-raleway), sans-serif;
+}
+
+main > section.process > div {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+}
+
+main > section.process > div > div {
+  position: relative;
+  padding: 0;
+  background: transparent;
+  border-radius: 0;
+}
+
+main > section.process > div > div h2 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  color: transparent;
+  -webkit-text-stroke: 1.5px var(--primary-orange);
+  margin: 0;
+  line-height: 1;
+  background-color: #ffffff;
+  display: inline-block;
+  position: relative;
+  z-index: 2;
+  padding-right: 15px;
+}
+
+main > section.process > div > div hr {
+  position: absolute;
+  top: 2.25rem;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+  border: 0;
+  height: 2px;
+  background-color: #cbd5e1;
+  margin: 0;
+}
+
+main > section.process > div > div:not(:last-child) hr {
+  width: calc(100% + 2rem - 8px);
+}
+
+main > section.process > div > div:last-child hr {
+  background: linear-gradient(
+    to right,
+    #cbd5e1 0%,
+    #cbd5e1 50%,
+    transparent 100%
+  );
+}
+
+main > section.process > div > div h3 {
+  font-size: 1.25rem;
+  color: #1e293b;
+  margin-top: 24px;
+  margin-bottom: 12px;
+  font-weight: 700;
+}
+
+main > section.process > div > div p {
+  color: #64748b;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Stats Section styling */
+main > section.stats {
+  background-color: #333;
+  background-image:
+    linear-gradient(#ffffff08 1px, #0000 1px),
+    linear-gradient(90deg, #ffffff08 1px, #0000 1px);
+  background-size: 40px 40px;
+  color: #fff;
+  padding: 100px 24px;
+}
+
+main > section.stats > header {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+main > section.stats > header > h1 {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #94a3b8;
+  line-height: 1;
+  border-left: 3px solid var(--primary-orange);
+  padding-left: 8px;
+  letter-spacing: 0.1em;
+  margin-bottom: 60px;
+  text-transform: uppercase;
+}
+
+main > section.stats > div {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+}
+
+main > section.stats > div > div {
+  text-align: center;
+}
+
+main > section.stats > div > div h2 {
+  font-size: 4.5rem;
+  font-weight: 800;
+  color: #ffffff;
+  margin-top: 0;
+  margin-bottom: 16px;
+  line-height: 1;
+  font-family: var(--font-raleway), sans-serif;
+}
+
+main > section.stats > div > div p {
+  color: #94a3b8;
+  font-size: 0.95rem;
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* CTA Section styling */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Media Queries */
+@media (max-width: 768px) {
+  main > header {
+    min-height: 80dvh;
+  }
+  
+  main > section.mission {
+    padding: 64px 16px;
+  }
+  main > section.mission > header > h1 {
+    font-size: 1.85rem;
+    margin-bottom: 30px;
+  }
+  main > section.mission > div {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  main > section.philosophy,
+  main > section.process,
+  main > section.stats {
+    padding: 64px 16px;
+  }
+  main > section.philosophy > header > h2 {
+    font-size: 1.85rem;
+    margin-bottom: 30px;
+  }
+  main > section.philosophy > div {
+    grid-template-columns: 1fr;
+  }
+  main > section.process > div {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+  main > section.process > div > div hr {
+    display: none;
+  }
+  main > section.stats > div {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 3rem 1.5rem;
+  }
+}
+
+/* Icon styling for SVG images */
+main > section.mission > div > div > img.icon,
+main > section.philosophy > div > div > img.icon {
+  width: 48px;
+  height: 48px;
+  margin-bottom: 15px;
+  display: block;
+}

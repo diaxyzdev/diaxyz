@@ -1,0 +1,118 @@
+---
+layout: layouts/base.liquid
+title: "Warehouse Systems & Equipment"
+description: "Explore our comprehensive range of warehouse systems, static and dynamic racking, lifting equipment, and spare parts designed to optimize your logistics operations."
+stylesheets:
+  - "/assets/css/products-common.css"
+---
+
+<main>
+  <header class="product-hero">
+    <h1 class="product-hero-title">
+      Warehouse Systems and
+      <strong> Equipment </strong>
+    </h1>
+    <p class="product-hero-desc">
+      High-quality storage solutions, racking systems, lifting equipment, and
+      spare parts designed to optimize your warehouse efficiency and safety.
+    </p>
+    <button
+      class="product-hero-btn"
+      type="button"
+      onclick="
+        document
+          .getElementById('categories')
+          .scrollIntoView({ behavior: 'smooth' })
+      "
+    >
+      Explore categories
+    </button>
+    <img
+      alt="hero_equipment"
+      class="product-hero-bg"
+      decoding="async"
+      src="/assets/images/hero_equipment.webp"
+      title="Warehouse Equipment"
+    />
+  </header>
+
+  <div id="categories">
+    <section class="product-section" id="static-racks">
+      <h1 class="product-section-title">Static Racks</h1>
+      <p class="product-section-text">
+        Conventional pallet racking, cantilever systems, racks for manual
+        service, and mezzanine floor structures designed to maximize your
+        storage space, accessibility, and inventory control.
+      </p>
+      <a class="product-section-btn" href="/products/static-racks/"
+        >View Static Racks</a
+      >
+      <img
+        alt="Static Racks"
+        class="product-section-image"
+        decoding="async"
+        src="/assets/images/products/static-racks/conventional-pallet-racking/conventional-pallet-racking.webp"
+        title="Static Racks"
+      />
+    </section>
+
+    <section class="product-section reverse" id="dynamic-racks">
+      <h1 class="product-section-title">Dynamic Racks</h1>
+      <p class="product-section-text">
+        Gravity-flow pallet systems, compact mobile racking, radio shuttle
+        systems, and autonomous mobile robots (AMRs) that automate inventory
+        flow, reduce cycle times, and optimize density.
+      </p>
+      <a class="product-section-btn" href="/products/dynamic-racks/"
+        >View Dynamic Racks</a
+      >
+      <img
+        alt="Dynamic Racks"
+        class="product-section-image"
+        decoding="async"
+        src="/assets/images/products/dynamic-racks/compact-storage-system/compact-storage-system.webp"
+        title="Dynamic Racks"
+      />
+    </section>
+
+    <section class="product-section" id="lifting-equipment">
+      <h1 class="product-section-title">Lifting Equipment</h1>
+      <p class="product-section-text">
+        Electric and gas forklifts, stackers, reach trucks, manual/electric
+        pallet trucks, and scissor platforms to ensure fast, safe, and efficient
+        transportation of goods in any facility.
+      </p>
+      <a class="product-section-btn" href="/products/lifting-equipment/"
+        >View Lifting Equipment</a
+      >
+      <img
+        alt="Lifting Equipment"
+        class="product-section-image"
+        decoding="async"
+        src="/assets/images/products/lifting-equipment/forklifts-and-gas-trucks/forklifts-and-gas-trucks.webp"
+        title="Lifting Equipment"
+      />
+    </section>
+
+    <section class="product-section reverse" id="spare-parts">
+      <h1 class="product-section-title">Spare Parts & Consumables</h1>
+      <p class="product-section-text">
+        Ensure continuous operation and zero downtime with our wide range of
+        premium forklift spare parts, traction batteries, battery chargers,
+        industrial tires, and heavy-duty wheels.
+      </p>
+      <a
+        class="product-section-btn"
+        href="/products/spare-parts-and-consumables/"
+        >View Spare Parts</a
+      >
+      <img
+        alt="Spare Parts & Consumables"
+        class="product-section-image"
+        decoding="async"
+        src="/assets/images/products/spare-parts-and-consumables/img_2_ab7f35d015.webp"
+        title="Spare Parts and Consumables"
+      />
+    </section>
+  </div>
+</main>

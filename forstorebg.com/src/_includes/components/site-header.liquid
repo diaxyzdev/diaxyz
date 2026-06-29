@@ -1,0 +1,237 @@
+<header class="{% if page.url != '/' %}light{% endif %}">
+  <div>
+    <a href="/">
+      <img
+        src="{% if page.url != '/' %}/assets/forstore_lite_new.svg{% else %}/assets/forstore_dark_new.svg{% endif %}"
+        alt="Logo Forstor BG"
+        title="Logo Forstor BG"
+        width="207"
+        height="40"
+      >
+    </a>
+    <nav>
+      <!-- Mobile burger button -->
+      <button
+        aria-label="Toggle menu"
+        id="burger-menu-btn"
+        class="{% if page.url != '/' %}light{% else %}dark{% endif %}"
+      >
+        <img
+          id="burger-icon"
+          src="/assets/icons/menu.svg"
+          alt="Menu"
+          width="40"
+          height="40"
+        >
+      </button>
+
+      <!-- Navigation Menu -->
+      <div id="nav-menu">
+        <div class="nav-item">
+          <div>
+            <a title="Equipment" href="/products/">
+              <span class="nav-link {% if page.url != '/' %}light{% else %}dark{% endif %} {% if page.url contains '/products/' %}active{% endif %}"
+                >Products</span
+              >
+            </a>
+            <button
+              aria-label="Toggle Equipment"
+              id="dropdown-toggle-btn"
+            >
+              <img
+                src="/assets/icons/chevron-down.svg"
+                alt="Dropdown"
+                class="nav-icon {% if page.url != '/' %}light{% else %}dark{% endif %}"
+                width="16"
+                height="16"
+              >
+            </button>
+          </div>
+          <nav id="dropdown-menu">
+            <a title="Static racks" class="dropdown-link dropdown-heading" href="/products/static-racks/"
+              >Static racks</a
+            >
+            <a
+              title="Standard pallet system"
+              class="dropdown-link"
+              href="/products/static-racks/standard-pallet-system/"
+              >Standard pallet system</a
+            >
+            <a
+              title="Walk-through shelving system"
+              class="dropdown-link"
+              href="/products/static-racks/walk-through-shelving-system/"
+              >Walk-through shelving system</a
+            >
+            <a
+              title="Racks for manual service"
+              class="dropdown-link"
+              href="/products/static-racks/racks-for-manual-service/"
+              >Racks for manual service</a
+            >
+            <a title="Cantilever racks" class="dropdown-link" href="/products/static-racks/cantilever-racks/"
+              >Cantilever racks</a
+            >
+            <a title="Mezzanine type racks" class="dropdown-link" href="/products/static-racks/mezzanine-type-racks/"
+              >Mezzanine type racks</a
+            >
+            <a title="Super 1-2-3" class="dropdown-link" href="/products/static-racks/super-123/">Super 1-2-3</a>
+            <a title="Commercial equipment" class="dropdown-link" href="/products/static-racks/commercial-equipment/"
+              >Commercial equipment</a
+            >
+
+            <a title="Dynamic racks" class="dropdown-link dropdown-heading" href="/products/dynamic-racks/"
+              >Dynamic racks</a
+            >
+            <a
+              title="Compact storage system"
+              class="dropdown-link"
+              href="/products/dynamic-racks/compact-storage-system/"
+              >Compact storage system</a
+            >
+            <a
+              title="Radio shuttle rack system"
+              class="dropdown-link"
+              href="/products/dynamic-racks/radio-shuttle-racking-system/"
+              >Radio shuttle rack system</a
+            >
+            <a
+              title="Autonomous Mobile Robots (AMRs)"
+              class="dropdown-link"
+              href="/products/dynamic-racks/autonomous-mobile-robots/"
+              >Autonomous Mobile Robots (AMRs)</a
+            >
+            <a title="Gravity pallet racks" class="dropdown-link" href="/products/dynamic-racks/pallet-flow-racking/"
+              >Gravity pallet racks</a
+            >
+            <a
+              title="Push-Back pallet racks"
+              class="dropdown-link"
+              href="/products/dynamic-racks/push-back-pallet-racking/"
+              >Push-Back pallet racks</a
+            >
+            <a
+              title="Gravity system for cartons and boxes"
+              class="dropdown-link"
+              href="/products/dynamic-racks/gravity-system-for-cartons-and-boxes/"
+              >Gravity system for cartons and boxes</a
+            >
+            <a title="Mobile archive system" class="dropdown-link" href="/products/dynamic-racks/mobile-archive-system/"
+              >Mobile archive system</a
+            >
+            <a
+              title="Self-supporting warehouses"
+              class="dropdown-link"
+              href="/products/dynamic-racks/self-supporting-warehouses/"
+              >Self-supporting warehouses</a
+            >
+
+            <a title="Lifting Equipment" class="dropdown-link dropdown-heading" href="/products/lifting-equipment/"
+              >Lifting Equipment</a
+            >
+            <a
+              title="Forklifts and gas trucks"
+              class="dropdown-link"
+              href="/products/lifting-equipment/forklifts-and-gas-trucks/"
+              >Forklifts and gas trucks</a
+            >
+            <a title="Electric cars" class="dropdown-link" href="/products/lifting-equipment/electric-forklifts/"
+              >Electric cars</a
+            >
+            <a title="Richtracs" class="dropdown-link" href="/products/lifting-equipment/reach-trucks/">Richtracs</a>
+            <a title="Stackers" class="dropdown-link" href="/products/lifting-equipment/stackers/">Stackers</a>
+            <a
+              title="Electric pallet trucks"
+              class="dropdown-link"
+              href="/products/lifting-equipment/electric-pallet-trucks/"
+              >Electric pallet trucks</a
+            >
+            <a
+              title="Manual pallet trucks"
+              class="dropdown-link"
+              href="/products/lifting-equipment/manual-pallet-trucks/"
+              >Manual pallet trucks</a
+            >
+            <a title="Scissor platforms" class="dropdown-link" href="/products/lifting-equipment/scissor-platforms/"
+              >Scissor platforms</a
+            >
+
+            <a
+              title="Spare parts and consumables"
+              class="dropdown-link dropdown-heading"
+              href="/products/spare-parts-and-consumables/"
+              >Spare parts and consumables</a
+            >
+            <a title="Spare parts" class="dropdown-link" href="/products/spare-parts-and-consumables/spare-parts/"
+              >Spare parts</a
+            >
+            <a
+              title="Traction batteries and chargers"
+              class="dropdown-link"
+              href="/products/spare-parts-and-consumables/traction-batteries-and-chargers/"
+              >Traction batteries and chargers</a
+            >
+            <a
+              title="Industrial tires and wheels"
+              class="dropdown-link"
+              href="/products/spare-parts-and-consumables/industrial-tires-and-wheels/"
+              >Industrial tires and wheels</a
+            >
+          </nav>
+        </div>
+
+        <div class="nav-item">
+          <div>
+            <a title="Services" href="/services/">
+              <span class="nav-link {% if page.url != '/' %}light{% else %}dark{% endif %} {% if page.url contains '/services/' %}active{% endif %}"
+                >Services</span
+              >
+            </a>
+          </div>
+        </div>
+
+        <div class="nav-item">
+          <div>
+            <a title="Projects" href="/projects/">
+              <span class="nav-link {% if page.url != '/' %}light{% else %}dark{% endif %} {% if page.url contains '/projects/' %}active{% endif %}"
+                >Projects</span
+              >
+            </a>
+          </div>
+        </div>
+
+        <div class="nav-item">
+          <div>
+            <a title="Contacts" href="/contact/">
+              <span class="nav-link {% if page.url != '/' %}light{% else %}dark{% endif %} {% if page.url contains '/contact/' %}active{% endif %}"
+                >Contact us</span
+              >
+            </a>
+          </div>
+        </div>
+
+        <div class="nav-item">
+          <div>
+            <a title="About us" href="/about/">
+              <span class="nav-link {% if page.url != '/' %}light{% else %}dark{% endif %} {% if page.url contains '/about/' %}active{% endif %}"
+                >About</span
+              >
+            </a>
+          </div>
+        </div>
+
+        <button type="button" class="phone-btn">
+          <span>
+            <img
+              src="/assets/icons/phone-orange.svg"
+              alt="Phone"
+              width="20"
+              height="20"
+            >
+          </span>
+          <span>+359 877 486 644</span>
+        </button>
+      </div>
+    </nav>
+  </div>
+</header>

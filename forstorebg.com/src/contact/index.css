@@ -1,0 +1,73 @@
+@import "/assets/css/contact-section.css";
+
+/* Contact Page Specific Styles */
+
+/* Hero Header styling */
+main > header {
+  color: #fff;
+  min-height: 50vh;
+  padding: 140px 24px 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  position: relative;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@media (min-width: 1280px) {
+  main > header {
+    padding-left: calc((100% - 1280px) / 2 + 24px);
+    padding-right: calc((100% - 1280px) / 2 + 24px);
+  }
+}
+
+/* Dark overlay dynamically added using pseudo-element */
+main > header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: linear-gradient(#00000080, #000000b3);
+  z-index: 1;
+}
+
+main > header h1 {
+  position: relative;
+  z-index: 2;
+  max-width: 850px;
+  letter-spacing: -2%;
+  margin: 20px 0 10px 0;
+  font-size: clamp(28px, 4vw, 42px);
+  line-height: 1.2;
+  font-weight: 700;
+  font-family: var(--font-raleway), sans-serif;
+}
+
+main > header p {
+  position: relative;
+  z-index: 2;
+  text-align: left;
+  width: 100%;
+  max-width: 750px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6;
+  margin: 0 0 10px 0;
+}
+
+main > header p:last-of-type {
+  margin-bottom: 0;
+}
+
+main > header img {
+  object-fit: cover;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+}
